@@ -32,6 +32,7 @@ const questions = [
 function App() {
   const [answers, setAnswers] = useState<Record<string, string>>({})
   const [submitted, setSubmitted] = useState(false)
+  const [currentIndex, setCurrentIndex] = useState(0)
 
   const completion = useMemo(() => {
     const answered = questions.filter((question) => answers[question.id]).length
@@ -42,10 +43,20 @@ function App() {
     }
   }, [answers])
 
+  const currentQuestion = questions[currentIndex]
+  const isLastQuestion = currentIndex === questions.length - 1
+
   const handleSelect = (questionId: string, option: string) => {
     setAnswers((prev) => ({ ...prev, [questionId]: option }))
     if (submitted) {
       setSubmitted(false)
+    }
+    if (questionId === currentQuestion.id) {
+      if (isLastQuestion) {
+        setSubmitted(true)
+      } else {
+        setCurrentIndex((prev) => Math.min(prev + 1, questions.length - 1))
+      }
     }
   }
 
@@ -57,6 +68,7 @@ function App() {
   const handleReset = () => {
     setAnswers({})
     setSubmitted(false)
+    setCurrentIndex(0)
   }
 
   return (
@@ -84,16 +96,16 @@ function App() {
         </div>
       </header>
 
-      <form className="questionnaire" onSubmit={handleSubmit}>
-        {questions.map((question, index) => (
-          <fieldset className="question" key={question.id}>
+      {!submitted && (
+        <form className="questionnaire" onSubmit={handleSubmit}>
+          <fieldset className="question" key={currentQuestion.id}>
             <legend>
-              <span className="question-index">Q{index + 1}</span>
-              {question.prompt}
+              <span className="question-index">Q{currentIndex + 1}</span>
+              {currentQuestion.prompt}
             </legend>
             <div className="options">
-              {question.options.map((option) => {
-                const optionId = `${question.id}-${option
+              {currentQuestion.options.map((option) => {
+                const optionId = `${currentQuestion.id}-${option
                   .toLowerCase()
                   .replace(/\s+/g, '-')}`
                 return (
@@ -101,10 +113,10 @@ function App() {
                     <input
                       id={optionId}
                       type="radio"
-                      name={question.id}
+                      name={currentQuestion.id}
                       value={option}
-                      checked={answers[question.id] === option}
-                      onChange={() => handleSelect(question.id, option)}
+                      checked={answers[currentQuestion.id] === option}
+                      onChange={() => handleSelect(currentQuestion.id, option)}
                     />
                     <span>{option}</span>
                   </label>
@@ -112,21 +124,31 @@ function App() {
               })}
             </div>
           </fieldset>
-        ))}
 
-        <div className="actions">
-          <button
-            className="primary"
-            type="submit"
-            disabled={completion.answered !== completion.total}
-          >
-            See my results
-          </button>
-          <button className="secondary" type="button" onClick={handleReset}>
-            Reset answers
-          </button>
-        </div>
-      </form>
+          <div className="actions">
+            <button
+              className="secondary"
+              type="button"
+              onClick={() => setCurrentIndex((prev) => Math.max(prev - 1, 0))}
+              disabled={currentIndex === 0}
+            >
+              Back
+            </button>
+            {isLastQuestion && (
+              <button
+                className="primary"
+                type="submit"
+                disabled={completion.answered !== completion.total}
+              >
+                See my results
+              </button>
+            )}
+            <button className="ghost" type="button" onClick={handleReset}>
+              Reset answers
+            </button>
+          </div>
+        </form>
+      )}
 
       {submitted && (
         <section className="summary">
@@ -139,6 +161,21 @@ function App() {
               </li>
             ))}
           </ul>
+          <div className="actions">
+            <button
+              className="secondary"
+              type="button"
+              onClick={() => {
+                setSubmitted(false)
+                setCurrentIndex(questions.length - 1)
+              }}
+            >
+              Edit answers
+            </button>
+            <button className="ghost" type="button" onClick={handleReset}>
+              Start over
+            </button>
+          </div>
           <p className="summary-note">
             This is a starting point. You can export a checklist once you have
             your answers confirmed.
