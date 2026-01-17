@@ -1,4 +1,4 @@
-import { useMemo, useState, type FormEvent } from 'react'
+import { useMemo, useState } from 'react'
 import './App.css'
 
 const questions = [
@@ -29,10 +29,13 @@ const questions = [
   },
 ]
 
+type View = 'questionnaire' | 'snapshot' | 'score'
+
 function App() {
   const [answers, setAnswers] = useState<Record<string, string>>({})
-  const [submitted, setSubmitted] = useState(false)
   const [currentIndex, setCurrentIndex] = useState(0)
+  const [view, setView] = useState<View>('questionnaire')
+  const [resultScore, setResultScore] = useState<number | null>(null)
 
   const completion = useMemo(() => {
     const answered = questions.filter((question) => answers[question.id]).length
@@ -46,30 +49,38 @@ function App() {
   const currentQuestion = questions[currentIndex]
   const isLastQuestion = currentIndex === questions.length - 1
 
+  const goToSnapshot = () => {
+    setView('snapshot')
+  }
+
   const handleSelect = (questionId: string, option: string) => {
     setAnswers((prev) => ({ ...prev, [questionId]: option }))
-    if (submitted) {
-      setSubmitted(false)
-    }
     if (questionId === currentQuestion.id) {
       if (isLastQuestion) {
-        setSubmitted(true)
+        goToSnapshot()
       } else {
         setCurrentIndex((prev) => Math.min(prev + 1, questions.length - 1))
       }
     }
   }
 
-  const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
-    event.preventDefault()
-    setSubmitted(true)
+  const handleSubmit = () => {
+    const score = Math.floor(Math.random() * questions.length) + 1
+    setResultScore(score)
+    setView('score')
   }
 
   const handleReset = () => {
     setAnswers({})
-    setSubmitted(false)
     setCurrentIndex(0)
+    setView('questionnaire')
+    setResultScore(null)
   }
+
+  const percentage = resultScore
+    ? Math.round((resultScore / questions.length) * 100)
+    : 0
+  const passed = percentage >= 75
 
   return (
     <main className="app">
@@ -96,8 +107,8 @@ function App() {
         </div>
       </header>
 
-      {!submitted && (
-        <form className="questionnaire" onSubmit={handleSubmit}>
+      {view === 'questionnaire' && (
+        <form className="questionnaire" onSubmit={(event) => event.preventDefault()}>
           <fieldset className="question" key={currentQuestion.id}>
             <legend>
               <span className="question-index">Q{currentIndex + 1}</span>
@@ -134,15 +145,6 @@ function App() {
             >
               Back
             </button>
-            {isLastQuestion && (
-              <button
-                className="primary"
-                type="submit"
-                disabled={completion.answered !== completion.total}
-              >
-                See my results
-              </button>
-            )}
             <button className="ghost" type="button" onClick={handleReset}>
               Reset answers
             </button>
@@ -150,7 +152,7 @@ function App() {
         </form>
       )}
 
-      {submitted && (
+      {view === 'snapshot' && (
         <section className="summary">
           <h2>Your snapshot</h2>
           <ul>
@@ -162,13 +164,13 @@ function App() {
             ))}
           </ul>
           <div className="actions">
+            <button className="primary" type="button" onClick={handleSubmit}>
+              Submit
+            </button>
             <button
               className="secondary"
               type="button"
-              onClick={() => {
-                setSubmitted(false)
-                setCurrentIndex(questions.length - 1)
-              }}
+              onClick={() => setView('questionnaire')}
             >
               Edit answers
             </button>
@@ -177,9 +179,27 @@ function App() {
             </button>
           </div>
           <p className="summary-note">
-            This is a starting point. You can export a checklist once you have
-            your answers confirmed.
+            Review your answers before submitting. You can still make edits.
           </p>
+        </section>
+      )}
+
+      {view === 'score' && (
+        <section className="summary score-card">
+          <h2>Score result</h2>
+          <div className="score-pill">
+            <strong>{percentage}%</strong>
+            <span>{passed ? 'Passed' : 'Failed'}</span>
+          </div>
+          <p className="summary-note">
+            Passing requires 75% or higher. Your result is based on a mock
+            score.
+          </p>
+          <div className="actions">
+            <button className="secondary" type="button" onClick={handleReset}>
+              Start over
+            </button>
+          </div>
         </section>
       )}
     </main>

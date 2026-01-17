@@ -198,8 +198,36 @@
 }
 
 .summary-note {
-  margin: 0;
+  margin: 0 0 16px;
   color: var(--muted);
+}
+
+.score-card {
+  text-align: center;
+}
+
+.score-pill {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 30px;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid var(--line);
+  margin: 16px auto 20px;
+  min-width: 220px;
+}
+
+.score-pill strong {
+  font-size: 2.2rem;
+  color: var(--accent);
+}
+
+.score-pill span {
+  font-weight: 600;
+  color: var(--ink-soft);
 }
 
 @media (min-width: 720px) {
