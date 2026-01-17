@@ -237,3 +237,9 @@
     justify-content: space-between;
   }
 }
+
+.question-meta {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: var(--muted);
+}

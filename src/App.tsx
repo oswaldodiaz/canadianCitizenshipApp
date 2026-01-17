@@ -1,33 +1,10 @@
 import { useMemo, useState } from 'react'
 import './App.css'
-
-const questions = [
-  {
-    id: 'timeline',
-    prompt: 'When do you hope to apply for citizenship?',
-    options: ['Within 6 months', '6-12 months', '1-2 years', 'Not sure yet'],
-  },
-  {
-    id: 'presence',
-    prompt: 'How close are you to meeting the physical presence requirement?',
-    options: [
-      'Already met',
-      'Within 6 months',
-      'More than 6 months away',
-      'Not tracking yet',
-    ],
-  },
-  {
-    id: 'support',
-    prompt: 'What kind of guidance would help you most right now?',
-    options: [
-      'Checklist and timeline',
-      'Eligibility review',
-      'Document prep tips',
-      'Mock test practice',
-    ],
-  },
-]
+import Header from './components/Header'
+import Question from './components/Question'
+import Score from './components/Score'
+import Snapshot from './components/Snapshot'
+import { questions } from './data/questions'
 
 type View = 'questionnaire' | 'snapshot' | 'score'
 
@@ -49,15 +26,11 @@ function App() {
   const currentQuestion = questions[currentIndex]
   const isLastQuestion = currentIndex === questions.length - 1
 
-  const goToSnapshot = () => {
-    setView('snapshot')
-  }
-
   const handleSelect = (questionId: string, option: string) => {
     setAnswers((prev) => ({ ...prev, [questionId]: option }))
     if (questionId === currentQuestion.id) {
       if (isLastQuestion) {
-        goToSnapshot()
+        setView('snapshot')
       } else {
         setCurrentIndex((prev) => Math.min(prev + 1, questions.length - 1))
       }
@@ -84,58 +57,21 @@ function App() {
 
   return (
     <main className="app">
-      <header className="hero">
-        <p className="eyebrow">Citizenship Planner</p>
-        <h1>Quick questionnaire</h1>
-        <p className="subhead">
-          Answer a few multiple-choice questions to shape your next steps and
-          get a snapshot of where you stand.
-        </p>
-        <div className="progress">
-          <div className="progress-text">
-            {completion.answered} of {completion.total} answered
-          </div>
-          <div
-            className="progress-bar"
-            role="progressbar"
-            aria-valuemin={0}
-            aria-valuemax={completion.total}
-            aria-valuenow={completion.answered}
-          >
-            <span style={{ width: `${completion.percent}%` }} />
-          </div>
-        </div>
-      </header>
+      <Header
+        answered={completion.answered}
+        total={completion.total}
+        percent={completion.percent}
+      />
 
       {view === 'questionnaire' && (
         <form className="questionnaire" onSubmit={(event) => event.preventDefault()}>
-          <fieldset className="question" key={currentQuestion.id}>
-            <legend>
-              <span className="question-index">Q{currentIndex + 1}</span>
-              {currentQuestion.prompt}
-            </legend>
-            <div className="options">
-              {currentQuestion.options.map((option) => {
-                const optionId = `${currentQuestion.id}-${option
-                  .toLowerCase()
-                  .replace(/\s+/g, '-')}`
-                return (
-                  <label className="option" key={optionId} htmlFor={optionId}>
-                    <input
-                      id={optionId}
-                      type="radio"
-                      name={currentQuestion.id}
-                      value={option}
-                      checked={answers[currentQuestion.id] === option}
-                      onChange={() => handleSelect(currentQuestion.id, option)}
-                    />
-                    <span>{option}</span>
-                  </label>
-                )
-              })}
-            </div>
-          </fieldset>
-
+          <Question
+            question={currentQuestion}
+            index={currentIndex}
+            total={questions.length}
+            answer={answers[currentQuestion.id]}
+            onSelect={(option) => handleSelect(currentQuestion.id, option)}
+          />
           <div className="actions">
             <button
               className="secondary"
@@ -153,54 +89,17 @@ function App() {
       )}
 
       {view === 'snapshot' && (
-        <section className="summary">
-          <h2>Your snapshot</h2>
-          <ul>
-            {questions.map((question) => (
-              <li key={question.id}>
-                <span>{question.prompt}</span>
-                <strong>{answers[question.id]}</strong>
-              </li>
-            ))}
-          </ul>
-          <div className="actions">
-            <button className="primary" type="button" onClick={handleSubmit}>
-              Submit
-            </button>
-            <button
-              className="secondary"
-              type="button"
-              onClick={() => setView('questionnaire')}
-            >
-              Edit answers
-            </button>
-            <button className="ghost" type="button" onClick={handleReset}>
-              Start over
-            </button>
-          </div>
-          <p className="summary-note">
-            Review your answers before submitting. You can still make edits.
-          </p>
-        </section>
+        <Snapshot
+          questions={questions}
+          answers={answers}
+          onSubmit={handleSubmit}
+          onEdit={() => setView('questionnaire')}
+          onReset={handleReset}
+        />
       )}
 
       {view === 'score' && (
-        <section className="summary score-card">
-          <h2>Score result</h2>
-          <div className="score-pill">
-            <strong>{percentage}%</strong>
-            <span>{passed ? 'Passed' : 'Failed'}</span>
-          </div>
-          <p className="summary-note">
-            Passing requires 75% or higher. Your result is based on a mock
-            score.
-          </p>
-          <div className="actions">
-            <button className="secondary" type="button" onClick={handleReset}>
-              Start over
-            </button>
-          </div>
-        </section>
+        <Score percentage={percentage} passed={passed} onReset={handleReset} />
       )}
     </main>
   )
