@@ -1,59 +1,61 @@
-import { useMemo, useState } from 'react'
-import './App.css'
-import Header from './components/Header'
-import Question from './components/Question'
-import Score from './components/Score'
-import Snapshot from './components/Snapshot'
-import { questions } from './data/questions'
+import { useMemo, useState } from "react";
+import "./App.css";
+import Header from "./components/Header";
+import Question from "./components/Question";
+import Score from "./components/Score";
+import Snapshot from "./components/Snapshot";
+import { questions } from "./data/questions";
 
-type View = 'questionnaire' | 'snapshot' | 'score'
+type View = "start" | "questionnaire" | "snapshot" | "score";
 
 function App() {
-  const [answers, setAnswers] = useState<Record<string, string>>({})
-  const [currentIndex, setCurrentIndex] = useState(0)
-  const [view, setView] = useState<View>('questionnaire')
-  const [resultScore, setResultScore] = useState<number | null>(null)
+  const [answers, setAnswers] = useState<Record<string, string>>({});
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [view, setView] = useState<View>("start");
+  const [resultScore, setResultScore] = useState<number | null>(null);
 
   const completion = useMemo(() => {
-    const answered = questions.filter((question) => answers[question.id]).length
+    const answered = questions.filter(
+      (question) => answers[question.id],
+    ).length;
     return {
       answered,
       total: questions.length,
       percent: Math.round((answered / questions.length) * 100),
-    }
-  }, [answers])
+    };
+  }, [answers]);
 
-  const currentQuestion = questions[currentIndex]
-  const isLastQuestion = currentIndex === questions.length - 1
+  const currentQuestion = questions[currentIndex];
+  const isLastQuestion = currentIndex === questions.length - 1;
 
   const handleSelect = (questionId: string, option: string) => {
-    setAnswers((prev) => ({ ...prev, [questionId]: option }))
+    setAnswers((prev) => ({ ...prev, [questionId]: option }));
     if (questionId === currentQuestion.id) {
       if (isLastQuestion) {
-        setView('snapshot')
+        setView("snapshot");
       } else {
-        setCurrentIndex((prev) => Math.min(prev + 1, questions.length - 1))
+        setCurrentIndex((prev) => Math.min(prev + 1, questions.length - 1));
       }
     }
-  }
+  };
 
   const handleSubmit = () => {
-    const score = Math.floor(Math.random() * questions.length) + 1
-    setResultScore(score)
-    setView('score')
-  }
+    const score = Math.floor(Math.random() * questions.length) + 1;
+    setResultScore(score);
+    setView("score");
+  };
 
   const handleReset = () => {
-    setAnswers({})
-    setCurrentIndex(0)
-    setView('questionnaire')
-    setResultScore(null)
-  }
+    setAnswers({});
+    setCurrentIndex(0);
+    setView("start");
+    setResultScore(null);
+  };
 
   const percentage = resultScore
     ? Math.round((resultScore / questions.length) * 100)
-    : 0
-  const passed = percentage >= 75
+    : 0;
+  const passed = percentage >= 75;
 
   return (
     <main className="app">
@@ -61,10 +63,31 @@ function App() {
         answered={completion.answered}
         total={completion.total}
         percent={completion.percent}
+        showInstructions={view === "start"}
+        showProgress={view === "questionnaire"}
       />
 
-      {view === 'questionnaire' && (
-        <form className="questionnaire" onSubmit={(event) => event.preventDefault()}>
+      {view === "start" && (
+        <section className="start-card">
+          <p>
+            When you are ready, start the practice questionnaire. You can review
+            your answers before submitting.
+          </p>
+          <button
+            className="primary align-right"
+            type="button"
+            onClick={() => setView("questionnaire")}
+          >
+            Start
+          </button>
+        </section>
+      )}
+
+      {view === "questionnaire" && (
+        <form
+          className="questionnaire"
+          onSubmit={(event) => event.preventDefault()}
+        >
           <Question
             question={currentQuestion}
             index={currentIndex}
@@ -72,37 +95,39 @@ function App() {
             answer={answers[currentQuestion.id]}
             onSelect={(option) => handleSelect(currentQuestion.id, option)}
           />
-          <div className="actions">
-            <button
-              className="secondary"
-              type="button"
-              onClick={() => setCurrentIndex((prev) => Math.max(prev - 1, 0))}
-              disabled={currentIndex === 0}
-            >
-              Back
-            </button>
-            <button className="ghost" type="button" onClick={handleReset}>
-              Reset answers
-            </button>
-          </div>
+          {completion.answered > 0 && (
+            <div className="actions">
+              <button
+                className="secondary"
+                type="button"
+                onClick={() => setCurrentIndex((prev) => Math.max(prev - 1, 0))}
+                disabled={currentIndex === 0}
+              >
+                Back
+              </button>
+              <button className="ghost" type="button" onClick={handleReset}>
+                Reset answers
+              </button>
+            </div>
+          )}
         </form>
       )}
 
-      {view === 'snapshot' && (
+      {view === "snapshot" && (
         <Snapshot
           questions={questions}
           answers={answers}
           onSubmit={handleSubmit}
-          onEdit={() => setView('questionnaire')}
+          onEdit={() => setView("questionnaire")}
           onReset={handleReset}
         />
       )}
 
-      {view === 'score' && (
+      {view === "score" && (
         <Score percentage={percentage} passed={passed} onReset={handleReset} />
       )}
     </main>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -21,14 +21,14 @@ function Snapshot({ questions, answers, onSubmit, onEdit, onReset }: SnapshotPro
         ))}
       </ul>
       <div className="actions">
-        <button className="primary" type="button" onClick={onSubmit}>
-          Submit
-        </button>
         <button className="secondary" type="button" onClick={onEdit}>
           Edit answers
         </button>
         <button className="ghost" type="button" onClick={onReset}>
           Start over
+        </button>
+        <button className="primary align-right" type="button" onClick={onSubmit}>
+          Submit
         </button>
       </div>
       <p className="summary-note">

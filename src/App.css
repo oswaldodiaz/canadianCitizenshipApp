@@ -36,12 +36,34 @@
   pointer-events: none;
 }
 
-.hero-top {
+.hero-topbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.title-row {
+  display: flex;
+  align-items: center;
   gap: 12px;
-  margin-bottom: 12px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.flag {
+  width: 32px;
+  height: 20px;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px rgba(200, 16, 46, 0.2);
+  border: 1px solid #f0d0d6;
+}
+
+.title {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.75rem;
 }
 
 .hero-divider {
@@ -50,14 +72,6 @@
   height: 4px;
   background: linear-gradient(90deg, var(--accent), #e5383b);
   border-radius: 999px;
-}
-
-.eyebrow {
-  text-transform: uppercase;
-  letter-spacing: 0.2em;
-  font-size: 0.75rem;
-  color: var(--muted);
-  margin: 0;
 }
 
 .hero h1 {
@@ -71,6 +85,11 @@
   margin: 0 0 18px;
   color: var(--ink-soft);
   max-width: 60ch;
+}
+
+.instructions {
+  display: grid;
+  gap: 6px;
 }
 
 .progress {
@@ -96,6 +115,25 @@
   background: linear-gradient(90deg, #c8102e, #e5383b);
   border-radius: inherit;
   transition: width 250ms ease;
+}
+
+.start-card {
+  background: #fff;
+  border-radius: 20px;
+  border: 1px solid var(--line);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  display: grid;
+  gap: 16px;
+  color: var(--ink-soft);
+}
+
+.start-card p {
+  margin: 0;
+}
+
+.start-card .primary {
+  justify-self: flex-start;
 }
 
 .questionnaire {
@@ -172,14 +210,16 @@
   gap: 12px;
 }
 
-.actions button {
+.actions button,
+.primary {
   border-radius: 999px;
   padding: 12px 22px;
   font-weight: 600;
   border: none;
 }
 
-.actions .primary {
+.actions .primary,
+.primary {
   background: var(--accent);
   color: #fff;
   box-shadow: var(--shadow);
@@ -273,7 +313,7 @@
 }
 
 @media (max-width: 600px) {
-  .hero-top {
+  .hero-topbar {
     flex-direction: column;
     align-items: flex-start;
   }
@@ -285,4 +325,13 @@
     align-items: center;
     justify-content: space-between;
   }
+}
+
+.align-right {
+  margin-left: auto;
+}
+
+.start-card .align-right {
+  justify-self: flex-end;
+  margin-left: 0;
 }
