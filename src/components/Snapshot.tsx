@@ -6,17 +6,40 @@ type SnapshotProps = {
   onSubmit: () => void
   onEdit: () => void
   onReset: () => void
+  onEditQuestion: (questionId: string) => void
 }
 
-function Snapshot({ questions, answers, onSubmit, onEdit, onReset }: SnapshotProps) {
+function Snapshot({
+  questions,
+  answers,
+  onSubmit,
+  onEdit,
+  onReset,
+  onEditQuestion,
+}: SnapshotProps) {
   return (
     <section className="summary">
-      <h2>Your snapshot</h2>
+      <h2>Your answers</h2>
       <ul>
         {questions.map((question) => (
           <li key={question.id}>
-            <span>{question.prompt}</span>
-            <strong>{answers[question.id]}</strong>
+            <span className="answer-question">{question.prompt}</span>
+            <div className="answer-actions">
+              <strong>{answers[question.id]}</strong>
+              <button
+                className="icon-button"
+                type="button"
+                onClick={() => onEditQuestion(question.id)}
+                aria-label={`Edit answer for ${question.prompt}`}
+              >
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <path
+                    d="M4 16.75V20h3.25L17.81 9.44l-3.25-3.25L4 16.75zm2.04 1.21l8.02-8.02 1.04 1.04-8.02 8.02H6.04zM19.71 7.54a1 1 0 000-1.41l-1.84-1.84a1 1 0 00-1.41 0l-1.1 1.1 3.25 3.25 1.1-1.1z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </button>
+            </div>
           </li>
         ))}
       </ul>

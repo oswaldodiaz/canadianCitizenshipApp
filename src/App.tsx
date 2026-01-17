@@ -13,6 +13,7 @@ function App() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [view, setView] = useState<View>("start");
   const [resultScore, setResultScore] = useState<number | null>(null);
+  const [editingFromSnapshot, setEditingFromSnapshot] = useState(false);
 
   const completion = useMemo(() => {
     const answered = questions.filter(
@@ -32,6 +33,7 @@ function App() {
     setAnswers((prev) => ({ ...prev, [questionId]: option }));
     if (questionId === currentQuestion.id) {
       if (isLastQuestion) {
+        setEditingFromSnapshot(false);
         setView("snapshot");
       } else {
         setCurrentIndex((prev) => Math.min(prev + 1, questions.length - 1));
@@ -50,6 +52,16 @@ function App() {
     setCurrentIndex(0);
     setView("start");
     setResultScore(null);
+    setEditingFromSnapshot(false);
+  };
+
+  const handleEditQuestion = (questionId: string) => {
+    const index = questions.findIndex((question) => question.id === questionId);
+    if (index >= 0) {
+      setCurrentIndex(index);
+    }
+    setEditingFromSnapshot(true);
+    setView("questionnaire");
   };
 
   const percentage = resultScore
@@ -95,21 +107,54 @@ function App() {
             answer={answers[currentQuestion.id]}
             onSelect={(option) => handleSelect(currentQuestion.id, option)}
           />
-          {completion.answered > 0 && (
-            <div className="actions">
+          <div className="actions">
+            {completion.answered > 0 && (
+              <>
+                <button
+                  className="secondary"
+                  type="button"
+                  onClick={() =>
+                    setCurrentIndex((prev) => Math.max(prev - 1, 0))
+                  }
+                  disabled={currentIndex === 0}
+                >
+                  Back
+                </button>
+                <button className="ghost" type="button" onClick={handleReset}>
+                  Reset answers
+                </button>
+              </>
+            )}
+            {editingFromSnapshot && (
               <button
-                className="secondary"
+                className="ghost"
                 type="button"
-                onClick={() => setCurrentIndex((prev) => Math.max(prev - 1, 0))}
-                disabled={currentIndex === 0}
+                onClick={() => {
+                  setEditingFromSnapshot(false);
+                  setView("snapshot");
+                }}
               >
-                Back
+                Finish
               </button>
-              <button className="ghost" type="button" onClick={handleReset}>
-                Reset answers
-              </button>
-            </div>
-          )}
+            )}
+            <button
+              className="primary align-right"
+              type="button"
+              onClick={() => {
+                if (currentIndex === questions.length - 1) {
+                  setEditingFromSnapshot(false);
+                  setView("snapshot");
+                } else {
+                  setCurrentIndex((prev) =>
+                    Math.min(prev + 1, questions.length - 1),
+                  );
+                }
+              }}
+              disabled={!answers[currentQuestion.id]}
+            >
+              Next
+            </button>
+          </div>
         </form>
       )}
 
@@ -118,8 +163,12 @@ function App() {
           questions={questions}
           answers={answers}
           onSubmit={handleSubmit}
-          onEdit={() => setView("questionnaire")}
+          onEdit={() => {
+            setEditingFromSnapshot(true);
+            setView("questionnaire");
+          }}
           onReset={handleReset}
+          onEditQuestion={handleEditQuestion}
         />
       )}
 
