@@ -1,4 +1,9 @@
+# Questionnaie of Canada Citizenship test
+
+These questions were extracted from <https://www.youtube.com/watch?v=WPRteTCwIE4>
+
 ## Question 1
+
 - When must a federal election be held according to legislation passed by parliament?
 - Options:
   - A) When the king wants to replace the prime minister
@@ -8,6 +13,7 @@
 - Answer: B) within four years of the most recent election
 
 ## Question 2
+
 - which of the following is the federal government responsible for?
 - Options:
   - A) highways,
@@ -17,6 +23,7 @@
 - Answer: D) Interprovincial trade and communications
 
 ## Question 3
+
 - What was the name of the new country formed at confederation?
 - Options:
   - A) Britain
@@ -26,6 +33,7 @@
 - Answer: D) Dominion of Canada
 
 ## Question 4
+
 - Where do more than half of the people in Canada live?
 - Options:
   - A) Coastal Pacific
@@ -35,6 +43,7 @@
 - Answer: D) Central Canada
 
 ## Question 5
+
 - Who brought Quebec into confederation?
 - Options:
   - A) Sir Lewis Hippoly La Fontaine
@@ -44,6 +53,7 @@
 - Answer: B) Sir George Aen Cardier
 
 ## Question 6
+
 - In World War II, how did Canada contribute more to the Allied air effort than any other Commonwealth country?
 - Options:
   - A) trained 130,000 Allied air crew
@@ -53,6 +63,7 @@
 - Answer: A) Trained 130,000 Allied air crew
 
 ## Question 7
+
 - How can a party in power be defeated in parliament?
 - Options:
   - A) if there is a revolution,
@@ -62,6 +73,7 @@
 - Answer: C) if a majority of the MPs vote against a major government decision
 
 ## Question 8
+
 - Which of the following are the responsibilities of provincial government?
 - Options:
   - A) Education, healthcare, natural resources and policing?
@@ -71,6 +83,7 @@
 - Answer: A) education, health care, natural resources, and policing
 
 ## Question 9
+
 - what was the Underground Railroad?
 - Options:
   - A) an anti-slavery network that helped thousands of slaves escape the United States and settle in Canada
@@ -80,6 +93,7 @@
 - Answer: A) An anti-slavery network that helped thousands of slaves escape the United States and settle in Canada
 
 ## Question 10
+
 - Which region covers more than onethird of Canada?
 - Options:
   - A) Northern Territories
@@ -89,6 +103,7 @@
 - Answer: A) Northern Territories
 
 ## Question 11
+
 - What is the name of the royal anthem of Canada?
 - Options:
   - A) Great Canada
@@ -98,6 +113,7 @@
 - Answer: C) God save the queen or king
 
 ## Question 12
+
 - What is the primary role of the police in Canada?
 - Options:
   - A) To resolve disputes and interpret law
@@ -107,6 +123,7 @@
 - Answer: B) To keep people safe and to enforce the law
 
 ## Question 13
+
 - Which province has the most bilingual Canadians?
 - Options:
   - A) British Columbia,
@@ -116,6 +133,7 @@
 - Answer: B) Quebec
 
 ## Question 14
+
 - Which province is one of the most productive agricultural regions in the world?
 - Options:
   - A) Manitoba
@@ -125,6 +143,7 @@
 - Answer: B) Saskatchewan
 
 ## Question 15
+
 - When is Canada Day?
 - Options:
   - A) November 11th
@@ -134,6 +153,7 @@
 - Answer: B) July 1st
 
 ## Question 16
+
 - In what year did Canada become a country?
 - Options:
   - A) 1867,
@@ -143,6 +163,7 @@
 - Answer: A) 1867
 
 ## Question 17
+
 - The two official languages of Canada are
 - Options:
   - A) intitute and English,
@@ -152,6 +173,7 @@
 - Answer: C) English and French
 
 ## Question 18
+
 - Where is Canada located?
 - Options:
   - A) Central America,
@@ -161,6 +183,7 @@
 - Answer: C) North America
 
 ## Question 19
+
 - Can you name the five great lakes between Canada and the US?
 - Options:
   - A) Lake Toronto, Lake Michigan, Lake Mexico, Lake Ontario, Lake St. Louis
@@ -170,6 +193,7 @@
 - Answer: B) Lake Superior, Lake Michigan, Lake Hiron, Lake Erie, Lake Ontario
 
 ## Question 20
+
 - What do you call the king's representative in the provinces?
 - Options:
   - A) Governor, lieutenant
@@ -179,6 +203,7 @@
 - Answer: C) Lieutenant Governor
 
 ## Question 21
+
 - How are members of parliament chosen?
 - Options:
   - A) Elected by senators
@@ -188,6 +213,7 @@
 - Answer: D) Elected by Canadian citizens
 
 ## Question 22
+
 - In what jobs did the Matei first work with European settlers?
 - Options:
   - A) Supplies, traders, guides, and interpreters
@@ -197,6 +223,7 @@
 - Answer: A) Supplies, traders, guides, and interpreters
 
 ## Question 23
+
 - What does the National Register of Electors contain?
 - Options:
   - A) Database of landed immigrants
@@ -206,6 +233,7 @@
 - Answer: B) Database of Canadian citizens at least 18 years of age who are qualified to vote in federal elections and referendums
 
 ## Question 24
+
 - What was the main advantage of the NAFTA agreement?
 - Options:
   - A) Free trade among Canada, the USA, and Mexico
@@ -215,6 +243,7 @@
 - Answer: A) Free trade among Canada, the USA, and Mexico
 
 ## Question 25
+
 - Who are the Matei?
 - Options:
   - A) The distinct Aboriginal people of Atlantic Canada
@@ -224,6 +253,7 @@
 - Answer: D) A distinct people of mixed Aboriginal and European ancestry
 
 ## Question 26
+
 - Which act granted for the first time in Canada legislative assemblies elected by the people?
 - Options:
   - A) The constitutional act of 1982
@@ -233,6 +263,7 @@
 - Answer: C) The Constitutional Act of 1791
 
 ## Question 27
+
 - Who appoints the judges of the Supreme Court of Canada?
 - Options:
   - A) The Governor General
@@ -242,6 +273,7 @@
 - Answer: A) The Governor General
 
 ## Question 28
+
 - What does the crown mean for Canadians?
 - Options:
   - A) The crown is a symbol of government including parliament, legislatures, courts, police services, and the armed forces
@@ -251,6 +283,7 @@
 - Answer: A) The crown is a symbol of government including parliament, legislatures, courts, police services, and the armed forces
 
 ## Question 29
+
 - What did the suffrage movement achieve?
 - Options:
   - A) Quebec experienced an era of rapid change
@@ -260,6 +293,7 @@
 - Answer: D) Women achieved the right to vote
 
 ## Question 30
+
 - When did settlers from France first establish communities on the St. Lawrence River?
 - Options:
   - A) Late 1600s
@@ -269,6 +303,7 @@
 - Answer: D) Early 1600s
 
 ## Question 31
+
 - Which region is known as the industrial and manufacturing heartland of Canada?
 - Options:
   - A) Atlantic provinces
@@ -278,6 +313,7 @@
 - Answer: C) Central Canada
 
 ## Question 32
+
 - What types of jobs are provided by service industries?
 - Options:
   - A) Communications and retail services
@@ -287,6 +323,7 @@
 - Answer: D) All answers are correct
 
 ## Question 33
+
 - With which words does the Canadian Charter of Rights and Freedoms begin?
 - Options:
   - A) Canadian citizens have rights and responsibilities
@@ -296,6 +333,7 @@
 - Answer: D) Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law
 
 ## Question 34
+
 - Which of the following is not a responsibility of Canadian citizens?
 - Options:
   - A) Learning to speak both official languages
@@ -305,6 +343,7 @@
 - Answer: A) Learning to speak both official languages
 
 ## Question 35
+
 - What do Canadians remember on Remembrance Day?
 - Options:
   - A) Canadian victory in World War I
@@ -314,6 +353,7 @@
 - Answer: D) Sacrifices made by Canadian veterans and brave soldiers in wars
 
 ## Question 36
+
 - Why was the Canadian Pacific Railway built?
 - Options:
   - A) The railway made it possible for immigrants to settle in central Canada
@@ -323,6 +363,7 @@
 - Answer: B) British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the west coast
 
 ## Question 37
+
 - Why is trade with other countries important to Canada?
 - Options:
   - A) Trade with other countries changed the native way of life forever?
@@ -332,6 +373,7 @@
 - Answer: B) To increase trade and enjoy one of the world's highest standards of living
 
 ## Question 38
+
 - Which of the following best describes the role of the king in Canada?
 - Options:
   - A) To make important decisions about how the country is governed
@@ -341,6 +383,7 @@
 - Answer: D) To focus on citizenship and allegiance, be a symbol of Canadian sovereignty and a guardian of constitutional freedoms
 
 ## Question 39
+
 - What does it mean to say Canada is a constitutional monarchy?
 - Options:
   - A) The sovereign queen or king approves bills before they become law
@@ -350,6 +393,7 @@
 - Answer: C) Canada's head of state is a hereditary sovereign queen or king who reigns in accordance with the constitution
 
 ## Question 40
+
 - Remembrance Day is celebrated on
 - Options:
   - A) July 1st,
@@ -359,6 +403,7 @@
 - Answer: C) November 11th
 
 ## Question 41
+
 - What are the provinces of central Canada?
 - Options:
   - A) Ontario and Quebec
@@ -368,6 +413,7 @@
 - Answer: A) Ontario and Quebec
 
 ## Question 42
+
 - Where do the majority of Matei live in Canada?
 - Options:
   - A) Central Canada
@@ -377,6 +423,7 @@
 - Answer: C) Prairie Provinces
 
 ## Question 43
+
 - Which country is Canada's largest trading partner?
 - Options:
   - A) China
@@ -386,6 +433,7 @@
 - Answer: B) The United States of America
 
 ## Question 44
+
 - Which two fundamental freedoms are protected by the Canadian Charter of Rights and Freedoms?
 - Options:
   - A) Freedom of Belief and Freedom of Religion?
@@ -395,6 +443,7 @@
 - Answer: A) Freedom of belief and freedom of religion
 
 ## Question 45
+
 - What do the initials MP stand for in Canadian politics?
 - Options:
   - A) Member of Parliament
@@ -404,6 +453,7 @@
 - Answer: A) Member of Parliament
 
 ## Question 46
+
 - Which was the last province to join Canada?
 - Options:
   - A) Prince Edward Island
@@ -413,6 +463,7 @@
 - Answer: C) Newfoundland
 
 ## Question 47
+
 - Who are the Aboriginal peoples in Canada?
 - Options:
   - A) the first settlers of Newfidland
@@ -422,6 +473,7 @@
 - Answer: D) The first inhabitants of Canada
 
 ## Question 48
+
 - What does the term responsible government mean?
 - Options:
   - A) Each person in each electoral district is responsible for voting
@@ -431,6 +483,7 @@
 - Answer: C) The ministers of the crown must have the support of a majority of the elected representatives in order to govern
 
 ## Question 49
+
 - Which province is Canada's main producer of pulp and paper?
 - Options:
   - A) Quebec
@@ -440,6 +493,7 @@
 - Answer: A) Quebec
 
 ## Question 50
+
 - What should you do if you do not receive a voter information card before an election?
 - Options:
   - A) Call your local municipality
@@ -449,6 +503,7 @@
 - Answer: D) Contact Elections Canada
 
 ## Question 51
+
 - What are the parties that are not in power called?
 - Options:
   - A) tea parties,
@@ -458,6 +513,7 @@
 - Answer: B) Opposition parties
 
 ## Question 52
+
 - Which of the following is the oldest colony of the British Empire in Canada?
 - Options:
   - A) Quebec
@@ -467,6 +523,7 @@
 - Answer: D) Newfoundland and Labrador
 
 ## Question 53
+
 - Who is the king's representative in Canada?
 - Options:
   - A) the premier,
@@ -476,6 +533,7 @@
 - Answer: C) The Governor General of Canada
 
 ## Question 54
+
 - Which of the following are the responsibilities of Canadian citizenship?
 - Options:
   - A) Protect the Canadian environment and vote in elections?
@@ -485,6 +543,7 @@
 - Answer: D) Obey the law, serve on a jury, vote in elections, and help others in the community
 
 ## Question 55
+
 - Which region of Canada is known for its fertile agricultural land and energy resources?
 - Options:
   - A) Central Canada,
@@ -494,6 +553,7 @@
 - Answer: C) Prairie provinces
 
 ## Question 56
+
 - Why are the Great Lakes important to Canada?
 - Options:
   - A) they provide water for irrigation
@@ -503,6 +563,7 @@
 - Answer: B) They provide fresh water and waterways
 
 ## Question 57
+
 - Which province in Canada is the smallest in land size?
 - Options:
   - A) British Columbia
@@ -512,6 +573,7 @@
 - Answer: B) Prince Edward Island
 
 ## Question 58
+
 - Who was the first person to draw a map of Canada's east coast?
 - Options:
   - A) Jean Talon,
@@ -521,6 +583,7 @@
 - Answer: C) John Kat
 
 ## Question 59
+
 - If you cannot pay for a lawyer, how can you get legal help?
 - Options:
   - A) Borrow money from the government and pay for the lawyer
@@ -530,6 +593,7 @@
 - Answer: B) Go to legal aid services in most communities
 
 ## Question 60
+
 - What is a polling station?
 - Options:
   - A) place where you vote
@@ -539,6 +603,7 @@
 - Answer: A) Place where you vote?
 
 ## Question 61
+
 - What is a cabinet minister?
 - Options:
   - A) Candidate picked by the prime minister
@@ -548,6 +613,7 @@
 - Answer: C) MP selected by the prime minister to run federal departments
 
 ## Question 62
+
 - Who discovered insulin?
 - Options:
   - A) Dr. Wilder Penfield
@@ -557,6 +623,7 @@
 - Answer: C) Sir Frederick Banting and Charles Best
 
 ## Question 63
+
 - What is a major river in Quebec?
 - Options:
   - A) Hudson's Bay,
@@ -566,6 +633,7 @@
 - Answer: D) St. Lawrence River
 
 ## Question 64
+
 - Who circled the globe in a wheelchair to raise funds for spinal cord research?
 - Options:
   - A) Reginald Fessendon
@@ -575,6 +643,7 @@
 - Answer: B) Rick Hansen
 
 ## Question 65
+
 - Who is the father of Manitoba and defender of Mus rights?
 - Options:
   - A) Lewis Realel
@@ -584,6 +653,7 @@
 - Answer: A) Lewis Realel
 
 ## Question 66
+
 - Which of the following is a non-Canadian not allowed to do?
 - Options:
   - A) Leave the country at will,
@@ -593,6 +663,7 @@
 - Answer: D) Vote in federal and provincial elections
 
 ## Question 67
+
 - Why is the north sometimes called the land of the midnight sun?
 - Options:
   - A) It is closer to the sun
@@ -602,6 +673,7 @@
 - Answer: D) Summer daylight can last up to 24 hours
 
 ## Question 68
+
 - Onethird of all Canadians live in
 - Options:
   - A) Saskatchewan,
@@ -611,6 +683,7 @@
 - Answer: D) Ontario
 
 ## Question 69
+
 - Who can ask you about whom you voted for?
 - Options:
   - A) No one
@@ -620,6 +693,7 @@
 - Answer: A) No one
 
 ## Question 70
+
 - When did the United Empire loyalists come to Canada?
 - Options:
   - A) Late 1600s
@@ -629,6 +703,7 @@
 - Answer: D) Late 1700s
 
 ## Question 71
+
 - What happens when the federal government loses a confidence vote?
 - Options:
   - A) An election is called
@@ -638,6 +713,7 @@
 - Answer: A) An election is called
 
 ## Question 72
+
 - What happened at the Battle of the Plains of Abraham?
 - Options:
   - A) The Voyagers battled with the British for fur trading rights
@@ -647,6 +723,7 @@
 - Answer: C) The British defeated the French, marking the end of France's empire in America
 
 ## Question 73
+
 - Who has the right to apply for a Canadian passport?
 - Options:
   - A) British citizens
@@ -656,6 +733,7 @@
 - Answer: B) Canadian citizens
 
 ## Question 74
+
 - Who were the group of seven in modern Canada?
 - Options:
   - A) A group of politicians
@@ -665,6 +743,7 @@
 - Answer: D) A group of Canadian landscape painters in the 1920s. Question 75. What is a responsible government? A. The government is responsible for the well-being of its people. B. The government must take responsibility for any act of war it decides to commit. C. A government that is against corruption. D. The government must resign if it loses a confidence vote in the assembly. The answer is D. The government must resign if it loses a confidence vote in the assembly
 
 ## Question 76
+
 - What outcome and significance did the War of 1812 with the USA have for Canada?
 - Options:
   - A) Canada formed part of the United States
@@ -674,6 +753,7 @@
 - Answer: C) Canada protected its independence from the United States
 
 ## Question 77
+
 - What level of government passes bylaws?
 - Options:
   - A) Provincial
@@ -683,6 +763,7 @@
 - Answer: B) Municipal or local government
 
 ## Question 78
+
 - What is the meaning of the Canadian code of arms and motto? Amari esque admare.
 - Options:
   - A) From air to land
@@ -692,6 +773,7 @@
 - Answer: D) from C to C
 
 ## Question 79
+
 - What are three key facts about Canada's system of government?
 - Options:
   - A) A federal kingdom, a parliamentary democracy, and a constitutional monarchy
@@ -701,6 +783,7 @@
 - Answer: B) A federal state, a parliamentary democracy, and a constitutional monarchy
 
 ## Question 80
+
 - In which type of industry did most early European settlers work?
 - Options:
   - A) fur trading,
@@ -710,6 +793,7 @@
 - Answer: A) for trading
 
 ## Question 81
+
 - How is a cabinet minister chosen?
 - Options:
   - A) by the prime minister,
@@ -719,6 +803,7 @@
 - Answer: A) By the prime minister
 
 ## Question 82
+
 - Who are the Acadians?
 - Options:
   - A) English-speaking refugees who settled in Ontario
@@ -728,6 +813,7 @@
 - Answer: B) The descendants of French colonists who began settling in what are now the Maritime Provinces in6004
 
 ## Question 83
+
 - How is the prime minister chosen?
 - Options:
   - A) The MP's vote on the prime minister
@@ -737,6 +823,7 @@
 - Answer: D) The leader of the party with the most elected members of parliament
 
 ## Question 84
+
 - What does MNA stand for?
 - Options:
   - A) Member of the national aid
@@ -746,6 +833,7 @@
 - Answer: D) Member of the National Assembly
 
 ## Question 85
+
 - The amended Constitution of Canada in 1982 was proclaimed by
 - Options:
   - A) The Senate,
@@ -755,6 +843,7 @@
 - Answer: B) Queen Elizabeth II
 
 ## Question 86
+
 - What is Canada's system of government called?
 - Options:
   - A) Dictatorship
@@ -764,6 +853,7 @@
 - Answer: B) Parliamentary government
 
 ## Question 87
+
 - What are the colors present in the Canadian flag?
 - Options:
   - A) blue and white,
@@ -773,6 +863,7 @@
 - Answer: B) red and white
 
 ## Question 88
+
 - From where did the first European settlers in Canada come?
 - Options:
   - A) Germany,
@@ -782,6 +873,7 @@
 - Answer: C) France
 
 ## Question 89
+
 - Which of the following are not responsibilities of the Governor General?
 - Options:
   - A) chooses the opposition party
@@ -791,6 +883,7 @@
 - Answer: A) chooses the opposition party
 
 ## Question 90
+
 - How can you contact your member of Parliament?
 - Options:
   - A) by using social media sites online
@@ -800,6 +893,7 @@
 - Answer: B) by writing a letter to the House of Commons
 
 ## Question 91
+
 - Who was Sir George Aien Cardier?
 - Options:
   - A) A railway lawyer and Montrealer
@@ -809,6 +903,7 @@
 - Answer: A) A railway lawyer and Montrealer
 
 ## Question 92
+
 - Who is the greatest Canadian hockey player?
 - Options:
   - A) Wayne Gretzky
@@ -818,6 +913,7 @@
 - Answer: A) Wayne Gretzky
 
 ## Question 93
+
 - Which of the following answers is not true about the relationship between Canada and the USA?
 - Options:
   - A) Canada and the USA share the longest undefended international border
@@ -827,6 +923,7 @@
 - Answer: C) Canada exports very few goods to the USA
 
 ## Question 94
+
 - On which principles is Canada's constitution based?
 - Options:
   - A) Multiculturalism, peace and order
@@ -836,6 +933,7 @@
 - Answer: B) Peace, order, and good government
 
 ## Question 95
+
 - What is the significance of hockey?
 - Options:
   - A) It is the national summer sport
@@ -845,6 +943,7 @@
 - Answer: B) It is the most popular spectator sport in Canada and also its national winter sport
 
 ## Question 96
+
 - What are the two principles upon which Canada is founded?
 - Options:
   - A) The supremacy of God and the rule of law
@@ -854,6 +953,7 @@
 - Answer: A) The supremacy of God and the rule of law
 
 ## Question 97
+
 - What is celebrated on the 26th of December?
 - Options:
   - A) Remembrance Day
@@ -863,6 +963,7 @@
 - Answer: C) Boxing Day
 
 ## Question 98
+
 - Since when has the protocol for the amendment of the Canadian Constitution existed?
 - Options:
   - A) 1962,
@@ -872,6 +973,7 @@
 - Answer: B) 1982
 
 ## Question 99
+
 - Canada's national winter sport is
 - Options:
   - A) lacrosse,
@@ -881,6 +983,7 @@
 - Answer: C) hockey
 
 ## Question 100
+
 - Who led an armed uprising in seized Fort Garry?
 - Options:
   - A) John Alexander Macdonald
@@ -890,6 +993,7 @@
 - Answer: B) Lewis Realel
 
 ## Question 101
+
 - What are the main functions of the cabinet?
 - Options:
   - A) Natural resources
@@ -899,6 +1003,7 @@
 - Answer: C) To prepare the budget and propose new laws to be implemented
 
 ## Question 102
+
 - Who can enter and leave the country freely without time constraints?
 - Options:
   - A) Canadian citizens and landed immigrants
@@ -908,6 +1013,7 @@
 - Answer: C) Canadian citizens
 
 ## Question 103
+
 - If the government loses a confidence vote in the assembly, it must
 - Options:
   - A) Call for bi-elections
@@ -917,6 +1023,7 @@
 - Answer: D) Resign
 
 ## Question 104
+
 - Which province was the first to grant voting rights to women?
 - Options:
   - A) Quebec
@@ -926,6 +1033,7 @@
 - Answer: D) Manitoba
 
 ## Question 105
+
 - What is the great charter of freedom also known as?
 - Options:
   - A) Habius corpus
@@ -935,6 +1043,7 @@
 - Answer: D) Magna Carta
 
 ## Question 106
+
 - A member of Parliament from Montreal announces that she will spend her weekend in her electoral district. This means she would be
 - Options:
   - A) In her office on Parliament Hill
@@ -944,6 +1053,7 @@
 - Answer: B) In some part of Montreal where she was elected
 
 ## Question 107
+
 - How is the government formed after a federal election?
 - Options:
   - A) Each province elects one representative to form the government. The king then chooses the prime minister
@@ -953,6 +1063,7 @@
 - Answer: C) The party with the most elected representatives becomes the party in power. The leader of this party becomes the prime minister
 
 ## Question 108
+
 - Who is Canada's head of state?
 - Options:
   - A) The premier of Canada
@@ -962,6 +1073,7 @@
 - Answer: B) A hereditary sovereign, queen or king?
 
 ## Question 109
+
 - Who chose Ottawa as the capital of Canada?
 - Options:
   - A) Queen Elizabeth I,
@@ -971,6 +1083,7 @@
 - Answer: C) Queen Victoria
 
 ## Question 110
+
 - When was the current flag of Canada raised for the first time?
 - Options:
   - A) 1921
@@ -980,6 +1093,7 @@
 - Answer: B) 1965
 
 ## Question 111
+
 - What are the prime minister and cabinet ministers together called?
 - Options:
   - A) the government,
@@ -989,6 +1103,7 @@
 - Answer: B) the cabinet
 
 ## Question 112
+
 - In which province are more than half of Canada's aeronautics and space industry located?
 - Options:
   - A) Saskatchewan,
@@ -998,6 +1113,7 @@
 - Answer: C) Quebec
 
 ## Question 113
+
 - Who is General Sir Arthur Curry?
 - Options:
   - A) Canada's greatest soldier in the First World War?
@@ -1007,6 +1123,7 @@
 - Answer: A) Canada's greatest soldier in the First World War
 
 ## Question 114
+
 - Which province was split into two at Confederation?
 - Options:
   - A) Lower Canada
@@ -1016,6 +1133,7 @@
 - Answer: D) The province of Canada
 
 ## Question 115
+
 - What are the territories of Northern Canada and their capital cities?
 - Options:
   - A) Yukon, White Horse. Northwest Territories Yellow Knife and Nunivot Akaluit
@@ -1025,6 +1143,7 @@
 - Answer: A) Yukon White Horse Northwest Territories Yellow Knife. And Nunovot akaluit
 
 ## Question 116
+
 - What does the word Inuit mean?
 - Options:
   - A) Essimo in the intitute language
@@ -1034,6 +1153,7 @@
 - Answer: C) The people in the intitute language
 
 ## Question 117
+
 - Which party becomes the official opposition?
 - Options:
   - A) The party the prime minister selects,
@@ -1043,6 +1163,7 @@
 - Answer: C) the party with the second most votes
 
 ## Question 118
+
 - who played an important part in building the Canadian Pacific Railway?
 - Options:
   - A) Acadian railroad workers,
@@ -1052,6 +1173,7 @@
 - Answer: D) Chinese railroad workers
 
 ## Question 119
+
 - Which provinces are connected to Ontario by land?
 - Options:
   - A) New Brunswick and Quebec
@@ -1061,6 +1183,7 @@
 - Answer: C) Manitoba and Quebec
 
 ## Question 120
+
 - Who do members of parliament represent?
 - Options:
   - A) Everyone who lives in his or her electoral district
@@ -1070,6 +1193,7 @@
 - Answer: A) everyone who lives in his or her electoral district
 
 ## Question 121
+
 - What is the role of the opposition parties?
 - Options:
   - A) To ensure reports about the current government are sent to the king
@@ -1079,6 +1203,7 @@
 - Answer: C) To oppose or try to improve government proposals
 
 ## Question 122
+
 - On what date did Nunovet become a territory?
 - Options:
   - A) April 1st, 1999
@@ -1088,6 +1213,7 @@
 - Answer: A) April 1st, 1999
 
 ## Question 123
+
 - Why is the British North America Act important in Canadian history?
 - Options:
   - A) It was agreed to by the First Nations and Inuit
@@ -1097,6 +1223,7 @@
 - Answer: D) It made confederation legal
 
 ## Question 124
+
 - Which of the following statements accurately describes the Quebec flag known as the Florel?
 - Options:
   - A) It features a white cross with four roses in its quadrants and was adopted in 1948
@@ -1106,6 +1233,7 @@
 - Answer: B) It features a white cross with four fli in its quadrants and was adopted in 1948
 
 ## Question 125
+
 - Who built the French empire in North America?
 - Options:
   - A) King Charles II
@@ -1115,6 +1243,7 @@
 - Answer: B) Jealong. Bishop Laval and Count Front
 
 ## Question 126
+
 - Which province is on the Pacific coast of Canada?
 - Options:
   - A) Nova Scotia
@@ -1124,6 +1253,7 @@
 - Answer: D) British Columbia
 
 ## Question 127
+
 - How many Great Lakes are located between Ontario and the United States?
 - Options:
   - A) 4
@@ -1133,6 +1263,7 @@
 - Answer: B) 5
 
 ## Question 128
+
 - Which one is Canada's best known symbol and national police force?
 - Options:
   - A) RMCP,
@@ -1142,6 +1273,7 @@
 - Answer: D) RCMP
 
 ## Question 129
+
 - Which group of Aboriginal peoples has the largest population in the Northern Territories in Nunovat?
 - Options:
   - A) Aadians
@@ -1151,6 +1283,7 @@
 - Answer: D) Inuit
 
 ## Question 130
+
 - Where are the Parliament buildings located?
 - Options:
   - A) Toronto
@@ -1160,6 +1293,7 @@
 - Answer: D) Ottawa
 
 ## Question 131
+
 - What forms a jury?
 - Options:
   - A) Politicians
@@ -1169,6 +1303,7 @@
 - Answer: D) citizens
 
 ## Question 132
+
 - What is the significance of the Quebec Act of 1774?
 - Options:
   - A) It allowed Quebec to gain independence
@@ -1178,6 +1313,7 @@
 - Answer: C) Canada's tolerance of religious tradition under the law
 
 ## Question 133
+
 - Who has the right to be considered first for a job in the federal government?
 - Options:
   - A) Canadian citizens
@@ -1187,6 +1323,7 @@
 - Answer: A) Canadian citizens
 
 ## Question 134
+
 - Who are angophones?
 - Options:
   - A) People who were taught English at school?
@@ -1196,6 +1333,7 @@
 - Answer: D) People who speak English as a first language
 
 ## Question 135
+
 - Who were the voyagers?
 - Options:
   - A) Montrealbased traders who traveled by canoe
@@ -1205,6 +1343,7 @@
 - Answer: A) Montreal-based traders who traveled by canoe
 
 ## Question 136
+
 - Which countries fought in the Battle of the Plains of Abraham?
 - Options:
   - A) British and German
@@ -1214,6 +1353,7 @@
 - Answer: B) British and French
 
 ## Question 137
+
 - When did the Canadian Charter of Rights and Freedoms become part of the Constitution?
 - Options:
   - A) 1892,
@@ -1223,6 +1363,7 @@
 - Answer: C) 1 1982
 
 ## Question 138
+
 - Which group of Aboriginal peoples has the largest population in Canada?
 - Options:
   - A) Aadians
@@ -1232,6 +1373,7 @@
 - Answer: B) First Nations
 
 ## Question 139
+
 - Why is the Constitution Act of 1982 important in Canadian history?
 - Options:
   - A) Canada can modify the Constitution without the approval from the British government
@@ -1241,6 +1383,7 @@
 - Answer: A) Canada can modify the Constitution without the approval from the British government
 
 ## Question 140
+
 - Which province has the most valuable forest industry in Canada?
 - Options:
   - A) Ontario
@@ -1250,6 +1393,7 @@
 - Answer: D) British Columbia
 
 ## Question 141
+
 - Which of the following best describes the sport of lacrosse?
 - Options:
   - A) The official winter sport
@@ -1259,6 +1403,7 @@
 - Answer: C) The official summer sport
 
 ## Question 142
+
 - What do you call a law before it is passed?
 - Options:
   - A) A proposed law
@@ -1268,6 +1413,7 @@
 - Answer: B) A bill
 
 ## Question 143
+
 - Who among these is a Nobel Prizewinning scientist?
 - Options:
   - A) Ghard Herszburg
@@ -1277,6 +1423,7 @@
 - Answer: A) Ghard Herszburg
 
 ## Question 144
+
 - Canadians have rights and fundamental freedoms such as
 - Options:
   - A) thought and belief
@@ -1286,6 +1433,7 @@
 - Answer: D) All of the above
 
 ## Question 145
+
 - When did the British North America Act come into effect?
 - Options:
   - A) 1867,
@@ -1295,6 +1443,7 @@
 - Answer: A) 1867
 
 ## Question 146
+
 - What is the highest honor available to Canadians?
 - Options:
   - A) The Queen's Medal
@@ -1304,6 +1453,7 @@
 - Answer: D) Victoria Cross
 
 ## Question 147
+
 - Which city provides important shipping and air links across the Pacific Ocean?
 - Options:
   - A) Victoria
@@ -1313,6 +1463,7 @@
 - Answer: D) Vancouver
 
 ## Question 148
+
 - What is Terry Fox's contribution?
 - Options:
   - A) He inspired people to contribute money for cancer research
@@ -1322,6 +1473,7 @@
 - Answer: A) He inspired people to contribute money for cancer research
 
 ## Question 149
+
 - What are three minerals still mined in the territories today?
 - Options:
   - A) Lead, gold, and zinc
@@ -1331,6 +1483,7 @@
 - Answer: A) Lead, gold, and zinc
 
 ## Question 150
+
 - What are the regions of Canada?
 - Options:
   - A) West, North, South, East, and Central
@@ -1340,6 +1493,7 @@
 - Answer: C) Atlantic, North Central, Prairies, and West Coast
 
 ## Question 151
+
 - What is the head of the city called?
 - Options:
   - A) Mayor,
@@ -1349,6 +1503,7 @@
 - Answer: A) Mayor
 
 ## Question 152
+
 - In what sorts of jobs do most Canadians work?
 - Options:
   - A) Service
@@ -1358,6 +1513,7 @@
 - Answer: A) Service
 
 ## Question 153
+
 - What is written on an election ballot?
 - Options:
   - A) The names of the candidates in your election district
@@ -1367,6 +1523,7 @@
 - Answer: A) The names of the candidates in your election district
 
 ## Question 154
+
 - Which province is the only officially bilingual province?
 - Options:
   - A) Ontario
@@ -1376,6 +1533,7 @@
 - Answer: D) New Brunswick
 
 ## Question 155
+
 - Where do most French-speaking Canadians live?
 - Options:
   - A) Nova Scotia
@@ -1385,6 +1543,7 @@
 - Answer: B) Quebec
 
 ## Question 156
+
 - Who started the women's suffrage movement in Canada?
 - Options:
   - A) Agnes McFale
@@ -1394,6 +1553,7 @@
 - Answer: C) Dr. Emily Stowe
 
 ## Question 157
+
 - What will you promise when you take the oath of citizenship?
 - Options:
   - A) Carry out responsibilities as a Canadian citizen
@@ -1403,6 +1563,7 @@
 - Answer: D) Pledge loyalty to the Queen or King. Observe the laws and fulfill the duties of a Canadian
 
 ## Question 158
+
 - The Quebec Act of 1774.
 - Options:
   - A) Allowed religious freedom for Catholics
@@ -1412,6 +1573,7 @@
 - Answer: D) All of the above
 
 ## Question 159
+
 - What region is called the land of the midnight sun?
 - Options:
   - A) Central Canada,
@@ -1421,6 +1583,7 @@
 - Answer: B) The Northern Territories
 
 ## Question 160
+
 - What does it mean for a political party to be in power?
 - Options:
   - A) to gain the approval of the queen or king?
@@ -1430,6 +1593,7 @@
 - Answer: B) To have the most elected representatives
 
 ## Question 161
+
 - Which two provinces produce more than 3/4 of Canadian manufactured goods?
 - Options:
   - A) Quebec and Manitoba,
@@ -1439,6 +1603,7 @@
 - Answer: C) Ontario and Quebec
 
 ## Question 162
+
 - Give an example of how you can demonstrate responsibility by being involved in your community.
 - Options:
   - A) Minding your own business
@@ -1448,6 +1613,7 @@
 - Answer: D) Volunteering
 
 ## Question 163
+
 - To which of the following communities do the majority of Canadians belong?
 - Options:
   - A) Christian,
@@ -1457,6 +1623,7 @@
 - Answer: A) Christian
 
 ## Question 164
+
 - Which Canadian province is the largest producer of oil and natural gas?
 - Options:
   - A) Quebec
@@ -1466,6 +1633,7 @@
 - Answer: D) Alberta
 
 ## Question 165
+
 - Which is the northeastern province in Canada that has its own time zone?
 - Options:
   - A) Alberta
@@ -1475,6 +1643,7 @@
 - Answer: B) Newfoundland and Labrador
 
 ## Question 166
+
 - What is the voting procedure in Canada?
 - Options:
   - A) Whichever way you like
@@ -1484,6 +1653,7 @@
 - Answer: C) Secret ballot
 
 ## Question 167
+
 - Which is the Canadian province with the largest population?
 - Options:
   - A) Ontario
@@ -1493,6 +1663,7 @@
 - Answer: A) Ontario
 
 ## Question 168
+
 - What do Canadians normally wear on Remembrance Day?
 - Options:
   - A) a red poppy
@@ -1502,6 +1673,7 @@
 - Answer: A) A red poppy
 
 ## Question 169
+
 - What does CPR stand for?
 - Options:
   - A) Canadian Pacific Railway
@@ -1511,6 +1683,7 @@
 - Answer: A) Canadian Pacific Railway
 
 ## Question 170
+
 - How long is the Lieutenant Governor appointed for?
 - Options:
   - A) 3 years,
@@ -1520,6 +1693,7 @@
 - Answer: C) 5 years
 
 ## Question 171
+
 - What is the fundamental characteristic of Canadian heritage and identity?
 - Options:
   - A) Multiculturalism
@@ -1529,6 +1703,7 @@
 - Answer: A) Multiculturalism
 
 ## Question 172
+
 - When does Canada celebrate Thanksgiving?
 - Options:
   - A) The second Monday of October
@@ -1538,6 +1713,7 @@
 - Answer: A) The second Monday of October
 
 ## Question 173
+
 - What is the symbol of the Canadian government?
 - Options:
   - A) the Parliament,
@@ -1547,6 +1723,7 @@
 - Answer: B) the Crown
 
 ## Question 174
+
 - In the 1960s, Quebec experienced an era of rapid change. What is it called?
 - Options:
   - A) The East Movement,
@@ -1556,6 +1733,7 @@
 - Answer: B) The Quiet Revolution
 
 ## Question 175
+
 - Who invented the worldwide system of standard time zones?
 - Options:
   - A) Joseph Armand Bombadier
@@ -1565,6 +1743,7 @@
 - Answer: C) Sir Sanford Fleming
 
 ## Question 176
+
 - The ancestors of the Aboriginals are believed to have migrated from which of the following continents?
 - Options:
   - A) Asia
@@ -1574,6 +1753,7 @@
 - Answer: A) Asia
 
 ## Question 177
+
 - The municipal government is responsible for which of the following?
 - Options:
   - A) Natural resources
@@ -1583,6 +1763,7 @@
 - Answer: C) Garbage removal
 
 ## Question 178
+
 - Who is a premier?
 - Options:
   - A) The prime minister is also called the premier
@@ -1592,6 +1773,7 @@
 - Answer: B) A premier has a role similar to that of the prime minister in a federal government
 
 ## Question 179
+
 - Which oceans line Canada's frontiers?
 - Options:
   - A) The Pacific Ocean in the west
@@ -1601,6 +1783,7 @@
 - Answer: D) All of the above
 
 ## Question 180
+
 - Who is the head of the government in Canada?
 - Options:
   - A) the sovereign,
@@ -1610,6 +1793,7 @@
 - Answer: B) The prime minister
 
 ## Question 181
+
 - What do we need to bring with us for voting?
 - Options:
   - A) Voter information card, voter's identity, and address proof
@@ -1619,6 +1803,7 @@
 - Answer: A) Voter information card, voters's identity, and address proof
 
 ## Question 182
+
 - Where have most immigrants come from since the 1970s,
 - Options:
   - A) Asia,
@@ -1628,6 +1813,7 @@
 - Answer: A) Asia
 
 ## Question 183
+
 - For what product did the first companies formed in Canada compete?
 - Options:
   - A) timber trade,
@@ -1637,6 +1823,7 @@
 - Answer: C) Fur trade
 
 ## Question 184
+
 - How many Canadians were killed in World War I from 1914 to 1918?
 - Options:
   - A) 60,000
@@ -1646,6 +1833,7 @@
 - Answer: A) 60,000
 
 ## Question 185
+
 - Question 185 How many Canadians have been awarded the Victoria Cross?
 - Options:
   - A) 96
@@ -1655,6 +1843,7 @@
 - Answer: A) 96
 
 ## Question 186
+
 - Which country was liberated by the Canadian Army in 1944 1945?
 - Options:
   - A) Germany,
@@ -1664,6 +1853,7 @@
 - Answer: C) the Netherlands
 
 ## Question 187
+
 - Who is known as the greatest living Canadian?
 - Options:
   - A) Dr. Wilder Penfield
@@ -1673,6 +1863,7 @@
 - Answer: A) Dr. Wilder Penfield
 
 ## Question 188
+
 - Which province has the largest population of Aboriginals?
 - Options:
   - A) Manitoba
@@ -1682,6 +1873,7 @@
 - Answer: A) Manitoba
 
 ## Question 189
+
 - How large is Canada?
 - Options:
   - A) A about 8 million km
@@ -1691,6 +1883,7 @@
 - Answer: B) About 10 million km
 
 ## Question 190
+
 - Where is the most important harbor in Eastern Canada located?
 - Options:
   - A) Vancouver
@@ -1700,6 +1893,7 @@
 - Answer: C) Halifax
 
 ## Question 191
+
 - Who is considered Canada's greatest soldier?
 - Options:
   - A) General Sir Arthur Curry
@@ -1709,6 +1903,7 @@
 - Answer: A) General Sir Arthur Curry
 
 ## Question 192
+
 - What three oceans border Canada?
 - Options:
   - A) Hudson, Pacific, and Atlantic
@@ -1718,6 +1913,7 @@
 - Answer: D) Atlantic, Arctic, and Pacific
 
 ## Question 193
+
 - In which act are the responsibilities of the federal and provincial government defined?
 - Options:
   - A) the federal act,
@@ -1727,6 +1923,7 @@
 - Answer: D) the Constitution Act
 
 ## Question 194
+
 - Which courts are for civil cases involving small sums of money?
 - Options:
   - A) the federal court
@@ -1736,6 +1933,7 @@
 - Answer: B) The small claims courts
 
 ## Question 195
+
 - What is a voter information card?
 - Options:
   - A) A list tells you who the candidates are in your electoral district
@@ -1745,6 +1943,7 @@
 - Answer: C) A form that tells you where and when to vote
 
 ## Question 196
+
 - What is the head tax?
 - Options:
   - A) Race-based entry fee charged for Chinese entering Canada
@@ -1754,6 +1953,7 @@
 - Answer: A) Race-based entry fee charged for Chinese entering Canada
 
 ## Question 197
+
 - Which of the following are the responsibilities of the federal government?
 - Options:
   - A) National Defense, Foreign Policy, International Trade and Aboriginal Affairs
@@ -1763,6 +1963,7 @@
 - Answer: A) National Defense, foreign policy, international trade, and Aboriginal affairs
 
 ## Question 198
+
 - In Canada's justice system, what does presumption of innocence mean?
 - Options:
   - A) The prime minister can determine who is innocent in a court
@@ -1772,6 +1973,7 @@
 - Answer: C) Everyone is innocent until proven guilty
 
 ## Question 199
+
 - What does the register of electors contain?
 - Options:
   - A) A list of all Canadian citizens who are qualified to vote in federal elections and referendums
@@ -1781,6 +1983,7 @@
 - Answer: A) A list of all Canadian citizens who are qualified to vote in federal elections and referendums
 
 ## Question 200
+
 - In the Canadian justice system, what are the roles of the courts and the police?
 - Options:
   - A) The courts make laws and the police enforce them
@@ -1790,6 +1993,7 @@
 - Answer: D) The courts settle disputes and the police enforce the laws
 
 ## Question 2011
+
 - What is the reason behind the Canada and US border?
 - Options:
   - A) To improve security
@@ -1799,6 +2003,7 @@
 - Answer: C) Canada wishes to remain independent of the United States
 
 ## Question 202
+
 - What is the other name for a trial court?
 - Options:
   - A) The Court of Queen's Bench,
@@ -1808,6 +2013,7 @@
 - Answer: A) The Court of Queens bench
 
 ## Question 203
+
 - What is the minimum age for voting in federal, provincial, Territorial, and Municipal Elections?
 - Options:
   - A) 16,
@@ -1817,6 +2023,7 @@
 - Answer: B) 18
 
 ## Question 204
+
 - What is the tenure of the Governor General?
 - Options:
   - A) four years,
@@ -1826,6 +2033,7 @@
 - Answer: B) 5 years
 
 ## Question 205
+
 - Postwar, Canada became a more flexible and open society. Which of the following was this based on?
 - Options:
   - A) Equality of men and women,
@@ -1835,6 +2043,7 @@
 - Answer: A) Equality of men and women
 
 ## Question 206
+
 - Which three rights are included in the Canadian Charter of Rights and Freedoms?
 - Options:
   - A) Freedom of expression rights, property rights, and fair trial rights?
@@ -1844,6 +2053,7 @@
 - Answer: B) Mobility rights, Aboriginal people's rights, and official language rights
 
 ## Question 207
+
 - Which of the following are the three founding peoples of Canada?
 - Options:
   - A) American, French, and British
@@ -1853,6 +2063,7 @@
 - Answer: B) Aboriginal, French, and British
 
 ## Question 208
+
 - To what ocean is Newfoundland closest?
 - Options:
   - A) Atlantic
@@ -1862,6 +2073,7 @@
 - Answer: A) Atlantic
 
 ## Question 209
+
 - What UN operation did Canada participate in from 1950 to 1953?
 - Options:
   - A) Canadian forces defended Hong Kong
@@ -1871,6 +2083,7 @@
 - Answer: C) Canada participated in the UN operation defending South Korea in the Korean War
 
 ## Question 210
+
 - From whom are the Acadians descended?
 - Options:
   - A) Matei and Inuit
@@ -1880,6 +2093,7 @@
 - Answer: D) French colonists who began settling in what are now the Maritime Provinces in6004
 
 ## Question 21
+
 - Who has the right to enter and leave Canada at will?
 - Options:
   - A) prisoners,
@@ -1889,6 +2103,7 @@
 - Answer: C) Canadian citizens
 
 ## Question 12
+
 - What was the significance of June 6th, 1944 invasion of Normandy?
 - Options:
   - A) Canadians made a significant contribution to the defeat of Nazism and fascism in Europe during the Second World War
@@ -1898,6 +2113,7 @@
 - Answer: A) Canadians made a significant contribution to the defeat of Nazism and fascism in Europe during the Second World War
 
 ## Question 13
+
 - What does equality under the law mean?
 - Options:
   - A) A to be protected against any discrimination
@@ -1907,6 +2123,7 @@
 - Answer: A) To be protected against any discrimination
 
 ## Question 14
+
 - What does mobility rights mean?
 - Options:
   - A) Being able to use any mobile phone service in Canada
@@ -1916,6 +2133,7 @@
 - Answer: B) Being able to live and work anywhere in Canada
 
 ## Question 15
+
 - What is the Okonagan Valley famous for?
 - Options:
   - A) Coal mines
@@ -1925,6 +2143,7 @@
 - Answer: C) Fruit orchards
 
 ## Question 16
+
 - When did the name of Canada begin appearing on maps?
 - Options:
   - A) By the 1750s,
@@ -1934,7 +2153,9 @@
 - Answer: C) By the 1550s
 
 ## Question 17
+
 - What is a minority government?
+
 - Options:
   - A) The party in power holds less than half of the seats in the House of Commons
   - B) The party in power holds less than half of the seats in the House of Commons and the Senate
@@ -1943,6 +2164,7 @@
 - Answer: A) The party in power holds less than half of the seats in the House of Commons
 
 ## Question 218
+
 - Where are the Great Lakes?
 - Options:
   - A) Atlantic Canada
@@ -1952,6 +2174,7 @@
 - Answer: C) between Ontario and the United States
 
 ## Question 219
+
 - What is the difference between the role of the sovereign and that of the prime minister?
 - Options:
   - A) The sovereign links Canada to 52 other nations and the prime minister is the guardian of constitutional freedoms
@@ -1961,6 +2184,7 @@
 - Answer: D) The sovereign is the guardian of constitutional freedoms. The prime minister selects the cabinet ministers and is responsible for operations and policy of government
 
 ## Question 20
+
 - What is the meaning of the remembrance day poppy?
 - Options:
   - A) To remember our sovereign Queen Elizabeth II
@@ -1970,6 +2194,7 @@
 - Answer: B) to remember the sacrifice of Canadians who have served or died in wars up to the present day
 
 ## Question 221
+
 - You can vote in advance if
 - Options:
   - A) You are elderly
@@ -1979,6 +2204,7 @@
 - Answer: D) All of the above
 
 ## Question 22
+
 - Who signs the bills if it is approved by the provincial parliament?
 - Options:
   - A) the mayor,
@@ -1988,6 +2214,7 @@
 - Answer: D) The lieutenant governor
 
 ## Question 23
+
 - What does MPP stand for?
 - Options:
   - A) Member of the provincial parachute
@@ -1997,6 +2224,7 @@
 - Answer: C) Member of the provincial parliament
 
 ## Question 24
+
 - How are senators chosen?
 - Options:
   - A) by the premier of all provinces
@@ -2006,6 +2234,7 @@
 - Answer: C) appointed by the Governor General on the advice of the prime minister
 
 ## Question 25
+
 - Who was the first prime minister of Canada?
 - Options:
   - A) Sir John Alexander Macdonald,
@@ -2015,6 +2244,7 @@
 - Answer: A) Sir John Alexander Macdonald
 
 ## Question 226
+
 - Which animal is an official symbol of Canada?
 - Options:
   - A) the bear,
@@ -2024,6 +2254,7 @@
 - Answer: C) the beaver
 
 ## Question 27
+
 - What do you mark on a federal election ballot?
 - Options:
   - A) a check mark,
@@ -2033,6 +2264,7 @@
 - Answer: B) an X
 
 ## Question 28
+
 - What does the blindfolded Lady Justice symbolize?
 - Options:
   - A) blind to all considerations other than facts
@@ -2042,6 +2274,7 @@
 - Answer: A) Blind to all considerations other than facts
 
 ## Question 29
+
 - When did thousands of miners first come to Yukon?
 - Options:
   - A) 1870s
@@ -2051,6 +2284,7 @@
 - Answer: D) 1890s
 
 ## Question 30
+
 - When is Sir Wilfrid Laurier Day celebrated?
 - Options:
   - A) 12th of November,
@@ -2060,6 +2294,7 @@
 - Answer: B) 20th of November
 
 ## Question 31
+
 - What is the significance of the Canadian discovery of insulin?
 - Options:
   - A) It saved lives of children with sickness
@@ -2069,6 +2304,7 @@
 - Answer: B) It saved millions of lives of people with diabetes
 
 ## Question 32
+
 - Jurisdiction is shared by federal government and provinces over which of the following sectors?
 - Options:
   - A) Agriculture and immigration
@@ -2078,6 +2314,7 @@
 - Answer: A) Agriculture and immigration
 
 ## Question 33
+
 - What do you call the king's representative in the territories?
 - Options:
   - A) Commissioner,
@@ -2087,6 +2324,7 @@
 - Answer: A) Commissioner
 
 ## Question 34
+
 - What are the provinces of the Atlantic region?
 - Options:
   - A) Newfoundland, Nova Scotia, New Brunswick, and Quebec
@@ -2096,6 +2334,7 @@
 - Answer: C) Nova Scotia, Newfoundland, New Brunswick, and Prince Edward Island
 
 ## Question 235
+
 - Why is the Battle of Vimei Ridge important in Canadian history?
 - Options:
   - A) It was the last battle of the First World War
@@ -2105,6 +2344,7 @@
 - Answer: B) It has come to symbolize Canada's becoming as a nation
 
 ## Question 236
+
 - From where does the name Canada come?
 - Options:
   - A) from the Inuit word Canada meaning nations
@@ -2114,6 +2354,7 @@
 - Answer: B) from Canada, the First Nations word for village
 
 ## Question 37
+
 - What are the three main types of industry in Canada?
 - Options:
   - A) Natural resources, manufacturing and services
@@ -2123,6 +2364,7 @@
 - Answer: A) Natural resources, manufacturing, and services
 
 ## Question 238
+
 - Which country lies on Canada's southern border?
 - Options:
   - A) Central America,
@@ -2132,6 +2374,7 @@
 - Answer: D) United States of America
 
 ## Question 39
+
 - What are the prairie provinces?
 - Options:
   - A) Saskatchewan and Manitoba
@@ -2141,6 +2384,7 @@
 - Answer: C) Saskatchewan, Alberta, and Manitoba
 
 ## Question 240
+
 - Where do English and French have equal status in Canada?
 - Options:
   - A) in the workplace,
@@ -2150,6 +2394,7 @@
 - Answer: C) in the Parliament of Canada
 
 ## Question 41
+
 - What is a majority government?
 - Options:
   - A) The party in power holds at least half of the seats in the House of Commons and the Senate
@@ -2159,6 +2404,7 @@
 - Answer: B) The party in power holds at least half of the seats in the House of Commons
 
 ## Question 242
+
 - Which countries fought in the War of 1812?
 - Options:
   - A) United Kingdom and United States of America
@@ -2168,6 +2414,7 @@
 - Answer: A) United Kingdom and United States of America
 
 ## Question 243
+
 - Name three requirements you must meet in order to vote in a federal election.
 - Options:
   - A) Canadian citizen at least 21 years old and on the list of electors
@@ -2177,6 +2424,7 @@
 - Answer: B) Canadian citizen at least 18 years old and on the voters list
 
 ## Question 244
+
 - Which two provinces are on the Atlantic coast of Canada?
 - Options:
   - A) British Columbia and Yukon?
@@ -2186,6 +2434,7 @@
 - Answer: B) Nova Scotia and New Brunswick
 
 ## Question 45
+
 - How many provinces and territories are there in Canada?
 - Options:
   - A) Eight provinces and three territories
@@ -2195,6 +2444,7 @@
 - Answer: D) 10 provinces and three territories
 
 ## Question 246
+
 - Which of the following statements about residential schools is not true?
 - Options:
   - A) The federal government placed many Aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture
@@ -2204,6 +2454,7 @@
 - Answer: C) The schools were welcomed by the Aboriginal people
 
 ## Question 47
+
 - Who have major responsibilities on First Nations reserves?
 - Options:
   - A) Band chiefs and counselors
@@ -2213,6 +2464,7 @@
 - Answer: A) Ban chiefs and counselors
 
 ## Question 48
+
 - What important trade did the Hudson Bay Company control?
 - Options:
   - A) Gold
@@ -2222,6 +2474,7 @@
 - Answer: D) Fur
 
 ## Question 49
+
 - who are exempted from the requirement of adequate knowledge of English or French in order to become a Canadian citizen.
 - Options:
   - A) anyone who doesn't live in major city
@@ -2231,6 +2484,7 @@
 - Answer: C) Any adult applicants who are 55 years of age and over
 
 ## Question 50
+
 - who played a key role in defending Canada during the war of 1812 and led a group of Shauny warriors in support of British soldiers and Canadian volunteers.
 - Options:
   - A) Major General Sir Isaac Brock
@@ -2240,6 +2494,7 @@
 - Answer: C) Chief Tecumpsa
 
 ## Question 251
+
 - Which of the following are the responsibilities of local government?
 - Options:
   - A) education, foreign policy and transportation?
@@ -2249,6 +2504,7 @@
 - Answer: D) Social and community health, snow removal and transportation
 
 ## Question 52
+
 - What does the Canadian flag look like?
 - Options:
   - A) Red with a white maple leaf
@@ -2258,6 +2514,7 @@
 - Answer: C) White with a red border on each end and a red maple leaf in the center
 
 ## Question 53
+
 - What does confederation mean?
 - Options:
   - A) the joining of provinces to become a new country
@@ -2267,6 +2524,7 @@
 - Answer: A) The joining of provinces to become a new country
 
 ## Question 254
+
 - In what year were the Aboriginal peoples granted the right to vote?
 - Options:
   - A) 1960
@@ -2276,6 +2534,7 @@
 - Answer: A) 1960
 
 ## Question 55
+
 - In which period did Canada's economy and industry experience a boom?
 - Options:
   - A) 1880s
@@ -2285,6 +2544,7 @@
 - Answer: B) 1890s and early 1900s
 
 ## Question 56
+
 - What are the three parts of Parliament?
 - Options:
   - A) The Queen or King, Governor General and Prime Minister
@@ -2294,6 +2554,7 @@
 - Answer: C) The Queen or King, the House of Commons, and the Senate
 
 ## Question 257
+
 - Which two are Great Lakes?
 - Options:
   - A) St. Lawrence and Superior
@@ -2303,6 +2564,7 @@
 - Answer: D) hurin and Eerie
 
 ## Question 58
+
 - What is known as the effort by women to achieve the right to vote?
 - Options:
   - A) The suffrage motion of women?
@@ -2312,6 +2574,7 @@
 - Answer: D) The women's suffrage movement
 
 ## Question 59
+
 - What do political parties do?
 - Options:
   - A) Follow commands from the king
@@ -2321,6 +2584,7 @@
 - Answer: B) Share ideas about how government should work
 
 ## Question 60
+
 - Who were the United Empire loyalists?
 - Options:
   - A) Inuit and First Nations
@@ -2330,6 +2594,7 @@
 - Answer: D) Settlers from the United States during the American Revolution
 
 ## Question 61
+
 - What does the right to a secret ballot mean?
 - Options:
   - A) No one can watch you vote except the election officer
@@ -2339,6 +2604,7 @@
 - Answer: D) No one can watch you vote or look at your marked ballot
 
 ## Question 262
+
 - Which province is Canada's largest producer of hydro electricity?
 - Options:
   - A) British Columbia
@@ -2348,6 +2614,7 @@
 - Answer: D) Quebec
 
 ## Question 263
+
 - Which territory shares a border with another country?
 - Options:
   - A) British Columbia,
@@ -2357,6 +2624,7 @@
 - Answer: D) Yukon Territory
 
 ## Question 264
+
 - Which four provinces first formed Confederation?
 - Options:
   - A) Ontario, Quebec, Nova Scotia, and New Brunswick
@@ -2366,6 +2634,7 @@
 - Answer: A) Ontario, Quebec, Nova Scotia, and New Brunswick
 
 ## Question 265
+
 - When was the Canadian Pacific Railway finished?
 - Options:
   - A) Late 1600s
@@ -2375,6 +2644,7 @@
 - Answer: C) Late 1800s
 
 ## Question 66
+
 - Who has the right to run as a candidate in federal elections?
 - Options:
   - A) Any person who is at least 18 years or older
@@ -2384,6 +2654,7 @@
 - Answer: B) Any Canadian citizen who is at least 18 years old
 
 ## Question 67
+
 - Under what conditions can you challenge the function or conduct of a police officer in Canada?
 - Options:
   - A) Never. Canadians cannot challenge them
@@ -2393,6 +2664,7 @@
 - Answer: D) If you consider this measure necessary
 
 ## Question 68
+
 - How does a bill become a law?
 - Options:
   - A) Must be approved by the governors of each province
@@ -2402,6 +2674,7 @@
 - Answer: B) Must be approved by a majority in the House of Commons and Senate and received royal ascent
 
 ## Question 69
+
 - Who are the Quebecers?
 - Options:
   - A) European settlers in the 1600s
@@ -2411,6 +2684,7 @@
 - Answer: D) People of Quebec
 
 ## Question 270
+
 - Fodimma is a new immigrant to Canada. Why can she choose to take a job like any man?
 - Options:
   - A) because of the equality between French and English
@@ -2420,6 +2694,7 @@
 - Answer: C) because of the equality of women and men in Canada
 
 ## Question 71
+
 - Why is British Columbia known as Canada's Pacific gateway?
 - Options:
   - A) Because billions of dollars in goods are shipped to and from Asia
@@ -2429,6 +2704,7 @@
 - Answer: A) because billions of dollars in goods are shipped to and from Asia
 
 ## Question 272
+
 - When was the Magna Carta signed?
 - Options:
   - A) 1649
@@ -2438,6 +2714,7 @@
 - Answer: B) 1215
 
 ## Question 73
+
 - What does the great charter of freedom include?
 - Options:
   - A) Aboriginal people's rights,
@@ -2447,6 +2724,7 @@
 - Answer: C) Freedom of conscience and religion
 
 ## Question 74
+
 - What is habius corpus?
 - Options:
   - A) The right to live and work anywhere in Canada
@@ -2456,6 +2734,7 @@
 - Answer: D) The right to challenge unlawful detention by the state
 
 ## Question 75
+
 - Who invented the snowmobile?
 - Options:
   - A) Alexander Graham Bell?
@@ -2465,6 +2744,7 @@
 - Answer: B) Joseph Armand Bombadier
 
 ## Question 276
+
 - Who out of the following is above the law in Canada?
 - Options:
   - A) judges,
@@ -2474,6 +2754,7 @@
 - Answer: D) no one
 
 ## Question 77
+
 - What are the three branches of the Canadian government?
 - Options:
   - A) executive, Senate and Judicial
@@ -2483,6 +2764,7 @@
 - Answer: D) Executive, legislative, and judicial
 
 ## Question 78
+
 - Under Canadian law, why is every person presumed to be innocent until proven guilty?
 - Options:
   - A) No person or group is above the law
@@ -2492,6 +2774,7 @@
 - Answer: D) To guarantee the due legal process under the law
 
 ## Question 79
+
 - Who governs Canada on a daily basis at the federal level?
 - Options:
   - A) the premier,
@@ -2501,6 +2784,7 @@
 - Answer: D) The prime minister
 
 ## Question 80
+
 - What does the Canadian crown symbolize?
 - Options:
   - A) Amari admare
@@ -2510,6 +2794,7 @@
 - Answer: D) Canada is a constitutional monarchy
 
 ## Question 81
+
 - Who is awarded the honor of Victoria Cross?
 - Options:
   - A) Canadian politicians
@@ -2519,6 +2804,7 @@
 - Answer: D) A Canadian showing conspicuous bravery or self-sacrifice?
 
 ## Question 282
+
 - Federal elections are carried out to elect.
 - Options:
   - A) the premier,
@@ -2528,6 +2814,7 @@
 - Answer: C) The member of parliament
 
 ## Question 83
+
 - What is a part of our heritage under the Canadian legal system?
 - Options:
   - A) Freedom under law
@@ -2537,6 +2824,7 @@
 - Answer: D) All of the above
 
 ## Question 84
+
 - What is Canada's largest city and main financial center?
 - Options:
   - A) Vancouver
@@ -2546,6 +2834,7 @@
 - Answer: B) Toronto
 
 ## Question 285
+
 - Which of the following describe two responsibilities of provincial or territorial government?
 - Options:
   - A) Policing and citizenship
@@ -2555,6 +2844,7 @@
 - Answer: D) Education and healthcare
 
 ## Question 286
+
 - Where do Inuit people live?
 - Options:
   - A) Ontario
@@ -2564,6 +2854,7 @@
 - Answer: C) in scattered communities across the Arctic
 
 ## Question 287
+
 - Who contributed to the invention of the radio and also sent the world's first wireless voice message?
 - Options:
   - A) Regginald Fessendon
@@ -2573,6 +2864,7 @@
 - Answer: A) Regginald Fessendon
 
 ## Question 288
+
 - Which region was stormed and captured on D-Day, June 6th, 1944 by the Canadian troops?
 - Options:
   - A) Berlin
@@ -2582,6 +2874,7 @@
 - Answer: B) Juno Beach
 
 ## Question 89
+
 - Who invented the sport of basketball?
 - Options:
   - A) Canadians
@@ -2591,6 +2884,7 @@
 - Answer: A) Canadians
 
 ## Question 90
+
 - What are the men who established Canada called?
 - Options:
   - A) Fathers of Confederation
@@ -2600,6 +2894,7 @@
 - Answer: A) Fathers of Confederation
 
 ## Question 291
+
 - Which of the following describe two responsibilities of federal government?
 - Options:
   - A) National Defense and Foreign Policy
@@ -2609,6 +2904,7 @@
 - Answer: A) National Defense and Foreign Policy
 
 ## Question 292
+
 - In which year was the British Parliament prohibited from buying and selling slaves?
 - Options:
   - A) 1793,
@@ -2618,6 +2914,7 @@
 - Answer: C) 1807
 
 ## Question 293
+
 - Who became the first French Canadian prime minister since the formation of Confederation?
 - Options:
   - A) Sir John Alexander Macdonald
@@ -2627,6 +2924,7 @@
 - Answer: B) Sir Wilfrid Laurier
 
 ## Question 294
+
 - Which of the following is the highest court of Canada?
 - Options:
   - A) A provincial court
@@ -2636,6 +2934,7 @@
 - Answer: C) The Supreme Court
 
 ## Question 295
+
 - Who represents an electoral district?
 - Options:
   - A) The commissioner
@@ -2645,6 +2944,7 @@
 - Answer: D) A member of parliament
 
 ## Question 296
+
 - Which of the following was invented by Alexander Graham Bell?
 - Options:
   - A) Blackberry
@@ -2654,6 +2954,7 @@
 - Answer: C) Telephone
 
 ## Question 297
+
 - Which sport has the greatest number of registered players in Canada?
 - Options:
   - A) Lacrosse
@@ -2663,6 +2964,7 @@
 - Answer: B) Soccer
 
 ## Question 298
+
 - What is celebrated on April 9th?
 - Options:
   - A) Vimi Day
@@ -2672,6 +2974,7 @@
 - Answer: A) vimei day
 
 ## Question 299
+
 - When was employment insurance introduced by the Canadian federal government?
 - Options:
   - A) 1947
@@ -2681,6 +2984,7 @@
 - Answer: C) 1940
 
 ## Question 300
+
 - What information can be found on a voter information card?
 - Options:
   - A) confirms that your name is on the voter's list
@@ -2690,6 +2994,7 @@
 - Answer: D) All of the above
 
 ## Question 301
+
 - Which one of these is the Canadian icon?
 - Options:
   - A) The national flag
@@ -2699,6 +3004,7 @@
 - Answer: C) The snowbirds
 
 ## Question 302
+
 - What is due process?
 - Options:
   - A) The government must respect all of the legal rights a person is entitled to under the law
@@ -2708,6 +3014,7 @@
 - Answer: A) The government must respect all of the legal rights a person is entitled to under the law
 
 ## Question 303
+
 - Who among the following can help you with legal problems?
 - Options:
   - A) Politicians
@@ -2717,6 +3024,7 @@
 - Answer: B) Lawyers
 
 ## Question 304
+
 - To whom do we profess our loyalty in Canada?
 - Options:
   - A) The Canadian flag
@@ -2726,6 +3034,7 @@
 - Answer: B) a person who represents all Canadians
 
 ## Question 305
+
 - What is the last line of our national anthem?
 - Options:
   - A) God keep our land glorious and free
@@ -2735,6 +3044,7 @@
 - Answer: D) O Canada, we stand on guard for thee
 
 ## Question 306
+
 - The arms that can be seen on dollar bills contain symbols of
 - Options:
   - A) Scotland and Ireland,
@@ -2744,6 +3054,7 @@
 - Answer: D) All of the above
 
 ## Question 307
+
 - What are the members of the House of Commons, also known as
 - Options:
   - A) Commissioners,
@@ -2753,6 +3064,7 @@
 - Answer: B) Members of Parliament or MPs
 
 ## Question 308
+
 - Who were the United Empire loyalists?
 - Options:
   - A) people loyal to the crown?
@@ -2762,6 +3074,7 @@
 - Answer: A) People loyal to the crown
 
 ## Question 309
+
 - Which of the following governments provides publicly funded education?
 - Options:
   - A) City government,
@@ -2771,6 +3084,7 @@
 - Answer: C) Provincial and territorial governments
 
 ## Question 310
+
 - When was Canada's first financial institution opened?
 - Options:
   - A) Early 16th century
@@ -2780,6 +3094,7 @@
 - Answer: C) Late 18th and early 19th centuries
 
 ## Question 311
+
 - The first leader of a responsible government in Canada in 1849 was
 - Options:
   - A) Lewis Realel,
@@ -2789,6 +3104,7 @@
 - Answer: C) Sir Lewis Hippoly Law Fontaine
 
 ## Question 312
+
 - Who are franophones?
 - Options:
   - A) people speaking French as a first language?
@@ -2798,6 +3114,7 @@
 - Answer: A) people speaking French as a first language
 
 ## Question 313
+
 - Who recommended that upper and lower Canada be merged and given a responsible government?
 - Options:
   - A) Sir Guy Carlton
@@ -2807,6 +3124,7 @@
 - Answer: B) Lord Durham
 
 ## Question 314
+
 - How many Canadians served in World War II?
 - Options:
   - A) More than 1 million
@@ -2816,6 +3134,7 @@
 - Answer: A) More than 1 million
 
 ## Question 315
+
 - What language do more than 3/4 of the people who live in Quebec speak?
 - Options:
   - A) French is their second language
@@ -2825,6 +3144,7 @@
 - Answer: B) French as their first language
 
 ## Question 316
+
 - What is the National Police Force of Canada?
 - Options:
   - A) The Royal Canadian Mounted Police?
@@ -2834,6 +3154,7 @@
 - Answer: A) The Royal Canadian Mounted Police
 
 ## Question 317
+
 - The name Canada became the official name of the country in the year
 - Options:
   - A) 1799,
@@ -2843,6 +3164,7 @@
 - Answer: C) 1791
 
 ## Question 318
+
 - What are the three levels of government in Canada?
 - Options:
   - A) federal, provincial, and county
@@ -2852,6 +3174,7 @@
 - Answer: C) Federal, provincial, or territorial, and municipal
 
 ## Question 319
+
 - When were female Canadian citizens over the age of 21 granted the right to vote in federal elections?
 - Options:
   - A) 1933
@@ -2861,6 +3184,7 @@
 - Answer: D) 1918
 
 ## Question 320
+
 - For how long was the title Dominion of Canada officially used,
 - Options:
   - A) 100 years,
@@ -2870,6 +3194,7 @@
 - Answer: A) 100 years
 
 ## Question 321
+
 - How many judges serve in the Supreme Court of Canada?
 - Options:
   - A) 7,
@@ -2879,6 +3204,7 @@
 - Answer: B) 9
 
 ## Question 322
+
 - Who was Sir Sam Steel?
 - Options:
   - A) a great frontier hero, mounted policeman and soldier of the queen
@@ -2888,6 +3214,7 @@
 - Answer: A) A great frontier hero, mounted policeman, and soldier of the queen
 
 ## Question 323
+
 - The largest religious affiliation in Canada is
 - Options:
   - A) Roman Catholic,
@@ -2897,6 +3224,7 @@
 - Answer: A) Roman Catholic
 
 ## Question 324
+
 - Who suggested the name Dominion of Canada in 1864?
 - Options:
   - A) Sir Leonard Tilly,
@@ -2906,6 +3234,7 @@
 - Answer: A) Sir Leonard Tilly
 
 ## Question 325
+
 - What was significant about the Canadian Navy at the end of the Second World War?
 - Options:
   - A) It was the third largest navy in the world
@@ -2915,6 +3244,7 @@
 - Answer: A) It was the third largest navy in the world
 
 ## Question 326
+
 - Which is the most famous invention of research in motion? RIM, a wireless communications company?
 - Options:
   - A) the Canid arm
@@ -2924,6 +3254,7 @@
 - Answer: C) the Blackberry
 
 ## Question 327
+
 - What are the mate people a mixture of?
 - Options:
   - A) Aboriginal and European ancestry
@@ -2933,6 +3264,7 @@
 - Answer: A) Aboriginal and European ancestry
 
 ## Question 328
+
 - In 1996 at the Olympic Games, which Canadian became a world record sprinter and double Olympic gold medalist?
 - Options:
   - A) Wayne Gretzky,
@@ -2942,6 +3274,7 @@
 - Answer: C) Donovan Bailey
 
 ## Question 329
+
 - Which was the first province in the empire to move towards the abolition of slavery?
 - Options:
   - A) South Canada,
@@ -2951,6 +3284,7 @@
 - Answer: B) Upper Canada
 
 ## Question 330
+
 - Which of the following lists contains four rights that Canadians have?
 - Options:
   - A) The right to go to school, to work, to have a bank account, and to travel?
@@ -2960,6 +3294,7 @@
 - Answer: B) The right to be educated in either official language, to vote, to apply for a Canadian passport, and to enter and leave Canada freely?
 
 ## Question 331
+
 - Which province is connected to mainland Canada by one of the longest continuous multis-span bridges in the world?
 - Options:
   - A) Prince Edward Island
@@ -2969,6 +3304,7 @@
 - Answer: A) Prince Edward Island
 
 ## Question 332
+
 - Who invented the cardiac pacemaker?
 - Options:
   - A) Gabriel Dumont
@@ -2978,6 +3314,7 @@
 - Answer: C) Dr. John A. Hops
 
 ## Question 333
+
 - What is significant about the number of people living in Ontario?
 - Options:
   - A) They make up two/3s of all Canadians
@@ -2987,6 +3324,7 @@
 - Answer: C) They make up onethird of all Canadians
 
 ## Question 334
+
 - When asked who must you tell who you voted for in a federal election?
 - Options:
   - A) A police officer
@@ -2996,6 +3334,7 @@
 - Answer: D) No one
 
 ## Question 335
+
 - Which province has a long history of coal mining, forestry, and agriculture?
 - Options:
   - A) Nova Scotia
@@ -3005,6 +3344,7 @@
 - Answer: A) Nova Scotia
 
 ## Question 336
+
 - Who were the first people Aboriginal people living in Canada?
 - Options:
   - A) American and British
@@ -3014,6 +3354,7 @@
 - Answer: D) First Nations and Inuits
 
 ## Question 337
+
 - If you are unable to vote on election day, how do you vote?
 - Options:
   - A) vote at advanced polls
@@ -3023,6 +3364,7 @@
 - Answer: A) Vote at advanced polls
 
 ## Question 338
+
 - What is the first line of the Canadian national anthem?
 - Options:
   - A) O Canada, our home and native land
@@ -3032,6 +3374,7 @@
 - Answer: A) O Canada, our home and native land
 
 ## Question 339
+
 - What song is Canada's national anthem?
 - Options:
   - A) God Save the Queen or King?
@@ -3041,6 +3384,7 @@
 - Answer: B) O Canada
 
 ## Question 340
+
 - Which of the following people is the father of confederation?
 - Options:
   - A) Steven Harper
@@ -3050,6 +3394,7 @@
 - Answer: D) Sir John Alexander Macdonald
 
 ## Question 341
+
 - What is the meaning of the phrase the world's longest undefended border?
 - Options:
   - A) Canada exports billions of dollars worth of energy products to the USA
@@ -3059,6 +3404,7 @@
 - Answer: D) Millions of Canadians and Americans cross the border every year in safety
 
 ## Question 342
+
 - When was the first representative assembly in Canada elected?
 - Options:
   - A) 1791
@@ -3068,6 +3414,7 @@
 - Answer: B) 758
 
 ## Question 343
+
 - Which of the following are the provinces responsible for?
 - Options:
   - A) defense,
@@ -3077,6 +3424,7 @@
 - Answer: D) Education
 
 ## Question 344
+
 - How is Canada ranked in terms of geographical size in the world?
 - Options:
   - A) it is the largest country on Earth
@@ -3086,6 +3434,7 @@
 - Answer: B) It is the second largest country on Earth
 
 ## Question 345
+
 - When is Labor Day celebrated in Canada?
 - Options:
   - A) the 1st of July
@@ -3095,6 +3444,7 @@
 - Answer: B) The 1st Monday of September
 
 ## Question 346
+
 - What did the government do to make immigration to Western Canada easier?
 - Options:
   - A) Use the Great Lakes and Seaway to prairies
@@ -3104,6 +3454,7 @@
 - Answer: B) Built a railway across the prairies
 
 ## Question 347
+
 - What are the three main groups of Aboriginal peoples?
 - Options:
   - A) Matei, Inuit, and United Empire Loyalists,
@@ -3113,6 +3464,7 @@
 - Answer: D) Matei First Nations and Inuit
 
 ## Question 348
+
 - Which trade spread across Canada making it important to the economy for over 300 years?
 - Options:
   - A) Beaver fur trade
@@ -3122,6 +3474,7 @@
 - Answer: A) Beaver fur trade
 
 ## Question 349
+
 - What does the Governor General perform?
 - Options:
   - A) After an election, he or she invites the party with the most votes to form the new government
@@ -3131,6 +3484,7 @@
 - Answer: C) All of the above
 
 ## Question 350
+
 - When was the official languages act passed?
 - Options:
   - A) 1969
@@ -3140,6 +3494,7 @@
 - Answer: A) 1969
 
 ## Question 351
+
 - What does BNA stand for?
 - Options:
   - A) British National Alliance
@@ -3149,6 +3504,7 @@
 - Answer: B) British North America Act
 
 ## Question 352
+
 - How many levels of government are there in Canada?
 - Options:
   - A) 10,
@@ -3158,6 +3514,7 @@
 - Answer: D) 3
 
 ## Question 353
+
 - How are laws passed?
 - Options:
   - A) Signed by the Governor General
@@ -3167,6 +3524,7 @@
 - Answer: D) All of the above
 
 ## Question 354
+
 - What does official language rights and minority language educational rights mean?
 - Options:
   - A) English is more important than French in Canada
@@ -3176,6 +3534,7 @@
 - Answer: D) French and English have equal status in Parliament and throughout the government
 
 ## Question 355
+
 - From whom is Canada's tallest mountain named?
 - Options:
   - A) William Logan
@@ -3185,6 +3544,7 @@
 - Answer: A) William Logan
 
 ## Question 356
+
 - Who signs the bills to make them law?
 - Options:
   - A) The police chief
@@ -3194,6 +3554,7 @@
 - Answer: B) The Governor General
 
 ## Question 357
+
 - What is a noble way to contribute to Canada and an excellent career choice?
 - Options:
   - A) Serve in the regular Canadian forces
@@ -3203,6 +3564,7 @@
 - Answer: A) Serve in the regular Canadian forces
 
 ## Question 358
+
 - Which province is Canada's leading wheat producer?
 - Options:
   - A) Manitoba
@@ -3212,6 +3574,7 @@
 - Answer: D) Saskatchewan
 
 ## Question 359
+
 - What does a member of parliament do?
 - Options:
   - A) He or she links Canadians to the federal government
@@ -3221,6 +3584,7 @@
 - Answer: A) He or she links Canadians to the federal government
 
 ## Question 360
+
 - Which of the following are Canada's famous writers?
 - Options:
   - A) Sir Ernest McMillan and Healey Willan
@@ -3230,6 +3594,7 @@
 - Answer: C) Joy Kogawa Michael on Dutch and Rohinton mystery
 
 ## Question 3
+
 - Sir Luis Hippolite La Fontaine was known for
 - Options:
   - A) A champion of democracy and Aboriginal rights
@@ -3239,6 +3604,7 @@
 - Answer: B) A champion of democracy and French language rights and the first leader of a responsible government in the Canada
 
 ## Question 362
+
 - What document made Confederation legal?
 - Options:
   - A) The Immigration Act
@@ -3248,6 +3614,7 @@
 - Answer: B) The British North America Act
 
 ## Question 363
+
 - Which port is the largest and busiest in Canada?
 - Options:
   - A) the Port of Halifax?
@@ -3257,6 +3624,7 @@
 - Answer: C) The Port of Vancouver
 
 ## Question 364
+
 - What did the Canadian Pacific Railway symbolize?
 - Options:
   - A) Easy access to the west coast
@@ -3266,6 +3634,7 @@
 - Answer: C) Unity
 
 ## Question 365
+
 - What part of the Constitution legally protects basic rights and freedom of Canadians?
 - Options:
   - A) The Canada Charter of Responsibilities?
@@ -3275,6 +3644,7 @@
 - Answer: C) The Canadian Charter of Rights and Freedoms
 
 ## Question 366
+
 - Who started the Marathon of Hope?
 - Options:
   - A) Rick Hansen
@@ -3284,6 +3654,7 @@
 - Answer: D) Terry Fox
 
 ## Question 367
+
 - What are some of the rights and privileges of a Canadian citizen?
 - Options:
   - A) The right to be a candidate
@@ -3293,6 +3664,7 @@
 - Answer: D) All of the above
 
 ## Question 368
+
 - How many votes can a voter have in a federal election?
 - Options:
   - A) It does not matter
@@ -3302,6 +3674,7 @@
 - Answer: D) 1
 
 ## Question 369
+
 - How much of Canadian exports are destined for the USA?
 - Options:
   - A) over 1/3,
@@ -3311,6 +3684,7 @@
 - Answer: B) over 3/4
 
 ## Question 370
+
 - Where do you go to vote?
 - Options:
   - A) Polling station
@@ -3320,6 +3694,7 @@
 - Answer: A) Polling station
 
 ## Question 371
+
 - As what have poets and songwriters hailed Canada?
 - Options:
   - A) peace, order, and good government?
@@ -3329,6 +3704,7 @@
 - Answer: C) The great dominion
 
 ## Question 372
+
 - Where did the early European settlers live?
 - Options:
   - A) Western Canada,
@@ -3338,6 +3714,7 @@
 - Answer: D) Eastern and Central Canada
 
 ## Question 373
+
 - Canadians work hard to respect?
 - Options:
   - A) Marxism
@@ -3347,6 +3724,7 @@
 - Answer: B) Pluralism
 
 ## Question 374
+
 - Which of the following was a key phrase in the British North America Act, Canada's original constitutional document in 1867?
 - Options:
   - A) geopolitical entity?
@@ -3356,6 +3734,7 @@
 - Answer: C) Peace, order, and good government
 
 ## Question 375
+
 - Today, diversity enriches the lives of Canadians. Where is diversity reflected the most?
 - Options:
   - A) countryside areas
@@ -3365,6 +3744,7 @@
 - Answer: B) Cities
 
 ## Question 376
+
 - What does the MLA stand for?
 - Options:
   - A) Member of legal aid
@@ -3374,6 +3754,7 @@
 - Answer: B) Member of the legislative assembly
 
 ## Question 377
+
 - Who do provincial members of the legislative or national assemblies represent?
 - Options:
   - A) Federal and provincial governments
@@ -3383,6 +3764,7 @@
 - Answer: C) Everyone who lives in the provincial or territorial electoral district
 
 ## Question 378
+
 - What is a ballot?
 - Options:
   - A) A form that tells you when and where to vote?
@@ -3392,6 +3774,7 @@
 - Answer: C) A form for voting
 
 ## Question 379
+
 - Who elects the members to the House of Commons in Ottawa and to the provincial and territorial legislatures?
 - Options:
   - A) the government employees
@@ -3401,6 +3784,7 @@
 - Answer: D) The people
 
 ## Question 380
+
 - Name two important documents that describe our rights and freedoms.
 - Options:
   - A) The Canadian Constitution and English Common Law
@@ -3410,6 +3794,7 @@
 - Answer: C) The Canadian Charter of Rights and Freedoms and Magna Carta, the Great Charter of Freedoms
 
 ## Question 381
+
 - What is the final step before a bill becomes law?
 - Options:
   - A) approved by the king
@@ -3419,6 +3804,7 @@
 - Answer: C) Approved by the Governor General
 
 ## Question 382
+
 - When you vote on election day, what do you do?
 - Options:
   - A) Go to the voting station, tell them who you are, and mark your X. Give the ballot back to the attendant
@@ -3428,6 +3814,7 @@
 - Answer: D) Go to the voting station, take your voter information card and ID, mark an X next to your chosen candidate, fold the ballot, and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box
 
 ## Question 383
+
 - Which of the following criteria give a Canadian the right to vote?
 - Options:
   - A) Owning a house
@@ -3437,6 +3824,7 @@
 - Answer: B) Being on an official voters list
 
 ## Question 384
+
 - Which legal documents protect the rights of Canadians with regards to the official languages?
 - Options:
   - A) British Charter of Rights and Freedoms
@@ -3446,6 +3834,7 @@
 - Answer: B) Canadian Constitution and Official Languages Act
 
 ## Question 385
+
 - What is the government responsible for all of Canada called?
 - Options:
   - A) The National Assembly,
@@ -3455,6 +3844,7 @@
 - Answer: C) The federal government
 
 ## Question 386
+
 - What is the most popular spectator sport of Canada?
 - Options:
   - A) Soccer
@@ -3464,6 +3854,7 @@
 - Answer: C) Hockey
 
 ## Question 387
+
 - Which of the following represents protecting and enjoying the heritage and environment in Canada?
 - Options:
   - A) Government responsibilities
@@ -3473,6 +3864,7 @@
 - Answer: D) Citizenship responsibilities
 
 ## Question 388
+
 - Who are the Kebiqua?
 - Options:
   - A) All the French-speaking people in Canada are called Kebukqua
@@ -3482,6 +3874,7 @@
 - Answer: B) They form a nation within a United Canada
 
 ## Question 389
+
 - Approximately how many Canadians served in the First World War?
 - Options:
   - A) about 170,000,
@@ -3491,6 +3884,7 @@
 - Answer: D) More than 600,000
 
 ## Question 390
+
 - When must federal elections be held?
 - Options:
   - A) Whenever the prime minister calls the election
@@ -3500,6 +3894,7 @@
 - Answer: D) On the third Monday in October every four years following the most recent general election
 
 ## Question 391
+
 - Which phrase embodied the vision for the dominion of Canada?
 - Options:
   - A) The land of the strong and free?
@@ -3509,6 +3904,7 @@
 - Answer: B) Dominion from sea to sea and from the river to the ends of the earth
 
 ## Question 392
+
 - How are your rights and freedoms protected?
 - Options:
   - A) by the charter of rights and freedoms
@@ -3518,6 +3914,7 @@
 - Answer: A) by the Charter of Rights and Freedoms
 
 ## Question 393
+
 - Which of the following statements is true regarding Canada's membership in international organizations?
 - Options:
   - A) Canada is a founding member of the United Nations but not of NATO?
@@ -3527,6 +3924,7 @@
 - Answer: C) Canada is a founding member of both the United Nations and NATO
 
 ## Question 394
+
 - Who do Canadians vote for in a federal election?
 - Options:
   - A) A candidate whom they want to represent them in parliament
@@ -3536,6 +3934,7 @@
 - Answer: A) A candidate whom they want to represent them in parliament
 
 ## Question 395
+
 - What year was Confederation?
 - Options:
   - A) 1867,
@@ -3545,6 +3944,7 @@
 - Answer: A) 1 1867
 
 ## Question 396
+
 - Which of the following is the responsibility of the federal government?
 - Options:
   - A) Highways
@@ -3554,6 +3954,7 @@
 - Answer: B) Currency
 
 ## Question 397
+
 - What is an electoral district?
 - Options:
   - A) A geographical area where the politicians reside
@@ -3563,6 +3964,7 @@
 - Answer: C) A geographical area represented by a member of the House of Commons
 
 ## Question 398
+
 - What is the capital city of Canada?
 - Options:
   - A) Ottawa,
@@ -3572,6 +3974,7 @@
 - Answer: A) Ottawa
 
 ## Question 399
+
 - What did the fathers of Confederation do to establish Canada?
 - Options:
   - A) They worked together to create a new country, the Dominion of Canada
@@ -3581,6 +3984,7 @@
 - Answer: A) They worked together to create a new country, the Dominion of Canada
 
 ## Question 400
+
 - Which province is the most easterly point in Canada?
 - Options:
   - A) Prince Edward Island
@@ -3590,6 +3994,7 @@
 - Answer: D) Newfoundland and Labrador
 
 ## Question 401
+
 - Where is Canada's largest naval base located?
 - Options:
   - A) Vancouver
@@ -3599,6 +4004,7 @@
 - Answer: C) Halifax
 
 ## Question 402
+
 - Which one of the following is the most populated province in Canada?
 - Options:
   - A) Quebec
@@ -3608,6 +4014,7 @@
 - Answer: C) Ontario
 
 ## Question 403
+
 - Why did thousands of miners come to the Yukon in the 1890s?
 - Options:
   - A) To build the Yukon Railway
@@ -3617,6 +4024,7 @@
 - Answer: B) For the gold rush
 
 ## Question 404
+
 - Julia is a descendant of French colonists in the maritime province. What is she called?
 - Options:
   - A) Matei
@@ -3626,6 +4034,7 @@
 - Answer: B) Aadian
 
 ## Question 405
+
 - Which of the following symbolizes close ties between Canada and the US?
 - Options:
   - A) The Peace Arch in Blaine, Washington
@@ -3635,6 +4044,7 @@
 - Answer: A) The Peace Arch in Blaine, Washington
 
 ## Question 406
+
 - When did Canada's modern energy industry begin?
 - Options:
   - A) The economic boom of the 1890s and early 1900s
@@ -3644,6 +4054,7 @@
 - Answer: C) Since the discovery of oil in Alberta in 1947
 
 ## Question 407
+
 - Who was the first female member of Parliament?
 - Options:
   - A) Agnes McFale
@@ -3653,6 +4064,7 @@
 - Answer: A) Agnes McFale
 
 ## Question 408
+
 - The Peace Tower was built in memory of
 - Options:
   - A) The First World War,
@@ -3662,6 +4074,7 @@
 - Answer: A) The First World War
 
 ## Question 409
+
 - In 1939, Canada joined with its democratic allies to fight.
 - Options:
   - A) the USA,
@@ -3671,6 +4084,7 @@
 - Answer: C) The Nazi
 
 ## Question 410
+
 - How many Canadians have died in wars till now?
 - Options:
   - A) 60,000
@@ -3680,6 +4094,7 @@
 - Answer: B) 110,000
 
 ## Question 411
+
 - Name a Canadian heroine who warned James Fitzgibbon of a planned American attack during the War of 1812.
 - Options:
   - A) Agnes McFale,
@@ -3689,6 +4104,7 @@
 - Answer: C) Laura Seord
 
 ## Question 412
+
 - In what year did Newf Finland and Labrador join Canada?
 - Options:
   - A) 1867,
@@ -3698,6 +4114,7 @@
 - Answer: C) 1949
 
 ## Question 413
+
 - What was made in 1927 after World War I?
 - Options:
   - A) The National War Memorial in Ottawa?
@@ -3707,6 +4124,7 @@
 - Answer: D) The Peace Tower
 
 ## Question 414
+
 - Can you send someone else or skip your duty if you are called to serve on a jury?
 - Options:
   - A) Yes, you can send your spouse to serve on your behalf
