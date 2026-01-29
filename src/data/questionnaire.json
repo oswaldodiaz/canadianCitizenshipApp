@@ -47,7 +47,7 @@
     "id": "q5",
     "prompt": "Who brought Quebec into confederation?",
     "options": [
-      "Sir Lewis Hippoly La Fontaine",
+      "Sir Louis-Hippolyte La Fontaine",
       "Sir George-Étienne Cartier",
       "Sir Wilfried Larier",
       "Sir John Alexander Macdonald"
@@ -70,7 +70,7 @@
     "prompt": "How can a party in power be defeated in parliament?",
     "options": [
       "If there is a revolution",
-      "If the king orders the party to resign?",
+      "If the king orders the party to resign",
       "If a majority of the MPs vote against a major government decision",
       "If a minority of the MPs vote against a major government decision"
     ],
@@ -369,7 +369,7 @@
     "id": "q37",
     "prompt": "Why is trade with other countries important to Canada?",
     "options": [
-      "Trade with other countries changed the native way of life forever?",
+      "Trade with other countries changed the native way of life forever",
       "To increase trade and enjoy one of the world's highest standards of living",
       "Canada has become a member of the World Trade Organization",
       "The French and Aboriginal people collaborated with Canada in the vast for trade economy"
@@ -536,7 +536,7 @@
     "id": "q54",
     "prompt": "Which of the following are the responsibilities of Canadian citizenship?",
     "options": [
-      "Protect the Canadian environment and vote in elections?",
+      "Protect the Canadian environment and vote in elections",
       "Obey the law, find work in the government, and serve in the Canadian Army",
       "Serve in the Canadian Army, obey the law, and take responsibility for oneself and one's family",
       "Obey the law, serve on a jury, vote in elections, and help others in the community"
@@ -652,12 +652,12 @@
     "id": "q65",
     "prompt": "Who is the father of Manitoba and defender of Mus rights?",
     "options": [
-      "Lewis Realel",
-      "Sir Lewis Hippoly La Fontaine",
+      "Louis Riel",
+      "Sir Louis-Hippolyte La Fontaine",
       "Sir John Alexander Macdonald",
       "Sir William Reel"
     ],
-    "answer": "Lewis Realel"
+    "answer": "Louis Riel"
   },
   {
     "id": "q66",
@@ -692,7 +692,7 @@
     "prompt": "Who can ask you about whom you voted for?",
     "options": [
       "No one",
-      "Any other Canadian?",
+      "Any other Canadian",
       "Your local MP",
       "The prime minister"
     ],
@@ -1208,7 +1208,7 @@
     "prompt": "Who do members of parliament represent?",
     "options": [
       "Everyone who lives in his or her electoral district",
-      "Everyone who lives in his or her neighborhood?",
+      "Everyone who lives in his or her neighborhood",
       "Everyone who lives in his or her province",
       "Everyone in northern Canada"
     ],
@@ -1322,7 +1322,7 @@
     "options": [
       "Canadian citizens",
       "Anyone with the relevant experience",
-      "Anyone with the necessary qualifications?",
+      "Anyone with the necessary qualifications",
       "Foreigners"
     ],
     "answer": "Canadian citizens"
@@ -1331,7 +1331,7 @@
     "id": "q134",
     "prompt": "Who are angophones?",
     "options": [
-      "People who were taught English at school?",
+      "People who were taught English at school",
       "People who understand but do not speak English",
       "People who do not speak English as a first language",
       "People who speak English as a first language"
@@ -1501,7 +1501,7 @@
     "prompt": "What is written on an election ballot?",
     "options": [
       "The names of the candidates in your election district",
-      "Who you should vote for?",
+      "Who you should vote for",
       "The date and time you are allowed to vote",
       "Where you should vote"
     ],
@@ -1567,7 +1567,7 @@
     "id": "q160",
     "prompt": "What does it mean for a political party to be in power?",
     "options": [
-      "To gain the approval of the queen or king?",
+      "To gain the approval of the queen or king",
       "To have the most elected representatives",
       "To generate electricity",
       "To hold the nuclear button"
@@ -1772,7 +1772,7 @@
   },
   {
     "id": "q182",
-    "prompt": "Where have most immigrants come from since the 1,970s,?",
+    "prompt": "Where have most immigrants come from since the 1970s,?",
     "options": ["Asia", "England", "France", "USA"],
     "answer": "Asia"
   },
@@ -1850,7 +1850,7 @@
     "prompt": "What three oceans border Canada?",
     "options": [
       "Hudson, Pacific, and Atlantic",
-      "Atlantic, Arctic, and Bearing?",
+      "Atlantic, Arctic, and Bearing",
       "Pacific, Indian, and Atlantic",
       "Atlantic, Arctic, and Pacific"
     ],
@@ -1993,7 +1993,7 @@
     "id": "q206",
     "prompt": "Which three rights are included in the Canadian Charter of Rights and Freedoms?",
     "options": [
-      "Freedom of expression rights, property rights, and fair trial rights?",
+      "Freedom of expression rights, property rights, and fair trial rights",
       "Mobility rights, Aboriginal people's rights, and official language rights",
       "Aboriginal people's rights, voting rights, and official language rights",
       "Employment rights, mobility rights, and freedom rights"
@@ -2014,12 +2014,12 @@
   {
     "id": "q208",
     "prompt": "To what ocean is Newfoundland closest?",
-    "options": ["Atlantic", "Pacific", "Labrador C", "Arctic"],
+    "options": ["Atlantic", "Pacific", "Labrador Sea", "Arctic"],
     "answer": "Atlantic"
   },
   {
     "id": "q209",
-    "prompt": "What UN operation did Canada participate in from 1,950 to 1,953?",
+    "prompt": "What UN operation did Canada participate in from 1950 to 1953?",
     "options": [
       "Canadian forces defended Hong Kong",
       "The Canadian Corps captured Vimei Ridge",
@@ -2386,7 +2386,7 @@
     "id": "q244",
     "prompt": "Which two provinces are on the Atlantic coast of Canada?",
     "options": [
-      "British Columbia and Yukon?",
+      "British Columbia and Yukon",
       "Nova Scotia and New Brunswick",
       "Newfoundland and British Columbia",
       "Prince Edward Island in Ontario"
@@ -2525,7 +2525,7 @@
     "id": "q258",
     "prompt": "What is known as the effort by women to achieve the right to vote?",
     "options": [
-      "The suffrage motion of women?",
+      "The suffrage motion of women",
       "The women's voting law",
       "The election law",
       "The women's suffrage movement"
@@ -3041,14 +3041,14 @@
   },
   {
     "id": "q311",
-    "prompt": "The first leader of a responsible government in Canada in 1,849 was?",
+    "prompt": "The first leader of a responsible government in Canada in 1849 was?",
     "options": [
-      "Lewis Realel",
+      "Louis Riel",
       "Sir John Alexander Macdonald",
-      "Sir Lewis Hippoly Law Fontaine",
+      "Sir Louis-Hippolyte La Fontaine",
       "Alec Baldwin"
     ],
-    "answer": "Sir Lewis Hippoly Law Fontaine"
+    "answer": "Sir Louis-Hippolyte La Fontaine"
   },
   {
     "id": "q312",
@@ -3067,7 +3067,7 @@
     "options": [
       "Sir Guy Carlton",
       "Lord Durham",
-      "Sir Lewis Hippoly La Fontaine",
+      "Sir Louis-Hippolyte La Fontaine",
       "Sir George-Étienne Cartier"
     ],
     "answer": "Lord Durham"
@@ -3321,7 +3321,7 @@
     "id": "q339",
     "prompt": "What song is Canada's national anthem?",
     "options": [
-      "God Save the Queen or King?",
+      "God Save the Queen or King",
       "O Canada",
       "O Canada",
       "Great Canada"
@@ -3471,7 +3471,7 @@
   {
     "id": "q355",
     "prompt": "From whom is Canada's tallest mountain named?",
-    "options": ["William Logan", "Lewis Realel", "Terry Fox", "Wayne Gretzky"],
+    "options": ["William Logan", "Louis Riel", "Terry Fox", "Wayne Gretzky"],
     "answer": "William Logan"
   },
   {
@@ -3550,7 +3550,7 @@
     "id": "q363",
     "prompt": "Which port is the largest and busiest in Canada?",
     "options": [
-      "The Port of Halifax?",
+      "The Port of Halifax",
       "The Port of Montreal",
       "The Port of Vancouver",
       "The Port of Victoria"
@@ -3562,7 +3562,7 @@
     "prompt": "What did the Canadian Pacific Railway symbolize?",
     "options": [
       "Easy access to the west coast",
-      "What can be achieved by working together?",
+      "What can be achieved by working together",
       "Unity",
       "Ribbons of steel"
     ],
@@ -3572,7 +3572,7 @@
     "id": "q365",
     "prompt": "What part of the Constitution legally protects basic rights and freedom of Canadians?",
     "options": [
-      "The Canada Charter of Responsibilities?",
+      "The Canada Charter of Responsibilities",
       "The Charter of Rights and Freedoms",
       "The Canadian Charter of Rights and Freedoms",
       "The Canadian Charter of Rights and Free Will"
@@ -3623,7 +3623,7 @@
     "id": "q371",
     "prompt": "As what have poets and songwriters hailed Canada?",
     "options": [
-      "Peace, order, and good government?",
+      "Peace, order, and good government",
       "The great outdoors",
       "The great dominion",
       "The land of the brave"
@@ -3651,7 +3651,7 @@
     "id": "q374",
     "prompt": "Which of the following was a key phrase in the British North America Act, Canada's original constitutional document in 1,867?",
     "options": [
-      "Geopolitical entity?",
+      "Geopolitical entity",
       "Trade and communications",
       "Peace, order, and good government",
       "Discipline, education, and good public"
@@ -3690,7 +3690,7 @@
     "id": "q378",
     "prompt": "What is a ballot?",
     "options": [
-      "A form that tells you when and where to vote?",
+      "A form that tells you when and where to vote",
       "A dance",
       "A form for voting",
       "A form to count the number of votes"
@@ -3933,7 +3933,7 @@
   },
   {
     "id": "q403",
-    "prompt": "Why did thousands of miners come to the Yukon in the 1,890s?",
+    "prompt": "Why did thousands of miners come to the Yukon in the 1890s?",
     "options": [
       "To build the Yukon Railway",
       "For the gold rush",
@@ -4025,7 +4025,7 @@
     "id": "q413",
     "prompt": "What was made in 1927 after World War I?",
     "options": [
-      "The National War Memorial in Ottawa?",
+      "The National War Memorial in Ottawa",
       "The Peace Arch between the United States and Canada",
       "The CN Tower in Toronto",
       "The Peace Tower"
