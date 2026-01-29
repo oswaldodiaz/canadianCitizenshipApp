@@ -48,11 +48,11 @@
     "prompt": "Who brought Quebec into confederation?",
     "options": [
       "Sir Lewis Hippoly La Fontaine",
-      "Sir George Hen Cardier",
+      "Sir George-Étienne Cartier",
       "Sir Wilfried Larier",
       "Sir John Alexander Macdonald"
     ],
-    "answer": "Sir George Aen Cardier"
+    "answer": "Sir George-Étienne Cartier"
   },
   {
     "id": "q6",
@@ -80,12 +80,12 @@
     "id": "q8",
     "prompt": "Which of the following are the responsibilities of provincial government?",
     "options": [
-      "Education, healthcare, natural resources and policing?",
-      "National defense, healthcare, citizenship, and firefighting",
+      "Education, health care, natural resources and policing",
+      "National defense, healthcare, citizenship and firefighting",
       "Education, foreign policy, natural resources and policing",
-      "National defense, foreign policy, highways, and Aboriginal affairs"
+      "National defense, foreign policy, highways and Aboriginal affairs"
     ],
-    "answer": "Education, health care, natural resources, and policing"
+    "answer": "Education, health care, natural resources and policing"
   },
   {
     "id": "q9",
@@ -253,9 +253,9 @@
     "id": "q26",
     "prompt": "Which act granted for the first time in Canada legislative assemblies elected by the people?",
     "options": [
-      "The constitutional act of 1982",
-      "The constitutional act of 1891",
-      "The constitutional act of 1791",
+      "The Constitutional Act of 1982",
+      "The Constitutional Act of 1891",
+      "The Constitutional Act of 1791",
       "The Constitutional Act of 1972"
     ],
     "answer": "The Constitutional Act of 1791"
@@ -417,11 +417,11 @@
   },
   {
     "id": "q42",
-    "prompt": "Where do the majority of Matei live in Canada?",
+    "prompt": "Where do the majority of Métis live in Canada?",
     "options": [
       "Central Canada",
       "The North",
-      "Prairie provinces",
+      "Prairie Provinces",
       "The Maritimes"
     ],
     "answer": "Prairie Provinces"
@@ -441,7 +441,7 @@
     "id": "q44",
     "prompt": "Which two fundamental freedoms are protected by the Canadian Charter of Rights and Freedoms?",
     "options": [
-      "Freedom of Belief and Freedom of Religion?",
+      "Freedom of belief and freedom of religion",
       "Equal employment rights and opportunities",
       "Basic living rights and obey laws",
       "Aboriginal people's rights and to volunteer"
@@ -552,7 +552,7 @@
       "Prairie Provinces",
       "Maritime Provinces"
     ],
-    "answer": "Prairie provinces"
+    "answer": "Prairie Provinces"
   },
   {
     "id": "q56",
@@ -602,7 +602,7 @@
       "Place where the number of votes is counted",
       "Member of parliament's constituency"
     ],
-    "answer": "Place where you vote?"
+    "answer": "Place where you vote"
   },
   {
     "id": "q61",
@@ -775,7 +775,7 @@
     "prompt": "What level of government passes bylaws?",
     "options": [
       "Provincial",
-      "Municipal or local government?",
+      "Municipal or local government",
       "Federal",
       "Senators"
     ],
@@ -807,7 +807,7 @@
     "id": "q80",
     "prompt": "In which type of industry did most early European settlers work?",
     "options": ["Fur trading", "Oil", "Gold mining", "Hunting"],
-    "answer": "For trading"
+    "answer": "Fur trading"
   },
   {
     "id": "q81",
@@ -846,10 +846,10 @@
     "id": "q84",
     "prompt": "What does MNA stand for?",
     "options": [
-      "Member of the national aid",
-      "Member of the national association",
-      "Member of the national airline",
-      "Member of the national assembly"
+      "Member of the National Aid",
+      "Member of the National Association",
+      "Member of the National Airline",
+      "Member of the National Assembly"
     ],
     "answer": "Member of the National Assembly"
   },
@@ -916,7 +916,7 @@
   },
   {
     "id": "q91",
-    "prompt": "Who was Sir George Aien Cardier?",
+    "prompt": "Who was Sir George Aien Cartier?",
     "options": [
       "A railway lawyer and Montrealer",
       "The first French Canadian prime minister",
@@ -1003,11 +1003,11 @@
     "prompt": "Who led an armed uprising in seized Fort Garry?",
     "options": [
       "John Alexander Macdonald",
-      "Lewis Realel",
+      "Louis Riel",
       "Sam Steel",
-      "George at Cardier"
+      "George-Étienne Cartier"
     ],
-    "answer": "Lewis Realel"
+    "answer": "Louis Riel"
   },
   {
     "id": "q101",
@@ -1052,10 +1052,10 @@
     "id": "q105",
     "prompt": "What is the great charter of freedom also known as?",
     "options": [
-      "Habius corpus",
+      "Habeas Corpus",
       "Dominion of Canada",
-      "Canadian constitution",
-      "Magnaarta"
+      "Canadian Constitution",
+      "Magna Carta"
     ],
     "answer": "Magna Carta"
   },
@@ -1086,11 +1086,11 @@
     "prompt": "Who is Canada's head of state?",
     "options": [
       "The premier of Canada",
-      "A hereditary sovereign queen or king?",
+      "A hereditary Sovereign (Queen or king)",
       "The governor general",
-      "The prime minister"
+      "The Prime Minister"
     ],
-    "answer": "A hereditary sovereign, queen or king?"
+    "answer": "A hereditary Sovereign (Queen or king)"
   },
   {
     "id": "q109",
@@ -1130,7 +1130,7 @@
     "id": "q113",
     "prompt": "Who is General Sir Arthur Curry?",
     "options": [
-      "Canada's greatest soldier in the First World War?",
+      "Canada's greatest soldier in the First World War",
       "A great frontier hero",
       "An explorer of Western Canada",
       "A military leader of the Matei in the 19th century"
@@ -1152,12 +1152,12 @@
     "id": "q115",
     "prompt": "What are the territories of Northern Canada and their capital cities?",
     "options": [
-      "Yukon, White Horse. Northwest Territories Yellow Knife and Nunivot Akaluit",
-      "Northwest Territories Yellow Knife and Alaska Juno",
-      "Northwest Territories Yellow Knife",
-      "Alaska Juno and Yukon White Horse"
+      "Yukon (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)",
+      "Northwest Territories (Yellowknife) and Alaska Juno",
+      "Northwest Territories (Yellowknife)",
+      "Alaska (Juneau) and Yukon (Whitehorse)"
     ],
-    "answer": "Yukon White Horse Northwest Territories Yellow Knife. And Nunovot akaluit"
+    "answer": "Yukon (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)"
   },
   {
     "id": "q116",
@@ -1252,22 +1252,22 @@
     "prompt": "Which of the following statements accurately describes the Quebec flag known as the Florel?",
     "options": [
       "It features a white cross with four roses in its quadrants and was adopted in 1948",
-      "It features a white cross with four flirtily in its quadrants and was adopted in 1948",
+      "It features a white cross with four fleur-de-lis in its quadrants and was adopted in 1948",
       "It features a blue cross with four thistles and shamrocks and was adopted in 1948",
-      "It features a white cross with four flirtilly and was adopted in 1867"
+      "It features a white cross with four fleur-de-lis and was adopted in 1867"
     ],
-    "answer": "It features a white cross with four fli in its quadrants and was adopted in 1948"
+    "answer": "It features a white cross with four fleur-de-lis in its quadrants and was adopted in 1948"
   },
   {
     "id": "q125",
     "prompt": "Who built the French empire in North America?",
     "options": [
       "King Charles II",
-      "Jealong. Bishop Laval and Count Ftnack",
-      "Pierre Le Moy and Suryberville",
+      "Jean Talon, Bishop Laval and Count Frontenac",
+      "Pierre Le Moyne, and Sieur d'lberville",
       "Great Britain"
     ],
-    "answer": "Jealong. Bishop Laval and Count Front"
+    "answer": "Jean Talon, Bishop Laval and Count Frontenac"
   },
   {
     "id": "q126",
@@ -1342,7 +1342,7 @@
     "id": "q135",
     "prompt": "Who were the voyagers?",
     "options": [
-      "Montrealbased traders who traveled by canoe",
+      "Montreal-based traders who traveled by canoe",
       "Immigrants to Canada in the 18th century",
       "Explorers searching for the Northwest Passage",
       "Geographers who first charted the coastline of British Columbia"
@@ -1364,7 +1364,7 @@
     "id": "q137",
     "prompt": "When did the Canadian Charter of Rights and Freedoms become part of the Constitution?",
     "options": ["1892", "1872", "1982", "1782"],
-    "answer": "1 1982"
+    "answer": "1982"
   },
   {
     "id": "q138",
@@ -1482,7 +1482,7 @@
       "Atlantic, North, Central, Prairies, and West Coast",
       "Rockies, Ontario, Quebec, and Prairies"
     ],
-    "answer": "Atlantic, North Central, Prairies, and West Coast"
+    "answer": "Atlantic, North, Central, Prairies, and West Coast"
   },
   {
     "id": "q151",
@@ -1768,7 +1768,7 @@
       "Ballot paper",
       "None of these"
     ],
-    "answer": "Voter information card, voters's identity, and address proof"
+    "answer": "Voter information card, voter's identity, and address proof"
   },
   {
     "id": "q182",
@@ -1909,7 +1909,7 @@
       "Highways, Policing, International Trade, and Criminal Justice",
       "Education, foreign policy, recycling programs, and Aboriginal affairs"
     ],
-    "answer": "National Defense, foreign policy, international trade, and Aboriginal affairs"
+    "answer": "National Defense, Foreign Policy, International Trade and Aboriginal Affairs"
   },
   {
     "id": "q198",
@@ -1964,7 +1964,7 @@
       "The Provincial Court",
       "The Small Claims Court"
     ],
-    "answer": "The Court of Queens bench"
+    "answer": "The Court of Queen's Bench"
   },
   {
     "id": "q203",
@@ -2063,9 +2063,9 @@
   },
   {
     "id": "q213",
-    "prompt": "What does equality under the law mean?",
+    "prompt": "What does 'equality under the law' mean?",
     "options": [
-      "A to be protected against any discrimination",
+      "To be protected against any discrimination",
       "To be discriminated against",
       "To be like anyone else in Canada",
       "To be the same as anywhere in the world"
@@ -2181,12 +2181,12 @@
     "id": "q224",
     "prompt": "How are senators chosen?",
     "options": [
-      "By the premier of all provinces",
-      "By the governor general of Canada",
-      "Appointed by the governor general on the advice of the prime minister",
+      "By the Premier of all provinces",
+      "By the Governor General of Canada",
+      "Appointed by the Governor General on the advice of the Prime Minister",
       "Appointed by the king"
     ],
-    "answer": "Appointed by the Governor General on the advice of the prime minister"
+    "answer": "Appointed by the Governor General on the advice of the Prime Minister"
   },
   {
     "id": "q225",
@@ -2298,12 +2298,12 @@
     "id": "q236",
     "prompt": "From where does the name Canada come?",
     "options": [
-      "From the Inuit word Canada meaning nations",
-      "From canannada, the first nations word for village",
+      "From the Inuit word Kanata meaning nations",
+      "From Kanata, the First Nations word for village",
       "From the Inuit word meaning home",
-      "From the first nations word meaning land"
+      "From the First Nations word meaning land"
     ],
-    "answer": "From Canada, the First Nations word for village"
+    "answer": "From Kanata, the First Nations word for village"
   },
   {
     "id": "q237",
@@ -2314,7 +2314,7 @@
       "Oil, tourism, and manufacturing",
       "Fishery, tourism, and services"
     ],
-    "answer": "Natural resources, manufacturing, and services"
+    "answer": "Natural resources, manufacturing and services"
   },
   {
     "id": "q238",
@@ -2375,12 +2375,12 @@
     "id": "q243",
     "prompt": "Name three requirements you must meet in order to vote in a federal election?",
     "options": [
-      "Canadian citizen at least 21 years old and on the list of electors",
-      "Canadian citizen at least 18 years old and on the voters's list",
-      "Working for the government at least 18 years old and Canadian citizen",
-      "Canadian citizen at least 16 years old and on the list of voters"
+      "Canadian citizen, at least 21 years old, and on the list of electors",
+      "Canadian citizen, at least 18 years old and on the voters's list",
+      "Working for the government, at least 18 years old, and Canadian citizen",
+      "Canadian citizen, at least 16 years old, and on the list of voters"
     ],
-    "answer": "Canadian citizen at least 18 years old and on the voters list"
+    "answer": "Canadian citizen, at least 18 years old and on the voters's list"
   },
   {
     "id": "q244",
@@ -2419,12 +2419,12 @@
     "id": "q247",
     "prompt": "Who have major responsibilities on First Nations reserves?",
     "options": [
-      "Band chiefs and counselors",
+      "Band chiefs and councillors",
       "Municipal governments",
       "Provincial and territorial governments",
       "Federal government"
     ],
-    "answer": "Ban chiefs and counselors"
+    "answer": "Band chiefs and councillors"
   },
   {
     "id": "q248",
@@ -2458,12 +2458,12 @@
     "id": "q251",
     "prompt": "Which of the following are the responsibilities of local government?",
     "options": [
-      "Education, foreign policy and transportation?",
+      "Education, foreign policy and transportation",
       "Health care, natural resources, and transportation",
       "National defense, health care, and transportation",
-      "Social and community health, snow removal, and transportation"
+      "Social and community Health, snow removal and transportation"
     ],
-    "answer": "Social and community health, snow removal and transportation"
+    "answer": "Social and community Health, snow removal and transportation"
   },
   {
     "id": "q252",
@@ -2504,22 +2504,22 @@
     "prompt": "What are the three parts of Parliament?",
     "options": [
       "The Queen or King, Governor General and Prime Minister",
-      "The Governor General, the Legislative Assembly, and the Senate",
-      "The Queen or King. The House of Commons and the Senate",
-      "The House of Commons, the Legislative Assembly, and the Senate"
+      "The Governor General, the Legislative Assembly and the Senate",
+      "The Queen or King, The House of Commons and the Senate",
+      "The House of Commons, the Legislative Assembly and the Senate"
     ],
-    "answer": "The Queen or King, the House of Commons, and the Senate"
+    "answer": "The Queen or King, The House of Commons and the Senate"
   },
   {
     "id": "q257",
     "prompt": "Which two are Great Lakes?",
     "options": [
       "St. Lawrence and Superior",
-      "Ontario and Okonagan",
-      "Michigan and Okonogan",
-      "Hurin and Erie"
+      "Ontario and Okanagan",
+      "Michigan and Okanagan",
+      "Huron and Erie"
     ],
-    "answer": "Hurin and Eerie"
+    "answer": "Huron and Erie"
   },
   {
     "id": "q258",
@@ -2556,12 +2556,12 @@
   },
   {
     "id": "q261",
-    "prompt": "What does the right to a secret ballot mean?",
+    "prompt": "What does the \"right to a secret ballot\" mean?",
     "options": [
       "No one can watch you vote except the election officer",
       "The voter should not tell anyone for whom he or she voted",
       "Only the candidate you vote for can watch your marked ballot",
-      "No one can watch you vote or look at your marked ballot?"
+      "No one can watch you vote or look at your marked ballot"
     ],
     "answer": "No one can watch you vote or look at your marked ballot"
   },
@@ -2697,12 +2697,12 @@
     "id": "q275",
     "prompt": "Who invented the snowmobile?",
     "options": [
-      "Alexander Graham Bell?",
-      "Joseph Armand Bombadier?",
-      "Sir Sanford Fleming?",
+      "Alexander Graham Bell",
+      "Joseph-Armand Bombardier",
+      "Sir Sandford Fleming",
       "Matthew Evans and Henry Woodward"
     ],
-    "answer": "Joseph Armand Bombadier"
+    "answer": "Joseph-Armand Bombardier"
   },
   {
     "id": "q276",
@@ -2715,11 +2715,11 @@
     "prompt": "What are the three branches of the Canadian government?",
     "options": [
       "Executive, Senate and Judicial",
-      "Executive, Legislative, and Monarchy",
-      "Executive, Police, and Judicial",
-      "Executive, Legislative, and Judicial"
+      "Executive, Legislative and Monarchy",
+      "Executive, Police and Judicial",
+      "Executive, Legislative and Judicial"
     ],
-    "answer": "Executive, legislative, and judicial"
+    "answer": "Executive, Legislative and Judicial"
   },
   {
     "id": "q278",
@@ -2761,9 +2761,9 @@
       "Canadian politicians",
       "Police officers",
       "Best innovation of the year",
-      "A Canadian showing conspicuous bravery. or self-sacrifice"
+      "A Canadian showing conspicuous bravery or self-sacrifice"
     ],
-    "answer": "A Canadian showing conspicuous bravery or self-sacrifice?"
+    "answer": "A Canadian showing conspicuous bravery or self-sacrifice"
   },
   {
     "id": "q282",
@@ -2871,9 +2871,9 @@
     "prompt": "Who became the first French Canadian prime minister since the formation of Confederation?",
     "options": [
       "Sir John Alexander Macdonald",
-      "Sir Wilfried Laurier",
-      "Sir George aten Cardier",
-      "Sir Leonard Tilly"
+      "Sir Wilfrid Laurier",
+      "Sir George-Étienne Cartier",
+      "Sir Leonard Tilley"
     ],
     "answer": "Sir Wilfrid Laurier"
   },
@@ -2881,10 +2881,10 @@
     "id": "q294",
     "prompt": "Which of the following is the highest court of Canada?",
     "options": [
-      "A provincial court",
-      "The small claims courts",
-      "B. The Supreme Court",
-      "The federal court"
+      "A Provincial Court",
+      "The Small Claims Courts",
+      "The Supreme Court",
+      "The Federal Court"
     ],
     "answer": "The Supreme Court"
   },
@@ -2914,8 +2914,8 @@
   {
     "id": "q298",
     "prompt": "What is celebrated on April 9th?",
-    "options": ["Vimi Day", "Family day", "Thanksgiving Day", "Boxing Day"],
-    "answer": "Vimei day"
+    "options": ["Vimy Day", "Family Day", "Thanksgiving Day", "Boxing Day"],
+    "answer": "Vimy Day"
   },
   {
     "id": "q299",
@@ -3000,7 +3000,7 @@
     "prompt": "What are the members of the House of Commons, also known as?",
     "options": [
       "Commissioners",
-      "Members of Parliament or MPs?",
+      "Members of Parliament or MPs",
       "Members of the provincial parliament",
       "None of these"
     ],
@@ -3008,10 +3008,10 @@
   },
   {
     "id": "q308",
-    "prompt": "Who were the United Empire loyalists?",
+    "prompt": "Who were the United Empire Loyalists?",
     "options": [
-      "People loyal to the crown?",
-      "The commanders of armies?",
+      "People loyal to the crown",
+      "The commanders of armies",
       "British colonies",
       "Aboriginal peoples"
     ],
@@ -3052,10 +3052,10 @@
   },
   {
     "id": "q312",
-    "prompt": "Who are franophones?",
+    "prompt": "Who are Francophones?",
     "options": [
-      "People speaking French as a first language?",
-      "People who come from France?",
+      "People speaking French as a first language",
+      "People who come from France",
       "People who are learning French",
       "People speaking French as a secondary language"
     ],
@@ -3068,7 +3068,7 @@
       "Sir Guy Carlton",
       "Lord Durham",
       "Sir Lewis Hippoly La Fontaine",
-      "Sir George Aen Cardier"
+      "Sir George-Étienne Cartier"
     ],
     "answer": "Lord Durham"
   },
@@ -3098,10 +3098,10 @@
     "id": "q316",
     "prompt": "What is the National Police Force of Canada?",
     "options": [
-      "The Royal Canadian Mounted Police?",
-      "The Southeast Mounted Police?",
+      "The Royal Canadian Mounted Police",
+      "The South East Mounted Police",
       "The Military Police",
-      "The Northwest Mounted Police"
+      "The North West Mounted Police"
     ],
     "answer": "The Royal Canadian Mounted Police"
   },
@@ -3144,12 +3144,12 @@
     "id": "q322",
     "prompt": "Who was Sir Sam Steel?",
     "options": [
-      "A great frontier hero, mounted policeman and soldier of the queen",
-      "A military leader of the Metis in the 19th century",
+      "A great frontier hero, Mounted Policeman, and soldier of the queen",
+      "A military leader of the Métis in the 19th century",
       "The first prime minister of Canada",
       "The father of Manitoba"
     ],
-    "answer": "A great frontier hero, mounted policeman, and soldier of the queen"
+    "answer": "A great frontier hero, Mounted Policeman, and soldier of the queen"
   },
   {
     "id": "q323",
@@ -3222,12 +3222,12 @@
     "id": "q330",
     "prompt": "Which of the following lists contains four rights that Canadians have?",
     "options": [
-      "The right to go to school, to work, to have a bank account, and to travel?",
+      "The right to go to school, to work, to have a bank account, and to travel",
       "The right to be educated in either official language, to vote, to apply for a Canadian passport, and to enter and leave Canada freely",
       "The right to travel, to live anywhere, to work anywhere, and to get married",
       "The right to have a job, to vote, to drive, and to go to school"
     ],
-    "answer": "The right to be educated in either official language, to vote, to apply for a Canadian passport, and to enter and leave Canada freely?"
+    "answer": "The right to be educated in either official language, to vote, to apply for a Canadian passport, and to enter and leave Canada freely"
   },
   {
     "id": "q331",
@@ -3517,23 +3517,23 @@
     "id": "q360",
     "prompt": "Which of the following are Canada's famous writers?",
     "options": [
-      "Sir Ernest McMillan and Healey Willan",
-      "Paul Henderson and Mark Tukesbury",
-      "Joy Kogawa, Michael Dachch and Rohinton Mystery",
+      "Sir Ernest MacMillan and Healey Willan",
+      "Paul Henderson and Mark Tewksbury",
+      "Joy Kogawa, Michael Ondaatje, and Rohinton Mystry",
       "Emily Carr and Louis Phipe Haybert"
     ],
-    "answer": "Joy Kogawa Michael on Dutch and Rohinton mystery"
+    "answer": "Joy Kogawa, Michael Ondaatje, and Rohinton Mystry"
   },
   {
     "id": "q361",
     "prompt": "Sir Luis Hippolite La Fontaine was known for?",
     "options": [
       "A champion of democracy and Aboriginal rights",
-      "A champion of democracy in French language rights. and the first leader of a responsible government in the Canada",
+      "A champion of democracy in French language rights and the first leader of a responsible government in the Canadas",
       "The first head of state",
-      "The first French-speaking prime minister"
+      "The first French-speaking Prime Minister"
     ],
-    "answer": "A champion of democracy and French language rights and the first leader of a responsible government in the Canada"
+    "answer": "A champion of democracy in French language rights and the first leader of a responsible government in the Canadas"
   },
   {
     "id": "q362",
@@ -3666,14 +3666,14 @@
   },
   {
     "id": "q376",
-    "prompt": "What does the MLA stand for?",
+    "prompt": "What does the M.L.A. stand for?",
     "options": [
-      "Member of legal aid",
+      "Member of Legal Aid",
       "Member of the Legislative Assembly",
-      "Member of land association",
-      "Member of land aid"
+      "Member of Land Association",
+      "Member of Land Aid"
     ],
-    "answer": "Member of the legislative assembly"
+    "answer": "Member of the Legislative Assembly"
   },
   {
     "id": "q377",
@@ -3735,9 +3735,9 @@
     "prompt": "When you vote on election day, what do you do?",
     "options": [
       "Go to the voting station, tell them who you are, and mark your X. Give the ballot back to the attendant",
-      "Go to the voting station. Remove one ballot. Mark your X and deposit it in the ballot box",
-      "Go to the voting station. Take your voter's card with proof of identity. Highlight your choice on the ballot and deposit it in the box",
-      "Go to the voting station. Take your voter information card and ID. Mark an X next to your chosen candidate. Fold the ballot and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box"
+      "Go to the voting station, remove one ballot, mark your X, and deposit it in the ballot box",
+      "Go to the voting station, take your voter's card with proof of identity, highlight your choice on the ballot, and deposit it in the box",
+      "Go to the voting station, take your voter information card and ID, mark an X next to your chosen candidate, fold the ballot, and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box"
     ],
     "answer": "Go to the voting station, take your voter information card and ID, mark an X next to your chosen candidate, fold the ballot, and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box"
   },
@@ -3746,11 +3746,11 @@
     "prompt": "Which of the following criteria give a Canadian the right to vote?",
     "options": [
       "Owning a house",
-      "Being on an official voter's list",
+      "Being on an official voters' list",
       "Having a driver's license",
       "Being an immigrant"
     ],
-    "answer": "Being on an official voters list"
+    "answer": "Being on an official voters' list"
   },
   {
     "id": "q384",
@@ -3772,7 +3772,7 @@
       "The Federal Government",
       "The Council"
     ],
-    "answer": "The federal government"
+    "answer": "The Federal Government"
   },
   {
     "id": "q386",
@@ -3793,14 +3793,14 @@
   },
   {
     "id": "q388",
-    "prompt": "Who are the Kebiqua?",
+    "prompt": "Who are the Québecois?",
     "options": [
-      "All the French-speaking people in Canada are called Kebukqua",
+      "All the French-speaking people in Canada are called Québecois",
       "They form a nation within a united Canada",
-      "They are descendants of British settlers who live in Quebec",
+      "They are descendants of British settlers who live in Québec",
       "They are the Canadians who only speak French"
     ],
-    "answer": "They form a nation within a United Canada"
+    "answer": "They form a nation within a united Canada"
   },
   {
     "id": "q389",
@@ -3828,10 +3828,10 @@
     "id": "q391",
     "prompt": "Which phrase embodied the vision for the dominion of Canada?",
     "options": [
-      "The land of the strong and free?",
-      "Dominion from sea to sea and from the river to the ends of the earth?",
+      "The land of the strong and free",
+      "Dominion from sea to sea and from the river to the ends of the earth",
       "Dominion from ocean to ocean",
-      "Oh Canada, my home and native land"
+      "O Canada, my home and native land"
     ],
     "answer": "Dominion from sea to sea and from the river to the ends of the earth"
   },
@@ -3839,7 +3839,7 @@
     "id": "q392",
     "prompt": "How are your rights and freedoms protected?",
     "options": [
-      "By the charter of rights and freedoms",
+      "By the Charter of Rights and Freedoms",
       "By the King",
       "By citizenship",
       "None of the above"
