@@ -31,6 +31,29 @@ function Score({ questions, answers, onReset }: ScoreProps) {
           ? "Great work! You met the passing mark. Keep the momentum and you’ll be ready for the real test. 🎉✅"
           : "You’re close. A bit more review will make a big difference—focus on the topics you missed and try again. 💪📚"}
       </p>
+      <div className="answer-review">
+        <h3>Answer review</h3>
+        <ul>
+          {questions.map((question) => {
+            const userAnswer = answers[question.id];
+            const isCorrect = userAnswer === question.answer;
+            return (
+              <li key={question.id} className={isCorrect ? "correct" : "wrong"}>
+                <div className="review-header">
+                  <span className="review-status">
+                    {isCorrect ? "Correct" : "Incorrect"}
+                  </span>
+                  <span className="review-question">{question.prompt}</span>
+                </div>
+                <div className="review-meta">
+                  <span>Your answer: {userAnswer ?? "Not answered"}</span>
+                  <span>Correct answer: {question.answer}</span>
+                </div>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
       <div className="actions">
         <button className="secondary" type="button" onClick={onReset}>
           Start over
