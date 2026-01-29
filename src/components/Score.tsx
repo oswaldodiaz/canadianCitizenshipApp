@@ -15,14 +15,21 @@ function Score({ questions, answers, onReset }: ScoreProps) {
   const passed = percentage >= 75;
 
   return (
-    <section className="summary score-card">
+    <section
+      className={`summary score-card ${passed ? "is-passed" : "is-failed"}`}
+    >
       <h2>Score result</h2>
+      <p className="score-instructions">
+        Passing requires 75% or higher. Your result is based on your answers.
+      </p>
       <div className="score-pill">
         <strong>{percentage}%</strong>
         <span>{passed ? 'Passed' : 'Failed'}</span>
       </div>
-      <p className="summary-note">
-        Passing requires 75% or higher. Your result is based on your answers.
+      <p className="score-message">
+        {passed
+          ? "Great work! You met the passing mark. Keep the momentum and you’ll be ready for the real test. 🎉✅"
+          : "You’re close. A bit more review will make a big difference—focus on the topics you missed and try again. 💪📚"}
       </p>
       <div className="actions">
         <button className="secondary" type="button" onClick={onReset}>

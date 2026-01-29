@@ -288,6 +288,20 @@
   text-align: center;
 }
 
+.score-instructions {
+  margin: 0 0 12px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.score-message {
+  margin: 0 0 16px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
 .score-pill {
   display: inline-flex;
   flex-direction: column;
@@ -310,6 +324,27 @@
 .score-pill span {
   font-weight: 600;
   color: var(--ink-soft);
+}
+
+.score-card.is-passed .score-pill {
+  background: linear-gradient(135deg, #e6f6ee, #f5fff9);
+  border-color: #9ad7b0;
+  box-shadow: 0 10px 24px rgba(31, 122, 63, 0.12);
+}
+
+.score-card.is-passed .score-pill strong,
+.score-card.is-passed .score-pill span {
+  color: #1f7a3f;
+}
+
+.score-card.is-failed .score-pill {
+  background: linear-gradient(135deg, #fde7ea, #fff6f8);
+  border-color: #f3b5be;
+}
+
+.score-card.is-failed .score-pill strong,
+.score-card.is-failed .score-pill span {
+  color: #b2162d;
 }
 
 @media (max-width: 600px) {
