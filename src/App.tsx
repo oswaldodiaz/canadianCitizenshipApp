@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Question from "./components/Question";
 import Score from "./components/Score";
 import Snapshot from "./components/Snapshot";
-import { questions } from "./data/questions";
+import { fetchRandomQuestions } from "./data/questionFetcher";
 
 type View = "start" | "questionnaire" | "snapshot" | "score";
 
@@ -14,6 +14,7 @@ function App() {
   const [view, setView] = useState<View>("start");
   const [resultScore, setResultScore] = useState<number | null>(null);
   const [editingFromSnapshot, setEditingFromSnapshot] = useState(false);
+  const [questions, setQuestions] = useState(() => fetchRandomQuestions());
 
   const completion = useMemo(() => {
     const answered = questions.filter(
@@ -24,7 +25,7 @@ function App() {
       total: questions.length,
       percent: Math.round((answered / questions.length) * 100),
     };
-  }, [answers]);
+  }, [answers, questions]);
 
   const currentQuestion = questions[currentIndex];
   const isLastQuestion = currentIndex === questions.length - 1;
@@ -53,6 +54,7 @@ function App() {
     setView("start");
     setResultScore(null);
     setEditingFromSnapshot(false);
+    setQuestions(fetchRandomQuestions());
   };
 
   const handleEditQuestion = (questionId: string) => {
