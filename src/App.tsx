@@ -43,7 +43,9 @@ function App() {
   };
 
   const handleSubmit = () => {
-    const score = Math.floor(Math.random() * questions.length) + 1;
+    const score = questions.reduce((total, question) => {
+      return total + (answers[question.id] === question.answer ? 1 : 0);
+    }, 0);
     setResultScore(score);
     setView("score");
   };
