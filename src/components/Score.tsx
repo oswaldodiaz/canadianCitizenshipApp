@@ -1,10 +1,19 @@
-type ScoreProps = {
-  percentage: number
-  passed: boolean
-  onReset: () => void
-}
+import type { Question } from "../data/questions";
 
-function Score({ percentage, passed, onReset }: ScoreProps) {
+type ScoreProps = {
+  questions: Question[];
+  answers: Record<string, string>;
+  onReset: () => void;
+};
+
+function Score({ questions, answers, onReset }: ScoreProps) {
+  const correct = questions.reduce((total, question) => {
+    return total + (answers[question.id] === question.answer ? 1 : 0);
+  }, 0);
+  const total = questions.length;
+  const percentage = total > 0 ? Math.round((correct / total) * 100) : 0;
+  const passed = percentage >= 75;
+
   return (
     <section className="summary score-card">
       <h2>Score result</h2>
@@ -13,7 +22,7 @@ function Score({ percentage, passed, onReset }: ScoreProps) {
         <span>{passed ? 'Passed' : 'Failed'}</span>
       </div>
       <p className="summary-note">
-        Passing requires 75% or higher. Your result is based on a mock score.
+        Passing requires 75% or higher. Your result is based on your answers.
       </p>
       <div className="actions">
         <button className="secondary" type="button" onClick={onReset}>
@@ -21,7 +30,7 @@ function Score({ percentage, passed, onReset }: ScoreProps) {
         </button>
       </div>
     </section>
-  )
+  );
 }
 
-export default Score
+export default Score;
