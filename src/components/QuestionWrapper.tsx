@@ -1,5 +1,5 @@
 import { useMemo } from "react";
-import type { Question as QuestionType } from "../data/questions";
+import type { Question as QuestionType } from "./Question";
 import Question from "./Question";
 
 type QuestionWrapperProps = {

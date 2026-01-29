@@ -1,9 +1,14 @@
-import type { Question as QuestionType } from '../data/questions'
-
 const slugify = (value: string) => value.toLowerCase().replace(/\s+/g, '-')
 
+export type Question = {
+  id: string
+  prompt: string
+  options: string[]
+  answer: string
+}
+
 type QuestionProps = {
-  question: QuestionType
+  question: Question
   index: number
   total: number
   answer: string | undefined

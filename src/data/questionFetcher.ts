@@ -1,4 +1,5 @@
-import { questions, type Question } from './questions'
+import type { Question } from '../components/Question'
+import questions from './questionnaire.json'
 
 const shuffle = (items: Question[]) => {
   const result = [...items]
