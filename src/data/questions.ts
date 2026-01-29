@@ -2,6 +2,7 @@ export type Question = {
   id: string
   prompt: string
   options: string[]
+  answer: string
 }
 
 export const questions: Question[] = [
@@ -9,6 +10,7 @@ export const questions: Question[] = [
     id: 'timeline',
     prompt: 'When do you hope to apply for citizenship?',
     options: ['Within 6 months', '6-12 months', '1-2 years', 'Not sure yet'],
+    answer: '1-2 years',
   },
   {
     id: 'presence',
@@ -19,6 +21,7 @@ export const questions: Question[] = [
       'More than 6 months away',
       'Not tracking yet',
     ],
+    answer: 'Already met',
   },
   {
     id: 'support',
@@ -29,5 +32,6 @@ export const questions: Question[] = [
       'Document prep tips',
       'Mock test practice',
     ],
+    answer: 'Checklist and timeline',
   },
 ]
