@@ -42,6 +42,12 @@ describe("Score", () => {
     expect(screen.getByText("Passed")).toBeInTheDocument();
     expect(screen.getByText(/Great work!/i)).toBeInTheDocument();
     expect(screen.getByText("Answer review")).toBeInTheDocument();
+    expect(screen.getAllByText("Correct").length).toBeGreaterThan(0);
+    expect(screen.getAllByText("Incorrect").length).toBeGreaterThan(0);
+    expect(screen.getAllByText("Your answer: A").length).toBeGreaterThan(0);
+    expect(
+      screen.getByText("Correct answer: D"),
+    ).toBeInTheDocument();
   });
 
   it("shows a failing result when below 75%", () => {
@@ -56,5 +62,9 @@ describe("Score", () => {
     expect(screen.getByText(/close/i)).toBeInTheDocument();
     expect(screen.getAllByText("Correct").length).toBeGreaterThan(0);
     expect(screen.getAllByText("Incorrect").length).toBeGreaterThan(0);
+    expect(screen.getAllByText("Your answer: A").length).toBeGreaterThan(0);
+    expect(
+      screen.getByText("Correct answer: C"),
+    ).toBeInTheDocument();
   });
 });
