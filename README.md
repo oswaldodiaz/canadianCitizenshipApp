@@ -39,6 +39,20 @@ npm run build
 npm run preview
 ```
 
+## Tests
+
+Run unit tests with Vitest:
+
+```bash
+npm test
+```
+
+For a single run:
+
+```bash
+npm run test:run
+```
+
 ## Project Structure
 
 - `src/App.tsx`: App state and routing between views
