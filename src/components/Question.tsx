@@ -20,13 +20,17 @@ function Question({ question, index, total, answer, onSelect }: QuestionProps) {
     <fieldset className="question">
       <legend>
         <span className="question-index">Q{index + 1}</span>
-        {question.prompt}
+        {`${question.id} - ${question.prompt}`}
       </legend>
       <div className="options">
         {question.options.map((option) => {
           const optionId = `${question.id}-${slugify(option)}`
           return (
-            <label className="option" key={optionId} htmlFor={optionId}>
+            <label
+              className={`option ${answer === option ? "is-selected" : ""}`}
+              key={optionId}
+              htmlFor={optionId}
+            >
               <input
                 id={optionId}
                 type="radio"

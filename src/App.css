@@ -22,15 +22,21 @@
 }
 
 .hero::after {
-  content: '';
+  content: "";
   position: absolute;
   top: -24px;
   right: -10px;
   width: 140px;
   height: 140px;
-  background: radial-gradient(circle at 60% 40%, #fff 0%, #fff 35%, transparent 36%),
+  background:
+    radial-gradient(circle at 60% 40%, #fff 0%, #fff 35%, transparent 36%),
     radial-gradient(circle at 40% 60%, #fff 0%, #fff 35%, transparent 36%),
-    radial-gradient(circle at 50% 50%, #fde7ea 0%, #fde7ea 60%, transparent 61%),
+    radial-gradient(
+      circle at 50% 50%,
+      #fde7ea 0%,
+      #fde7ea 60%,
+      transparent 61%
+    ),
     radial-gradient(circle at 50% 50%, #c8102e 0%, #c8102e 50%, transparent 51%);
   opacity: 0.08;
   pointer-events: none;
@@ -191,7 +197,9 @@
   border-radius: 14px;
   border: 1px solid transparent;
   background: var(--wash);
-  transition: border-color 160ms ease, transform 160ms ease;
+  transition:
+    border-color 160ms ease,
+    transform 160ms ease;
   cursor: pointer;
 }
 
@@ -200,6 +208,11 @@
 }
 
 .option:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.option.is-selected {
   border-color: var(--accent);
   transform: translateY(-1px);
 }
