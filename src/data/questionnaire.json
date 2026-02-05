@@ -650,7 +650,7 @@
   },
   {
     "id": "q65",
-    "prompt": "Who is the father of Manitoba and defender of Mus rights?",
+    "prompt": "Who is the father of Manitoba and defender of Métis rights?",
     "options": [
       "Louis Riel",
       "Sir Louis-Hippolyte La Fontaine",
@@ -3130,7 +3130,7 @@
   },
   {
     "id": "q320",
-    "prompt": "For how long was the title Dominion of Canada officially used,?",
+    "prompt": "For how long was the title Dominion of Canada officially used?",
     "options": ["100 years", "250 years", "50 years", "200 years"],
     "answer": "100 years"
   },
@@ -3260,7 +3260,7 @@
       "They make up one-third of all Canadians",
       "They make up half of all Canadians"
     ],
-    "answer": "They make up onethird of all Canadians"
+    "answer": "They make up one-third of all Canadians"
   },
   {
     "id": "q334",
