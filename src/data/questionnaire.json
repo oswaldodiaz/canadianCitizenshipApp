@@ -1,12 +1,12 @@
 [
   {
     "id": "q1",
-    "prompt": "When must a federal election be held according to legislation passed by parliament?",
+    "prompt": "When must a federal election be held according to legislation passed by Parliament?",
     "options": [
       "When the king wants to replace the prime minister",
       "Within four years of the most recent election",
       "Within 5 years of the last election",
-      "The prime minister can call the election any time at his own will"
+      "The Prime Minister can call the election any time at his own will"
     ],
     "answer": "Within four years of the most recent election"
   },
@@ -45,11 +45,11 @@
   },
   {
     "id": "q5",
-    "prompt": "Who brought Quebec into confederation?",
+    "prompt": "Who brought Québec into confederation?",
     "options": [
       "Sir Louis-Hippolyte La Fontaine",
       "Sir George-Étienne Cartier",
-      "Sir Wilfried Larier",
+      "Sir Wilfrid Larier",
       "Sir John Alexander Macdonald"
     ],
     "answer": "Sir George-Étienne Cartier"
@@ -58,16 +58,16 @@
     "id": "q6",
     "prompt": "In World War II, how did Canada contribute more to the Allied air effort than any other Commonwealth country?",
     "options": [
-      "Trained 130,000 Allied air crew",
+      "Trained 130,000 Allied aircrew",
       "Deployed paratroopers in France",
       "Provided ammunition",
       "Sent 130,000 soldiers to take France back from the Germans"
     ],
-    "answer": "Trained 130,000 Allied air crew"
+    "answer": "Trained 130,000 Allied aircrew"
   },
   {
     "id": "q7",
-    "prompt": "How can a party in power be defeated in parliament?",
+    "prompt": "How can a party in power be defeated in Parliament?",
     "options": [
       "If there is a revolution",
       "If the king orders the party to resign",
@@ -134,8 +134,8 @@
   {
     "id": "q13",
     "prompt": "Which province has the most bilingual Canadians?",
-    "options": ["British Columbia", "Quebec", "Ontario", "New Brunswick"],
-    "answer": "Quebec"
+    "options": ["British Columbia", "Québec", "Ontario", "New Brunswick"],
+    "answer": "Québec"
   },
   {
     "id": "q14",
@@ -177,11 +177,11 @@
     "prompt": "Can you name the five great lakes between Canada and the US?",
     "options": [
       "Lake Toronto, Lake Michigan, Lake Mexico, Lake Ontario, Lake St. Louis",
-      "Lake Superior, Lake Michigan, Lake Hiron, Lake Erie, Lake Ontario",
+      "Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario",
       "Lake Michigan, Lake Victoria, Lake Mexico, Lake Ontario, Lake St. Louis",
       "None of the above"
     ],
-    "answer": "Lake Superior, Lake Michigan, Lake Hiron, Lake Erie, Lake Ontario"
+    "answer": "Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario"
   },
   {
     "id": "q20",
@@ -196,7 +196,7 @@
   },
   {
     "id": "q21",
-    "prompt": "How are members of parliament chosen?",
+    "prompt": "How are members of Parliament chosen?",
     "options": [
       "Elected by senators",
       "Elected by the prime minister",
@@ -207,7 +207,7 @@
   },
   {
     "id": "q22",
-    "prompt": "In what jobs did the Matei first work with European settlers?",
+    "prompt": "In what jobs did the Métis first work with European settlers?",
     "options": [
       "Supplies, traders, guides, and interpreters",
       "Taking care of children",
@@ -240,7 +240,7 @@
   },
   {
     "id": "q25",
-    "prompt": "Who are the Matei?",
+    "prompt": "Who are the Métis?",
     "options": [
       "The distinct Aboriginal people of Atlantic Canada",
       "A people of mixed Inuit or First Nations ancestry, most of whom live on the prairies",
@@ -275,18 +275,18 @@
     "id": "q28",
     "prompt": "What does the crown mean for Canadians?",
     "options": [
-      "The crown is a symbol of government including parliament, legislatures, courts, police services, and the armed forces",
+      "The crown is a symbol of government including Parliament, legislatures, courts, police services, and the armed forces",
       "The crown contains symbols of England, France, Scotland, and Ireland, as well as red maple leaves",
       "A national motto, Amario Admare, which in Latin means from sea to sea",
       "The crown reflects the Grecoman heritage of Western civilization in which democracy originated"
     ],
-    "answer": "The crown is a symbol of government including parliament, legislatures, courts, police services, and the armed forces"
+    "answer": "The crown is a symbol of government including Parliament, legislatures, courts, police services, and the armed forces"
   },
   {
     "id": "q29",
     "prompt": "What did the suffrage movement achieve?",
     "options": [
-      "Quebec experienced an era of rapid change",
+      "Québec experienced an era of rapid change",
       "The suffrage movement abolished slavery in Canada",
       "The suffrage movement led to the introduction of employment insurance",
       "Women achieved the right to vote"
@@ -348,7 +348,7 @@
     "prompt": "What do Canadians remember on Remembrance Day?",
     "options": [
       "Canadian victory in World War I",
-      "Canadian victory in the Battle of Vimei Ridge",
+      "Canadian victory in the Battle of Vimy Ridge",
       "Canadian victory in World War II",
       "Sacrifices made by Canadian veterans and brave soldiers in wars"
     ],
@@ -359,11 +359,11 @@
     "prompt": "Why was the Canadian Pacific Railway built?",
     "options": [
       "The railway made it possible for immigrants to settle in central Canada",
-      "British Columbia joined Canada in 1,871 after Ottawa promised to build a railway to the west coast",
+      "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the west coast",
       "To provide a spectacular tourist excursion across precipitous passes and bridges",
       "So British Columbia could handle the trade of goods worth billions of dollars all around the world"
     ],
-    "answer": "British Columbia joined Canada in 1,871 after Ottawa promised to build a railway to the west coast"
+    "answer": "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the west coast"
   },
   {
     "id": "q37",
@@ -392,7 +392,7 @@
     "prompt": "What does it mean to say Canada is a constitutional monarchy?",
     "options": [
       "The sovereign queen or king approves bills before they become law",
-      "The sovereign queen or king represents Canadians in parliament",
+      "The sovereign queen or king represents Canadians in Parliament",
       "Canada's head of state is a hereditary sovereign queen or king who reigns in accordance with the constitution",
       "The sovereign queen or king is the lawmaker of Canada"
     ],
@@ -408,12 +408,12 @@
     "id": "q41",
     "prompt": "What are the provinces of central Canada?",
     "options": [
-      "Ontario and Quebec",
+      "Ontario and Québec",
       "Ontario and Alberta",
-      "Quebec and New Brunswick",
+      "Québec and New Brunswick",
       "Alberta and Saskatchewan"
     ],
-    "answer": "Ontario and Quebec"
+    "answer": "Ontario and Québec"
   },
   {
     "id": "q42",
@@ -490,8 +490,8 @@
   {
     "id": "q49",
     "prompt": "Which province is Canada's main producer of pulp and paper?",
-    "options": ["Quebec", "British Columbia", "Saskatchewan", "Ontario"],
-    "answer": "Quebec"
+    "options": ["Québec", "British Columbia", "Saskatchewan", "Ontario"],
+    "answer": "Québec"
   },
   {
     "id": "q50",
@@ -518,15 +518,15 @@
   {
     "id": "q52",
     "prompt": "Which of the following is the oldest colony of the British Empire in Canada?",
-    "options": ["Quebec", "Ontario", "Alberta", "Newfoundland and Labrador"],
+    "options": ["Québec", "Ontario", "Alberta", "Newfoundland and Labrador"],
     "answer": "Newfoundland and Labrador"
   },
   {
     "id": "q53",
     "prompt": "Who is the king's representative in Canada?",
     "options": [
-      "The premier",
-      "The prime minister's spouse",
+      "The Premier",
+      "The Prime Minister's spouse",
       "The Governor General of Canada",
       "The Prime Minister"
     ],
@@ -548,7 +548,7 @@
     "prompt": "Which region of Canada is known for its fertile agricultural land and energy resources?",
     "options": [
       "Central Canada",
-      "Quebec",
+      "Québec",
       "Prairie Provinces",
       "Maritime Provinces"
     ],
@@ -579,8 +579,8 @@
   {
     "id": "q58",
     "prompt": "Who was the first person to draw a map of Canada's east coast?",
-    "options": ["Jean Talon", "George Cartier", "John Kat", "Jacqu Cartier"],
-    "answer": "John Kat"
+    "options": ["Jean Talon", "George Cartier", "John Cabot", "Jacqu Cartier"],
+    "answer": "John Cabot"
   },
   {
     "id": "q59",
@@ -600,7 +600,7 @@
       "Place where you vote",
       "Campaign offices for candidates",
       "Place where the number of votes is counted",
-      "Member of parliament's constituency"
+      "Member of Parliament's constituency"
     ],
     "answer": "Place where you vote"
   },
@@ -622,13 +622,13 @@
       "Dr. Wilder Penfield",
       "Matthew Evans and Henry Woodward",
       "Sir Frederick Banting and Charles Best",
-      "Dr. John A. Hops"
+      "Dr. John A. Hopps"
     ],
     "answer": "Sir Frederick Banting and Charles Best"
   },
   {
     "id": "q63",
-    "prompt": "What is a major river in Quebec?",
+    "prompt": "What is a major river in Québec?",
     "options": [
       "Hudson's Bay",
       "Niagara",
@@ -641,10 +641,10 @@
     "id": "q64",
     "prompt": "Who circled the globe in a wheelchair to raise funds for spinal cord research?",
     "options": [
-      "Reginald Fessendon",
+      "Reginald Fessenden",
       "Rick Hansen",
       "Terry Fox",
-      "Gard Herdsburg"
+      "Gerhard Herzberg"
     ],
     "answer": "Rick Hansen"
   },
@@ -655,7 +655,7 @@
       "Louis Riel",
       "Sir Louis-Hippolyte La Fontaine",
       "Sir John Alexander Macdonald",
-      "Sir William Reel"
+      "Sir William Riel"
     ],
     "answer": "Louis Riel"
   },
@@ -672,7 +672,7 @@
   },
   {
     "id": "q67",
-    "prompt": "Why is the north sometimes called the land of the midnight sun?",
+    "prompt": "Why is the north sometimes called the 'Land of the Midnight Sun'?",
     "options": [
       "It is closer to the sun",
       "The northern lights appear at midnight",
@@ -683,8 +683,8 @@
   },
   {
     "id": "q68",
-    "prompt": "Onethird of all Canadians live in?",
-    "options": ["Saskatchewan", "Quebec", "Alberta", "Ontario"],
+    "prompt": "One-third of all Canadians live in?",
+    "options": ["Saskatchewan", "Québec", "Alberta", "Ontario"],
     "answer": "Ontario"
   },
   {
@@ -694,7 +694,7 @@
       "No one",
       "Any other Canadian",
       "Your local MP",
-      "The prime minister"
+      "The Prime Minister"
     ],
     "answer": "No one"
   },
@@ -710,8 +710,8 @@
     "options": [
       "An election is called",
       "The official opposition party takes power",
-      "The prime minister loses his job",
-      "The prime minister is no longer the leader of his party"
+      "The Prime Minister loses his job",
+      "The Prime Minister is no longer the leader of his party"
     ],
     "answer": "An election is called"
   },
@@ -722,7 +722,7 @@
       "The Voyagers battled with the British for fur trading rights",
       "Americans fought the United Empire loyalists during the American Revolution",
       "The British defeated the French, marking the end of France's empire in America",
-      "The French defeated the British in a battle for Quebec"
+      "The French defeated the British in a battle for Québec"
     ],
     "answer": "The British defeated the French, marking the end of France's empire in America"
   },
@@ -739,7 +739,7 @@
   },
   {
     "id": "q74",
-    "prompt": "Who were the group of seven in modern Canada?",
+    "prompt": "Who were the Group of Seven in modern Canada?",
     "options": [
       "A group of politicians",
       "A group of Canadian companies",
@@ -796,12 +796,12 @@
     "id": "q79",
     "prompt": "What are three key facts about Canada's system of government?",
     "options": [
-      "A federal kingdom, a parliamentary democracy, and a constitutional monarchy",
-      "A federal state, a parliamentary democracy, and a constitutional monarchy",
-      "A socialist country, a parliamentary democracy, and a constitutional monarchy",
-      "A federal country, a constitutional democracy, and a parliamentary monarchy"
+      "A federal kingdom, a Parliamentary democracy, and a constitutional monarchy",
+      "A federal state, a Parliamentary democracy, and a constitutional monarchy",
+      "A socialist country, a Parliamentary democracy, and a constitutional monarchy",
+      "A federal country, a constitutional democracy, and a Parliamentary monarchy"
     ],
-    "answer": "A federal state, a parliamentary democracy, and a constitutional monarchy"
+    "answer": "A federal state, a Parliamentary democracy, and a constitutional monarchy"
   },
   {
     "id": "q80",
@@ -838,9 +838,9 @@
       "The MP's vote on the prime minister",
       "The governor general with the senators appoints the prime minister",
       "The king appoints the prime minister",
-      "The leader of the party with the most elected members of parliament"
+      "The leader of the party with the most elected members of Parliament"
     ],
-    "answer": "The leader of the party with the most elected members of parliament"
+    "answer": "The leader of the party with the most elected members of Parliament"
   },
   {
     "id": "q84",
@@ -898,7 +898,7 @@
     "options": [
       "Chooses the opposition party",
       "Performs the ceremonial duties of the head of state",
-      "Signs bills to make them law after they have been passed by parliament",
+      "Signs bills to make them law after they have been passed by Parliament",
       "A and C"
     ],
     "answer": "Chooses the opposition party"
@@ -916,12 +916,12 @@
   },
   {
     "id": "q91",
-    "prompt": "Who was Sir George Aien Cartier?",
+    "prompt": "Who was Sir George-Étienne Cartier?",
     "options": [
       "A railway lawyer and Montrealer",
-      "The first French Canadian prime minister",
+      "The first French-Canadian Prime Minister",
       "The first head of a responsible government",
-      "Canada's first prime minister"
+      "Canada's first Prime Minister"
     ],
     "answer": "A railway lawyer and Montrealer"
   },
@@ -930,7 +930,7 @@
     "prompt": "Who is the greatest Canadian hockey player?",
     "options": [
       "Wayne Gretzky",
-      "Mark Tukesbury",
+      "Mark Tewksbury",
       "Donovan Bailey",
       "Terry Fox"
     ],
@@ -1004,7 +1004,7 @@
     "options": [
       "John Alexander Macdonald",
       "Louis Riel",
-      "Sam Steel",
+      "Sam Steele",
       "George-Étienne Cartier"
     ],
     "answer": "Louis Riel"
@@ -1045,7 +1045,7 @@
   {
     "id": "q104",
     "prompt": "Which province was the first to grant voting rights to women?",
-    "options": ["Quebec", "Ontario", "Nova Scotia", "Manitoba"],
+    "options": ["Québec", "Ontario", "Nova Scotia", "Manitoba"],
     "answer": "Manitoba"
   },
   {
@@ -1065,7 +1065,7 @@
     "options": [
       "In her office on Parliament Hill",
       "In some part of Montreal where she was elected",
-      "Visiting the province of Quebec",
+      "Visiting the province of Québec",
       "Going on a vacation"
     ],
     "answer": "In some part of Montreal where she was elected"
@@ -1085,7 +1085,7 @@
     "id": "q108",
     "prompt": "Who is Canada's head of state?",
     "options": [
-      "The premier of Canada",
+      "The Premier of Canada",
       "A hereditary Sovereign (Queen or king)",
       "The governor general",
       "The Prime Minister"
@@ -1123,8 +1123,8 @@
   {
     "id": "q112",
     "prompt": "In which province are more than half of Canada's aeronautics and space industry located?",
-    "options": ["Saskatchewan", "Ontario", "Quebec", "Manitoba"],
-    "answer": "Quebec"
+    "options": ["Saskatchewan", "Ontario", "Québec", "Manitoba"],
+    "answer": "Québec"
   },
   {
     "id": "q113",
@@ -1133,7 +1133,7 @@
       "Canada's greatest soldier in the First World War",
       "A great frontier hero",
       "An explorer of Western Canada",
-      "A military leader of the Matei in the 19th century"
+      "A military leader of the Métis in the 19th century"
     ],
     "answer": "Canada's greatest soldier in the First World War"
   },
@@ -1142,7 +1142,7 @@
     "prompt": "Which province was split into two at Confederation?",
     "options": [
       "Lower Canada",
-      "Newf Finland",
+      "Newfoundland",
       "Upper Canada",
       "The province of Canada"
     ],
@@ -1153,7 +1153,7 @@
     "prompt": "What are the territories of Northern Canada and their capital cities?",
     "options": [
       "Yukon (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)",
-      "Northwest Territories (Yellowknife) and Alaska Juno",
+      "Northwest Territories (Yellowknife) and Alaska (Juneau)",
       "Northwest Territories (Yellowknife)",
       "Alaska (Juneau) and Yukon (Whitehorse)"
     ],
@@ -1161,14 +1161,14 @@
   },
   {
     "id": "q116",
-    "prompt": "What does the word Inuit mean?",
+    "prompt": "What does the word 'Inuit' mean?",
     "options": [
-      "Essimo in the intitute language",
-      "Home in English",
-      "The people in the intitute language",
-      "The Arctic land in the Intitute language"
+      "'Eskimo' in the inuktitut language",
+      "'Home' in English",
+      "'The people' in the inuktitut language",
+      "'The Arctic land' in the inuktitut language"
     ],
-    "answer": "The people in the intitute language"
+    "answer": "The people in the inuktitut language"
   },
   {
     "id": "q117",
@@ -1196,16 +1196,16 @@
     "id": "q119",
     "prompt": "Which provinces are connected to Ontario by land?",
     "options": [
-      "New Brunswick and Quebec",
-      "Alberta and Quebec",
-      "Manitoba and Quebec",
+      "New Brunswick and Québec",
+      "Alberta and Québec",
+      "Manitoba and Québec",
       "Manitoba and Alberta"
     ],
-    "answer": "Manitoba and Quebec"
+    "answer": "Manitoba and Québec"
   },
   {
     "id": "q120",
-    "prompt": "Who do members of parliament represent?",
+    "prompt": "Who do members of Parliament represent?",
     "options": [
       "Everyone who lives in his or her electoral district",
       "Everyone who lives in his or her neighborhood",
@@ -1227,7 +1227,7 @@
   },
   {
     "id": "q122",
-    "prompt": "On what date did Nunovet become a territory?",
+    "prompt": "On what date did Nunavut become a territory?",
     "options": [
       "April 1st, 1999",
       "May 1st, 1998",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": "q124",
-    "prompt": "Which of the following statements accurately describes the Quebec flag known as the Florel?",
+    "prompt": "Which of the following statements accurately describes the Québec flag known as the Fleurdelisé?",
     "options": [
       "It features a white cross with four roses in its quadrants and was adopted in 1948",
       "It features a white cross with four fleur-de-lis in its quadrants and was adopted in 1948",
@@ -1290,7 +1290,7 @@
   {
     "id": "q129",
     "prompt": "Which group of Aboriginal peoples has the largest population in the Northern Territories in Nunovat?",
-    "options": ["Aadians", "Matei", "First Nations", "Inuit"],
+    "options": ["Acadians", "Métis", "First Nations", "Inuit"],
     "answer": "Inuit"
   },
   {
@@ -1307,10 +1307,10 @@
   },
   {
     "id": "q132",
-    "prompt": "What is the significance of the Quebec Act of 1774?",
+    "prompt": "What is the significance of the Québec Act of 1774?",
     "options": [
-      "It allowed Quebec to gain independence",
-      "It allowed the French to move into Quebec",
+      "It allowed Québec to gain independence",
+      "It allowed the French to move into Québec",
       "Canada's tolerance of religious tradition under the law",
       "It gave the French more power"
     ],
@@ -1329,7 +1329,7 @@
   },
   {
     "id": "q134",
-    "prompt": "Who are angophones?",
+    "prompt": "Who are Anglophones?",
     "options": [
       "People who were taught English at school",
       "People who understand but do not speak English",
@@ -1340,7 +1340,7 @@
   },
   {
     "id": "q135",
-    "prompt": "Who were the voyagers?",
+    "prompt": "Who were the Voyageurs?",
     "options": [
       "Montreal-based traders who traveled by canoe",
       "Immigrants to Canada in the 18th century",
@@ -1369,7 +1369,7 @@
   {
     "id": "q138",
     "prompt": "Which group of Aboriginal peoples has the largest population in Canada?",
-    "options": ["Aadians", "First Nations", "Indigenous peoples", "Matei"],
+    "options": ["Acadians", "First Nations", "Indigenous peoples", "Métis"],
     "answer": "First Nations"
   },
   {
@@ -1386,7 +1386,7 @@
   {
     "id": "q140",
     "prompt": "Which province has the most valuable forest industry in Canada?",
-    "options": ["Ontario", "Alberta", "Quebec", "British Columbia"],
+    "options": ["Ontario", "Alberta", "Québec", "British Columbia"],
     "answer": "British Columbia"
   },
   {
@@ -1410,12 +1410,12 @@
     "id": "q143",
     "prompt": "Who among these is a Nobel Prizewinning scientist?",
     "options": [
-      "Ghard Herszburg",
+      "Gerhard Herzberg",
       "Marshall McLuhan",
       "Alexander Graham Bell",
-      "Harold Inis"
+      "Harold Innis"
     ],
-    "answer": "Ghard Herszburg"
+    "answer": "Gerhard Herzberg"
   },
   {
     "id": "q144",
@@ -1480,14 +1480,14 @@
       "West, North, South, East, and Central",
       "West Coast, Central, East, Canadian Shield, and South",
       "Atlantic, North, Central, Prairies, and West Coast",
-      "Rockies, Ontario, Quebec, and Prairies"
+      "Rockies, Ontario, Québec, and Prairies"
     ],
     "answer": "Atlantic, North, Central, Prairies, and West Coast"
   },
   {
     "id": "q151",
     "prompt": "What is the head of the city called?",
-    "options": ["Mayor", "Counselor", "Alderman", "Premier"],
+    "options": ["Mayor", "Councillor", "Alderman", "Premier"],
     "answer": "Mayor"
   },
   {
@@ -1510,23 +1510,23 @@
   {
     "id": "q154",
     "prompt": "Which province is the only officially bilingual province?",
-    "options": ["Ontario", "Quebec", "Nova Scotia", "New Brunswick"],
+    "options": ["Ontario", "Québec", "Nova Scotia", "New Brunswick"],
     "answer": "New Brunswick"
   },
   {
     "id": "q155",
     "prompt": "Where do most French-speaking Canadians live?",
-    "options": ["Nova Scotia", "Quebec", "Ontario", "New Brunswick"],
-    "answer": "Quebec"
+    "options": ["Nova Scotia", "Québec", "Ontario", "New Brunswick"],
+    "answer": "Québec"
   },
   {
     "id": "q156",
     "prompt": "Who started the women's suffrage movement in Canada?",
     "options": [
-      "Agnes McFale",
-      "Laura Seord",
+      "Agnes Macphail",
+      "Laura Secord",
       "Dr. Emily Stowe",
-      "Maline Parent"
+      "Madeleine Parent"
     ],
     "answer": "Dr. Emily Stowe"
   },
@@ -1543,7 +1543,7 @@
   },
   {
     "id": "q158",
-    "prompt": "The Quebec Act of 1774.",
+    "prompt": "The Québec Act of 1774.",
     "options": [
       "Allowed religious freedom for Catholics",
       "Is one of the constitutional foundations of Canada",
@@ -1576,14 +1576,14 @@
   },
   {
     "id": "q161",
-    "prompt": "Which two provinces produce more than 3/4 of Canadian manufactured goods?",
+    "prompt": "Which two provinces produce more than three-quarters of Canadian manufactured goods?",
     "options": [
-      "Quebec and Manitoba",
+      "Québec and Manitoba",
       "British Columbia and Ontario",
-      "Ontario and Quebec",
+      "Ontario and Québec",
       "Alberta and Ontario"
     ],
-    "answer": "Ontario and Quebec"
+    "answer": "Ontario and Québec"
   },
   {
     "id": "q162",
@@ -1605,7 +1605,7 @@
   {
     "id": "q164",
     "prompt": "Which Canadian province is the largest producer of oil and natural gas?",
-    "options": ["Quebec", "Nova Scotia", "Ontario", "Alberta"],
+    "options": ["Québec", "Nova Scotia", "Ontario", "Alberta"],
     "answer": "Alberta"
   },
   {
@@ -1625,15 +1625,15 @@
     "options": [
       "Whichever way you like",
       "Online",
-      "Secret ballot",
-      "Open ballot"
+      "Secret Ballot",
+      "Open Ballot"
     ],
-    "answer": "Secret ballot"
+    "answer": "Secret Ballot"
   },
   {
     "id": "q167",
     "prompt": "Which is the Canadian province with the largest population?",
-    "options": ["Ontario", "Quebec", "Nova Scotia", "Alberta"],
+    "options": ["Ontario", "Québec", "Nova Scotia", "Alberta"],
     "answer": "Ontario"
   },
   {
@@ -1694,7 +1694,7 @@
   },
   {
     "id": "q174",
-    "prompt": "In the 1,960s, Quebec experienced an era of rapid change. What is it called?",
+    "prompt": "In the 1960s, Québec experienced an era of rapid change. What is it called?",
     "options": [
       "The East Movement",
       "The Quiet Revolution",
@@ -1707,12 +1707,12 @@
     "id": "q175",
     "prompt": "Who invented the worldwide system of standard time zones?",
     "options": [
-      "Joseph Armand Bombadier",
-      "Regginald Fessendon",
-      "Sir Sanford Fleming",
+      "Joseph-Armand Bombardier",
+      "Reginald Fessenden",
+      "Sir Sandford Fleming",
       "Alexander Graham Bell"
     ],
-    "answer": "Sir Sanford Fleming"
+    "answer": "Sir Sandford Fleming"
   },
   {
     "id": "q176",
@@ -1730,7 +1730,7 @@
     "id": "q178",
     "prompt": "Who is a premier?",
     "options": [
-      "The prime minister is also called the premier",
+      "The Prime Minister is also called the premier",
       "A premier has a role similar to that of the prime minister in a federal government",
       "The commissioner",
       "The governor general"
@@ -1753,11 +1753,11 @@
     "prompt": "Who is the head of the government in Canada?",
     "options": [
       "The sovereign",
-      "The prime minister",
-      "The premier",
+      "The Prime Minister",
+      "The Premier",
       "The commissioner"
     ],
-    "answer": "The prime minister"
+    "answer": "The Prime Minister"
   },
   {
     "id": "q181",
@@ -1772,7 +1772,7 @@
   },
   {
     "id": "q182",
-    "prompt": "Where have most immigrants come from since the 1970s,?",
+    "prompt": "Where have most immigrants come from since the 1970s?",
     "options": ["Asia", "England", "France", "USA"],
     "answer": "Asia"
   },
@@ -1807,7 +1807,7 @@
       "Dr. Wilder Penfield",
       "Terry Fox",
       "Sir John Alexander Macdonald",
-      "Sir Fleming"
+      "Sir Sandford Fleming"
     ],
     "answer": "Dr. Wilder Penfield"
   },
@@ -1831,14 +1831,14 @@
   {
     "id": "q190",
     "prompt": "Where is the most important harbor in Eastern Canada located?",
-    "options": ["Vancouver", "Yellow Knife", "Halifax", "Quebec"],
+    "options": ["Vancouver", "Yellowknife", "Halifax", "Québec"],
     "answer": "Halifax"
   },
   {
     "id": "q191",
     "prompt": "Who is considered Canada's greatest soldier?",
     "options": [
-      "General Sir Arthur Curry",
+      "General Sir Arthur Currie",
       "Phil Edwards",
       "Sir John Alexander Macdonald",
       "Rick Hansen"
@@ -1915,7 +1915,7 @@
     "id": "q198",
     "prompt": "In Canada's justice system, what does presumption of innocence mean?",
     "options": [
-      "The prime minister can determine who is innocent in a court",
+      "The Prime Minister can determine who is innocent in a court",
       "Everybody is guilty until proven innocent",
       "Everyone is innocent until proven guilty",
       "The judge can determine who is guilty without evidence"
@@ -1975,7 +1975,7 @@
   {
     "id": "q204",
     "prompt": "What is the tenure of the Governor General?",
-    "options": ["Four years", "5 years", "6 years", "7 years"],
+    "options": ["4 years", "5 years", "6 years", "7 years"],
     "answer": "5 years"
   },
   {
@@ -2022,7 +2022,7 @@
     "prompt": "What UN operation did Canada participate in from 1950 to 1953?",
     "options": [
       "Canadian forces defended Hong Kong",
-      "The Canadian Corps captured Vimei Ridge",
+      "The Canadian Corps captured Vimy Ridge",
       "Canada participated in the UN operation defending South Korea in the Korean War",
       "Canadians volunteered to fight in the South African war"
     ],
@@ -2032,7 +2032,7 @@
     "id": "q210",
     "prompt": "From whom are the Acadians descended?",
     "options": [
-      "Matei and Inuit",
+      "Métis and Inuit",
       "First Nations who began settling in what are now the Prairie Provinces in 1600s",
       "British colonists who began settling in what are now the Maritime Provinces in 1604",
       "French colonists who began settling in what are now the Maritime Provinces in 1604"
@@ -2085,7 +2085,7 @@
   },
   {
     "id": "q215",
-    "prompt": "What is the Okonagan Valley famous for?",
+    "prompt": "What is the Okanagan Valley famous for?",
     "options": [
       "Coal mines",
       "Lakes and fishing",
@@ -2118,7 +2118,7 @@
       "Atlantic Canada",
       "Manitoba",
       "Between Ontario and the United States",
-      "Northern Quebec"
+      "Northern Québec"
     ],
     "answer": "Between Ontario and the United States"
   },
@@ -2128,10 +2128,10 @@
     "options": [
       "The sovereign links Canada to 52 other nations and the prime minister is the guardian of constitutional freedoms",
       "The sovereign is the symbol of Canadian sovereignty and the prime minister is his aid",
-      "The sovereign is head of state. The prime minister oversees provincial policies",
-      "The sovereign is the guardian of constitutional freedoms. The prime minister selects the cabinet ministers and is responsible for operations and policy of government"
+      "The sovereign is head of state. The Prime Minister oversees provincial policies",
+      "The sovereign is the guardian of constitutional freedoms. The Prime Minister selects the cabinet ministers and is responsible for operations and policy of government"
     ],
-    "answer": "The sovereign is the guardian of constitutional freedoms. The prime minister selects the cabinet ministers and is responsible for operations and policy of government"
+    "answer": "The sovereign is the guardian of constitutional freedoms. The Prime Minister selects the cabinet ministers and is responsible for operations and policy of government"
   },
   {
     "id": "q220",
@@ -2157,25 +2157,25 @@
   },
   {
     "id": "q222",
-    "prompt": "Who signs the bills if it is approved by the provincial parliament?",
+    "prompt": "Who signs the bills if it is approved by the Provincial Parliament?",
     "options": [
       "The mayor",
-      "The premier",
-      "The members of the provincial parliament",
-      "The lieutenant governor"
+      "The Premier",
+      "The members of the Provincial Parliament",
+      "The Lieutenant-Governor"
     ],
-    "answer": "The lieutenant governor"
+    "answer": "The Lieutenant-Governor"
   },
   {
     "id": "q223",
     "prompt": "What does MPP stand for?",
     "options": [
-      "Member of the provincial parachute",
-      "Member of the provincial police",
-      "Member of the provincial parliament",
-      "Member of the provincial publication"
+      "Member of the Provincial Parachute",
+      "Member of the Provincial Police",
+      "Member of the Provincial Parliament",
+      "Member of the Provincial Publication"
     ],
-    "answer": "Member of the provincial parliament"
+    "answer": "Member of the Provincial Parliament"
   },
   {
     "id": "q224",
@@ -2193,9 +2193,9 @@
     "prompt": "Who was the first prime minister of Canada?",
     "options": [
       "Sir John Alexander Macdonald",
-      "Alexander McKenzie",
+      "Alexander Mackenzie",
       "Pierre Elliot Trudeau",
-      "Sir John Macdonald"
+      "Sir John McDonald"
     ],
     "answer": "Sir John Alexander Macdonald"
   },
@@ -2276,16 +2276,16 @@
     "id": "q234",
     "prompt": "What are the provinces of the Atlantic region?",
     "options": [
-      "Newfoundland, Nova Scotia, New Brunswick, and Quebec",
-      "Nova Scotia, New Brunswick, Prince Edward Island, and Quebec",
+      "Newfoundland, Nova Scotia, New Brunswick, and Québec",
+      "Nova Scotia, New Brunswick, Prince Edward Island, and Québec",
       "Nova Scotia, Newfoundland, New Brunswick, and Prince Edward Island",
-      "New Brunswick, Nova Scotia, Ontario, and Quebec"
+      "New Brunswick, Nova Scotia, Ontario, and Québec"
     ],
     "answer": "Nova Scotia, Newfoundland, New Brunswick, and Prince Edward Island"
   },
   {
     "id": "q235",
-    "prompt": "Why is the Battle of Vimei Ridge important in Canadian history?",
+    "prompt": "Why is the Battle of Vimy Ridge important in Canadian history?",
     "options": [
       "It was the last battle of the First World War",
       "It has come to symbolize Canada's becoming as a nation",
@@ -2397,12 +2397,12 @@
     "id": "q245",
     "prompt": "How many provinces and territories are there in Canada?",
     "options": [
-      "Eight provinces and three territories",
-      "10 provinces and two territories",
-      "Nine provinces and two territories",
-      "10 provinces and three territories"
+      "8 provinces and 3 territories",
+      "10 provinces and 2 territories",
+      "9 provinces and 2 territories",
+      "10 provinces and 3 territories"
     ],
-    "answer": "10 provinces and three territories"
+    "answer": "10 provinces and 3 territories"
   },
   {
     "id": "q246",
@@ -2445,14 +2445,14 @@
   },
   {
     "id": "q250",
-    "prompt": "Who played a key role in defending Canada during the war of 1,812 and led a group of Shauny warriors in support of British soldiers and Canadian volunteers?",
+    "prompt": "Who played a key role in defending Canada during the war of 1812 and led a group of Shawnee warriors in support of British soldiers and Canadian volunteers?",
     "options": [
-      "Major General Sir Isaac Brock",
-      "Lieutenant Colonel Charles Dalibar",
-      "Chief Tecumpsa",
-      "Major General Robert Ross"
+      "Major-General Sir Isaac Brock",
+      "Lieutenant-Colonel Charles de Salaberry",
+      "Chief Tecumseh",
+      "Major-General Robert Ross"
     ],
-    "answer": "Chief Tecumpsa"
+    "answer": "Chief Tecumseh"
   },
   {
     "id": "q251",
@@ -2568,8 +2568,8 @@
   {
     "id": "q262",
     "prompt": "Which province is Canada's largest producer of hydro electricity?",
-    "options": ["British Columbia", "Manitoba", "Ontario", "Quebec"],
-    "answer": "Quebec"
+    "options": ["British Columbia", "Manitoba", "Ontario", "Québec"],
+    "answer": "Québec"
   },
   {
     "id": "q263",
@@ -2586,12 +2586,12 @@
     "id": "q264",
     "prompt": "Which four provinces first formed Confederation?",
     "options": [
-      "Ontario, Quebec, Nova Scotia, and New Brunswick",
-      "Ontario, Newf Finland, Quebec, and Nova Scotia",
+      "Ontario, Québec, Nova Scotia, and New Brunswick",
+      "Ontario, Newfoundland, Québec, and Nova Scotia",
       "Ontario, Nova Scotia, New Brunswick, and British Columbia",
-      "Ontario, Quebec, Manitoba, and Nova Scotia"
+      "Ontario, Québec, Manitoba, and Nova Scotia"
     ],
-    "answer": "Ontario, Quebec, Nova Scotia, and New Brunswick"
+    "answer": "Ontario, Québec, Nova Scotia, and New Brunswick"
   },
   {
     "id": "q265",
@@ -2634,18 +2634,18 @@
   },
   {
     "id": "q269",
-    "prompt": "Who are the Quebecers?",
+    "prompt": "Who are the Québecers?",
     "options": [
       "European settlers in the 1600s",
       "Descendants of the French colonists",
       "Descendants of the Anglophones",
-      "People of Quebec"
+      "People of Québec"
     ],
-    "answer": "People of Quebec"
+    "answer": "People of Québec"
   },
   {
     "id": "q270",
-    "prompt": "Fodimma is a new immigrant to Canada. Why can she choose to take a job like any man?",
+    "prompt": "Fatima is a new immigrant to Canada. Why can she choose to take a job like any man?",
     "options": [
       "Because of the equality between French and English",
       "Because she came from United Kingdom",
@@ -2684,7 +2684,7 @@
   },
   {
     "id": "q274",
-    "prompt": "What is habius corpus?",
+    "prompt": "What is 'Habeas corpus'?",
     "options": [
       "The right to live and work anywhere in Canada",
       "The right for peaceful assembly",
@@ -2736,20 +2736,20 @@
     "id": "q279",
     "prompt": "Who governs Canada on a daily basis at the federal level?",
     "options": [
-      "The premier",
-      "The governor general",
-      "The king",
-      "The prime minister"
+      "The Premier",
+      "The Governor General",
+      "The King",
+      "The Prime Minister"
     ],
-    "answer": "The prime minister"
+    "answer": "The Prime Minister"
   },
   {
     "id": "q280",
     "prompt": "What does the Canadian crown symbolize?",
     "options": [
-      "Amari admare",
+      "A Mari Usque Ad Mare",
       "Symbols of England, France, Scotland, and Ireland",
-      "RCMP, the National Police Force and one of Canada's best known symbols",
+      "RCMP, the National Police Force and one of Canada's best-known symbols",
       "Canada is a constitutional monarchy"
     ],
     "answer": "Canada is a constitutional monarchy"
@@ -2769,12 +2769,12 @@
     "id": "q282",
     "prompt": "Federal elections are carried out to elect?",
     "options": [
-      "The premier",
-      "The prime minister",
-      "The member of parliament",
-      "The senator"
+      "The Premier",
+      "The Prime Minister",
+      "The Member of Parliament",
+      "The Senator"
     ],
-    "answer": "The member of parliament"
+    "answer": "The Member of Parliament"
   },
   {
     "id": "q283",
@@ -2800,9 +2800,9 @@
       "Policing and citizenship",
       "Policing and firefighting",
       "National defense and highways",
-      "Education and healthcare"
+      "Education and health care"
     ],
-    "answer": "Education and healthcare"
+    "answer": "Education and health care"
   },
   {
     "id": "q286",
@@ -2819,12 +2819,12 @@
     "id": "q287",
     "prompt": "Who contributed to the invention of the radio and also sent the world's first wireless voice message?",
     "options": [
-      "Regginald Fessendon",
+      "Reginald Fessenden",
       "Alexander Graham Bell",
-      "Mike Lazeritus",
+      "Mike Lazeridis",
       "Matthew Evans"
     ],
-    "answer": "Regginald Fessendon"
+    "answer": "Reginald Fessenden"
   },
   {
     "id": "q288",
@@ -2856,7 +2856,7 @@
       "National Defense and Foreign Policy",
       "National Defense and Firefighting",
       "Citizenship and maintaining highways",
-      "Healthcare and education"
+      "Health Care and education"
     ],
     "answer": "National Defense and Foreign Policy"
   },
@@ -2895,9 +2895,9 @@
       "The commissioner",
       "The governor general",
       "The lieutenant governor",
-      "A member of parliament"
+      "A Member of Parliament"
     ],
-    "answer": "A member of parliament"
+    "answer": "A Member of Parliament"
   },
   {
     "id": "q296",
@@ -3001,7 +3001,7 @@
     "options": [
       "Commissioners",
       "Members of Parliament or MPs",
-      "Members of the provincial parliament",
+      "Members of the provincial Parliament",
       "None of these"
     ],
     "answer": "Members of Parliament or MPs"
@@ -3065,7 +3065,7 @@
     "id": "q313",
     "prompt": "Who recommended that upper and lower Canada be merged and given a responsible government?",
     "options": [
-      "Sir Guy Carlton",
+      "Sir Guy Carleton",
       "Lord Durham",
       "Sir Louis-Hippolyte La Fontaine",
       "Sir George-Étienne Cartier"
@@ -3085,7 +3085,7 @@
   },
   {
     "id": "q315",
-    "prompt": "What language do more than 3/4 of the people who live in Quebec speak?",
+    "prompt": "What language do more than 3/4 of the people who live in Québec speak?",
     "options": [
       "French is their second language",
       "French as their first language",
@@ -3142,7 +3142,7 @@
   },
   {
     "id": "q322",
-    "prompt": "Who was Sir Sam Steel?",
+    "prompt": "Who was Sir Sam Steele?",
     "options": [
       "A great frontier hero, Mounted Policeman, and soldier of the queen",
       "A military leader of the Métis in the 19th century",
@@ -3161,12 +3161,12 @@
     "id": "q324",
     "prompt": "Who suggested the name Dominion of Canada in 1864?",
     "options": [
-      "Sir Leonard Tilly",
-      "Lord Elgen",
-      "L. Fontaine",
+      "Sir Leonard Tilley",
+      "Lord Elgin",
+      "La Fontaine",
       "Sir John Alexander Macdonald"
     ],
-    "answer": "Sir Leonard Tilly"
+    "answer": "Sir Leonard Tilley"
   },
   {
     "id": "q325",
@@ -3192,7 +3192,7 @@
   },
   {
     "id": "q327",
-    "prompt": "What are the mate people a mixture of?",
+    "prompt": "What are the Métis people a mixture of?",
     "options": [
       "Aboriginal and European ancestry",
       "European and American ancestry",
@@ -3204,7 +3204,7 @@
   {
     "id": "q328",
     "prompt": "In 1996 at the Olympic Games, which Canadian became a world record sprinter and double Olympic gold medalist?",
-    "options": ["Wayne Gretzky", "Leaf Fontaine", "Donovan Bailey", "John Kat"],
+    "options": ["Wayne Gretzky", "La Fontaine", "Donovan Bailey", "John Cabot"],
     "answer": "Donovan Bailey"
   },
   {
@@ -3231,7 +3231,7 @@
   },
   {
     "id": "q331",
-    "prompt": "Which province is connected to mainland Canada by one of the longest continuous multis-span bridges in the world?",
+    "prompt": "Which province is connected to mainland Canada by one of the longest continuous Multispan bridges in the world?",
     "options": [
       "Prince Edward Island",
       "Newfoundland and Labrador",
@@ -3246,18 +3246,18 @@
     "options": [
       "Gabriel Dumont",
       "Matthew Evans and Henry Woodward",
-      "Dr. John A. Hops",
+      "Dr. John A. Hopps",
       "Alexander Graham Bell"
     ],
-    "answer": "Dr. John A. Hops"
+    "answer": "Dr. John A. Hopps"
   },
   {
     "id": "q333",
     "prompt": "What is significant about the number of people living in Ontario?",
     "options": [
-      "They make up two/3s of all Canadians",
-      "They make up 3/4s of all Canadians",
-      "They make up onethird of all Canadians",
+      "They make up two-thirds of all Canadians",
+      "They make up three-fourths of all Canadians",
+      "They make up one-third of all Canadians",
       "They make up half of all Canadians"
     ],
     "answer": "They make up onethird of all Canadians"
@@ -3323,7 +3323,7 @@
     "options": [
       "God Save the Queen or King",
       "O Canada",
-      "O Canada",
+      "Oh Canada",
       "Great Canada"
     ],
     "answer": "O Canada"
@@ -3332,9 +3332,9 @@
     "id": "q340",
     "prompt": "Which of the following people is the father of confederation?",
     "options": [
-      "Steven Harper",
+      "Stephen Harper",
       "Pierre Trudeau",
-      "Alexander McKenzie",
+      "Alexander Mackenzie",
       "Sir John Alexander Macdonald"
     ],
     "answer": "Sir John Alexander Macdonald"
@@ -3353,13 +3353,13 @@
   {
     "id": "q342",
     "prompt": "When was the first representative assembly in Canada elected?",
-    "options": ["1791", "758", "1889", "1609"],
-    "answer": "758"
+    "options": ["1791", "1758", "1889", "1609"],
+    "answer": "1758"
   },
   {
     "id": "q343",
     "prompt": "Which of the following are the provinces responsible for?",
-    "options": ["Defense", "Foreign policy", "Currency", "Education"],
+    "options": ["Defence", "Foreign policy", "Currency", "Education"],
     "answer": "Education"
   },
   {
@@ -3399,12 +3399,12 @@
     "id": "q347",
     "prompt": "What are the three main groups of Aboriginal peoples?",
     "options": [
-      "Matei, Inuit, and United Empire Loyalists",
-      "Aadians, Maidian First Nations",
-      "Early French settlers, Matei and Indian",
-      "Matei First Nations and Inuit"
+      "Métis, Inuit, and United Empire Loyalists",
+      "Acadians, Métis, and First Nations",
+      "Early French settlers, Métis and Indian",
+      "Métis, First Nations and Inuit"
     ],
-    "answer": "Matei First Nations and Inuit"
+    "answer": "Métis, First Nations and Inuit"
   },
   {
     "id": "q348",
@@ -3462,7 +3462,7 @@
     "prompt": "What does official language rights and minority language educational rights mean?",
     "options": [
       "English is more important than French in Canada",
-      "French is more important in Quebec and English is more important in other provinces",
+      "French is more important in Québec and English is more important in other provinces",
       "All languages have equal status in Canada's government",
       "French and English have equal status in Parliament and throughout the government"
     ],
@@ -3478,10 +3478,10 @@
     "id": "q356",
     "prompt": "Who signs the bills to make them law?",
     "options": [
-      "The police chief",
+      "The Police Chief",
       "The Governor General",
-      "The premier",
-      "The prime minister"
+      "The Premier",
+      "The Prime Minister"
     ],
     "answer": "The Governor General"
   },
@@ -3504,7 +3504,7 @@
   },
   {
     "id": "q359",
-    "prompt": "What does a member of parliament do?",
+    "prompt": "What does a Member of Parliament do?",
     "options": [
       "He or she links Canadians to the federal government",
       "He or she represents the king",
@@ -3520,13 +3520,13 @@
       "Sir Ernest MacMillan and Healey Willan",
       "Paul Henderson and Mark Tewksbury",
       "Joy Kogawa, Michael Ondaatje, and Rohinton Mystry",
-      "Emily Carr and Louis Phipe Haybert"
+      "Emily Carr and Louis-Phillipe Hébert"
     ],
     "answer": "Joy Kogawa, Michael Ondaatje, and Rohinton Mystry"
   },
   {
     "id": "q361",
-    "prompt": "Sir Luis Hippolite La Fontaine was known for?",
+    "prompt": "Sir Louis-Hippolyte La Fontaine was known for?",
     "options": [
       "A champion of democracy and Aboriginal rights",
       "A champion of democracy in French language rights and the first leader of a responsible government in the Canadas",
@@ -3582,7 +3582,7 @@
   {
     "id": "q366",
     "prompt": "Who started the Marathon of Hope?",
-    "options": ["Rick Hansen", "James Naymith", "Sir Steel", "Terry Fox"],
+    "options": ["Rick Hansen", "James Naismith", "Sir Steele", "Terry Fox"],
     "answer": "Terry Fox"
   },
   {
@@ -3605,8 +3605,8 @@
   {
     "id": "q369",
     "prompt": "How much of Canadian exports are destined for the USA?",
-    "options": ["Over 1/3", "Over 3/4", "2/3", "Half"],
-    "answer": "Over 3/4"
+    "options": ["Over one-third", "Over three-quarters", "Two-thirds", "Half"],
+    "answer": "Over three-quarters"
   },
   {
     "id": "q370",
@@ -3649,7 +3649,7 @@
   },
   {
     "id": "q374",
-    "prompt": "Which of the following was a key phrase in the British North America Act, Canada's original constitutional document in 1,867?",
+    "prompt": "Which of the following was a key phrase in the British North America Act, Canada's original constitutional document in 1867?",
     "options": [
       "Geopolitical entity",
       "Trade and communications",
@@ -3703,7 +3703,7 @@
     "options": [
       "The government employees",
       "The government",
-      "The prime minister",
+      "The Prime Minister",
       "The people"
     ],
     "answer": "The people"
@@ -3861,12 +3861,12 @@
     "id": "q394",
     "prompt": "Who do Canadians vote for in a federal election?",
     "options": [
-      "A candidate whom they want to represent them in parliament",
+      "A candidate whom they want to represent them in Parliament",
       "All candidates in their electoral district",
       "The best speaker running the election campaign",
       "Someone to become the premier of the province"
     ],
-    "answer": "A candidate whom they want to represent them in parliament"
+    "answer": "A candidate whom they want to represent them in Parliament"
   },
   {
     "id": "q395",
@@ -3922,13 +3922,13 @@
   {
     "id": "q401",
     "prompt": "Where is Canada's largest naval base located?",
-    "options": ["Vancouver", "Quebec City", "Halifax", "Toronto"],
+    "options": ["Vancouver", "Québec City", "Halifax", "Toronto"],
     "answer": "Halifax"
   },
   {
     "id": "q402",
     "prompt": "Which one of the following is the most populated province in Canada?",
-    "options": ["Quebec", "British Columbia", "Ontario", "Alberta"],
+    "options": ["Québec", "British Columbia", "Ontario", "Alberta"],
     "answer": "Ontario"
   },
   {
@@ -3945,8 +3945,8 @@
   {
     "id": "q404",
     "prompt": "Julia is a descendant of French colonists in the maritime province. What is she called?",
-    "options": ["Matei", "Aadian", "Inuit", "Indian"],
-    "answer": "Aadian"
+    "options": ["Métis", "Acadian", "Inuit", "Indian"],
+    "answer": "Acadian"
   },
   {
     "id": "q405",
@@ -3974,12 +3974,12 @@
     "id": "q407",
     "prompt": "Who was the first female member of Parliament?",
     "options": [
-      "Agnes McFale",
-      "Mary and Shad Kerry",
+      "Agnes Macphail",
+      "Mary Ann Shadd Cary",
       "Laura Secord",
-      "Alice Monroe"
+      "Alice Munro"
     ],
-    "answer": "Agnes McFale"
+    "answer": "Agnes Macphail"
   },
   {
     "id": "q408",
@@ -4006,18 +4006,18 @@
   },
   {
     "id": "q411",
-    "prompt": "Name a Canadian heroine who warned James Fitzgibbon of a planned American attack during the War of 1,812?",
+    "prompt": "Name a Canadian heroine who warned James FitzGibbon of a planned American attack during the War of 1812?",
     "options": [
-      "Agnes McFale",
-      "Mary and Shad Kerry",
-      "Laura Seord",
-      "Alice Monroe"
+      "Agnes Macphail",
+      "Mary Ann Shadd Cary",
+      "Laura Secord",
+      "Alice Munro"
     ],
-    "answer": "Laura Seord"
+    "answer": "Laura Secord"
   },
   {
     "id": "q412",
-    "prompt": "In what year did Newf Finland and Labrador join Canada?",
+    "prompt": "In what year did Newfoundland and Labrador join Canada?",
     "options": ["1867", "1955", "1949", "1880"],
     "answer": "1949"
   },
